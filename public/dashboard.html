@@ -18,8 +18,7 @@
   .wrap{max-width:1280px;margin:0 auto;padding:22px 26px 60px}
   header{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:18px}
   .logo{display:flex;align-items:center;gap:14px}
-  .logomark{width:44px;height:44px;border-radius:12px;background:linear-gradient(135deg,var(--cyan),var(--violet));
-    display:flex;align-items:center;justify-content:center;font-weight:800;font-size:15px;color:#071021}
+  .logo img{height:44px;width:auto;display:block;flex-shrink:0}
   h1{font-size:20px;font-weight:700;letter-spacing:-.3px}
   .sub{font-size:12.5px;color:var(--muted);margin-top:2px}
   .badges{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
@@ -104,7 +103,7 @@
 <div class="wrap">
   <header>
     <div class="logo">
-      <div class="logomark">RN</div>
+      <img src="/assets/athena-chiron-logo.png" alt="Athena Chiron">
       <div>
         <h1>CBP Research Network <span style="color:var(--muted);font-weight:400">·</span> <span style="background:linear-gradient(90deg,var(--cyan),var(--violet));-webkit-background-clip:text;background-clip:text;color:transparent">Evidence Engine</span></h1>
         <div class="sub">Real retrieval, real Bayesian synthesis, real citations — 9-paper proof of concept</div>
