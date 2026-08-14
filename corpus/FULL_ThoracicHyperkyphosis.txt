@@ -187,29 +187,43 @@ investigating cervical extension traction for patients with lumbosacral radiculo
 where a control group and a study group both received TENS therapy and hot packs,
 treatments not specific to CBP methods.
 
-Case PtNo. Age M/F Measure initial Post Change F/U No.txts Duration Pre-pain Post-pain
-Fortner 1 32 m T1-12 ARA 55.2° 46.4" 9.2° nja 36 13 wks 5 1
-Fortner 1 27 z T2-12 ARA 67.0° 55.4" 12.4" nfa 30 26 wks 6 1
-Miller 1 15 f T1-12 ARA 713° 54.3° 17.0" na 94 56 wks 2 1
-Jaeger 1 24 f T2-11 ARA 64.9" 42.0° 22.9" 8.5m 48 28 wks 6 1
-Oakley i 31 m Ti-12 ARA 61.6" 47.1" 145" nf/a 22 4wks O 0
-Oakley 2 68 m T1-12 ARA 60.8" 45.9" 149° | nfa 36 12 wks 1 1
-Oakley 3 4 f Ti-12ARA 68.6" 63.3° 5.3" nfa 2 Awks 7 o
-Oakley 4 20 f T1-12 ARA 515° 42.1" 9.4" n/a 24 8 wks 6 1
-Oakley 5 33 m 1-12 ARA 50.4° 46.4" 4.0° nja 36 12 wks 1 1
-Oakley 6 67 m Ti-12 ARA 76.9" 47.3" 29.6" n/a 36 12 wks 2 1
-Oakley 7 63 m T1-12 ARA 52.5° 45.0° 75° nfa 12 4 wks 6 2
-Oakley 8 44 f T1-12 ARA 54.5° 45.9° 8.6" nfa 24 B wks 3 a
-Oakley 9 22 m Ti-12 ARA 65.0° 58.8" 6.2° nfa 36 12 wks 7 2
-Oakley 10 24 f T1-12 ARA 64.9" 52.0° 12.9° | n/a 24 14 wks 6 Qo
-Fedorchuk 1 43 m T3-10ARA 56.9" 50.0° 6.9° nfa 30 10 wks 5 nr
-Fedorchuk 2 42 m 3-10 ARA 62.1° 48.0° 14.1" nfa 30 10 wks nr njr
-Fedorchuk 3 55 f 2-11 ARA 60.4" 49.2° 11.2" n/a 30 10 wks nfr n/r
+[Table 2 — corrected transcription, verified directly against the source PDF page image on 2026-08-14, replacing an earlier badly-garbled OCR pass. Summary of data from CBP cases documenting the reduction of thoracic kyphosis in patients treated for thoracic hyperkyphosis deformity subluxation. Columns: Case (author), Patient No., Age, sex, Measure, Initial value, Post value, Change, Follow-up, No. treatments, Duration, Pre-pain, Post-pain.]
 
-Average n=17 38.2 8f/9m 61.4" 49.4" 12.2° 32.4 143wks 4.2 11
+Fortner, patient 1: age 32, male. T1-12 ARA. Initial 55.2°, post 46.4° (9.2° change). Follow-up: n/a. 36 treatments over 13 weeks. Pain 5 to 1.
 
-Table 2. Summary of data from CBP cases documenting the reduction of thoracic
-kyphosis in patients treated for thoracic hyperkyphosis deformity subluxation.
+Fortner, patient 1 (second case): age 27, female. T2-12 ARA. Initial 67.0°, post 55.4° (12.4° change). Follow-up: n/a. 30 treatments over 26 weeks. Pain 6 to 1.
+
+Miller, patient 1: age 15, female. T1-12 ARA. Initial 71.3°, post 54.3° (17.0° change). Follow-up: n/a. 94 treatments over 56 weeks. Pain 2 to 1.
+
+Jaeger, patient 1: age 24, female. T2-11 ARA. Initial 64.9°, post 42.0° (22.9° change). Follow-up: 8.5 months. 48 treatments over 28 weeks. Pain 6 to 1.
+
+Oakley, patient 1: age 31, male. T1-12 ARA. Initial 61.6°, post 47.1° (14.5° change). Follow-up: n/a. 12 treatments over 4 weeks. Pain 0 to 0.
+
+Oakley, patient 2: age 68, male. T1-12 ARA. Initial 60.8°, post 45.9° (14.9° change). Follow-up: n/a. 36 treatments over 12 weeks. Pain 1 to 1.
+
+Oakley, patient 3: age 34, female. T1-12 ARA. Initial 68.6°, post 63.3° (5.3° change). Follow-up: n/a. 12 treatments over 4 weeks. Pain 7 to 0.
+
+Oakley, patient 4: age 20, female. T1-12 ARA. Initial 51.5°, post 42.1° (9.4° change). Follow-up: n/a. 24 treatments over 8 weeks. Pain 6 to 1.
+
+Oakley, patient 5: age 33, male. T1-12 ARA. Initial 50.4°, post 46.4° (4.0° change). Follow-up: n/a. 36 treatments over 12 weeks. Pain 1 to 1.
+
+Oakley, patient 6: age 67, male. T1-12 ARA. Initial 76.9°, post 47.3° (29.6° change). Follow-up: n/a. 36 treatments over 12 weeks. Pain 2 to 1.
+
+Oakley, patient 7: age 63, male. T1-12 ARA. Initial 52.5°, post 45.0° (7.5° change). Follow-up: n/a. 12 treatments over 4 weeks. Pain 6 to 2.
+
+Oakley, patient 8: age 44, female. T1-12 ARA. Initial 54.5°, post 45.9° (8.6° change). Follow-up: n/a. 24 treatments over 8 weeks. Pain 3 to 4.
+
+Oakley, patient 9: age 22, male. T1-12 ARA. Initial 65.0°, post 58.8° (6.2° change). Follow-up: n/a. 36 treatments over 12 weeks. Pain 7 to 2.
+
+Oakley, patient 10: age 24, female. T1-12 ARA. Initial 64.9°, post 52.0° (12.9° change). Follow-up: n/a. 24 treatments over 14 weeks. Pain 6 to 0.
+
+Fedorchuk, patient 1: age 49, male. T3-10 ARA. Initial 56.9°, post 50.0° (6.9° change). Follow-up: n/a. 30 treatments over 10 weeks. Pain 5 to n/r.
+
+Fedorchuk, patient 2: age 42, male. T3-10 ARA. Initial 62.1°, post 48.0° (14.1° change). Follow-up: n/a. 30 treatments over 10 weeks. Pain n/r to n/r.
+
+Fedorchuk, patient 3: age 55, female. T2-11 ARA. Initial 60.4°, post 49.2° (11.2° change). Follow-up: n/a. 30 treatments over 10 weeks. Pain n/r to n/r.
+
+Average across all 17 cases in Table 2: age 38.2 (8 female, 9 male). ARA initial 61.4°, post 49.4° (12.2° change). 32.4 treatments over 14.3 weeks. Pain 4.2 to 1.1.
 ===PAGE:pg-06.txt===
  
 

@@ -64,12 +64,12 @@ pediatric patients.
 Results: Our search found 11 pediatric patient cases reported in 10 publications. The average age was 8.8
 years (5-13yrs), and included 8 males and 3 females. Number of treatments averaged 34.5 over a duration of
 4.6 months. On post-treatment lateral cervical radiographs, there was an average 25° increase in lordosis, a
-12.3' increase in atlas plane line, and a 7.2mm reduction in anterior head translation. There was an average
+12.3° increase in atlas plane line, and a 7.2mm reduction in anterior head translation. There was an average
 
-6. point improvement in pain severity. The range of primary complaints documented to be improved after
+6.9 point improvement in pain severity [corrected from OCR misread "6." — verified against source PDF page 2 image on 2026-08-14]. The range of primary complaints documented to be improved after
 treatment included: asthma, attention deficit hyperactivity disorder (ADHD), concentration difficulty,
 dizziness, headaches, neck pain, neck stiffness, nocturnal enuresis, otitis media and whiplash associated
-disorder. Six of 11 (55%) cases reported details of long-term follow-up, ranging from 3 months to 15 years
+disorder. Six of 11 (55%) cases reported details of long-term follow-up, ranging from 3 months to 1.5 years [corrected from OCR misread "15 years" — verified against source PDF page 2 image on 2026-08-14]
 after treatment. Most of the cases reporting a post-treatment follow-up lacked sufficient details of follow-
 up outcomes, The methodological quality of reports varied.
 
@@ -182,6 +182,32 @@ on the numerical rating scale.
 Table 1. Details from pediatric case reports on CBP extension traction methods to
 increase cervical lordosis.
 
+[Table 1 — corrected transcription, verified directly against the source PDF page image on 2026-08-14, replacing an earlier pass where this table's row data had been dropped entirely by OCR. Source scan resolution is limited; treat individual-cell values as best-effort and verify against the original PDF before citing exact figures. Columns: Author, Year, Journal, Primary complaint, Age, sex, No. treatments, Treatment duration, Pre-post ARA (C2-7 absolute rotation angle), ARA increase, age-appropriate norm, Diff to norm, Pre-post APL (atlas plane line), APL increase, Pre-post AHT (anterior head translation), AHT reduction, Pre-post pain, Pain reduction, Other outcomes, Follow-up time.]
+
+Norton (2022, JPTS): Headaches. Age 10, male. 18 treatments over 1.0 month. ARA -2.3° to -25.2° (22.9° increase). Age-appropriate norm -22.7°, diff to norm +2.5°. APL -12.3° to -22.0° (9.7° increase). AHT 5.1mm to 5.1mm (0mm reduction). Pain 9/2 (7 reduction). Other outcomes: resolution of headaches; 9.3° C3-5 kyphosis converted to lordosis. Follow-up: 1.4 years. [low-confidence transcription — verify against source PDF]
+
+Chu (2021, Additional Health & Medical Therapies): Dizziness. Age 11, female. 72 treatments over 12 months. ARA +22° to -9° (31° increase). Age-appropriate norm -14.8°, diff to norm -5.9°. APL N/R. AHT N/R. Pain 6/0 (6 reduction). Other outcomes: resolved dizziness, neck pain. Follow-up: 6 months. [low-confidence transcription — verify against source PDF]
+
+Norton case series (2020, APCJ), case 1: Neck pain/stiffness. Age 5, male. 18 treatments over 1.0 month. ARA -5.6° to -29.1° (23.7° increase). Age-appropriate norm -27.8°, diff to norm +1.3°. APL -20.1° to -27.9° (7.8° increase). AHT 2.4mm to -5.7mm (8.1mm reduction). Pain N/R. Other outcomes: resolved pain/stiffness. Follow-up: none reported. [low-confidence transcription — verify against source PDF]
+
+Norton case series (2020, APCJ), case 2: Neck stiffness, concentration difficulty. Age 6, male. 18 treatments over 1.9 months. ARA +0.7° to -36.8° (35.5° increase). Age-appropriate norm -26.0°, diff to norm +8.2°. APL -5.8° to -23.0° (17.2° increase). AHT 3.4mm to 1.5mm (1.9mm reduction). Pain N/R. Other outcomes: resolved stiffness, improved concentration. Follow-up: none reported. [low-confidence transcription — verify against source PDF]
+
+Fedorchuk (2019, JCC): Nocturnal enuresis and pain. Age 7, male. 21 treatments over 1.75 months. ARA -9.9° to -21.1° (2.2° increase, as printed — this small figure may reflect a partial-course measurement, treat with caution). Age-appropriate norm -23.8°, diff to norm -2.3°. APL N/R. AHT 11.7mm to 6mm (5.7mm reduction). Pain N/R. Other outcomes: resolved pain, nocturnal enuresis, improved PQLI. Follow-up: 8 months. [low-confidence transcription — verify against source PDF]
+
+Underhill (2018, JPMFH): Whiplash-associated disorder (WAD). Age 13, female. 20 treatments over 4 months. ARA +7° to -23° (30° increase). Age-appropriate norm -25.3°, diff to norm -2.3°. APL -10° to -20° (10° increase). AHT 20mm to 6mm (14mm reduction). Pain 7/0 (7 reduction). Other outcomes: resolution of symptoms. Follow-up: 11 months. [low-confidence transcription — verify against source PDF]
+
+Fedorchuk (2014, JPMFH): Asthma. Age 11, female. 27 treatments over 1.5 months. ARA -38.7° to -43.5° (4.8° increase). Age-appropriate norm -23.8°, diff to norm +19.7°. APL -19.2° to -31.4° (12.2° increase). AHT 27.8mm to 11.7mm (10.1mm reduction). Pain N/R. Other outcomes: improved breathing, sinuses, skin problems & leg cramps. Follow-up: none reported. [low-confidence transcription — verify against source PDF]
+
+Oakley (2011, JPMFH): Chronic headaches. Age 8, male. 86 treatments over 1.7 years. ARA -30.1° to -25.6° (4.5° increase, as printed — may reflect measurement variance, treat with caution). Age-appropriate norm -22.5°, diff to norm +3.1°. APL -21.8° to N/R. AHT N/R. Pain 6-10/0 (6-10 reduction). Other outcomes: cervical curve changed from S-shape to lordotic shape; resolved headaches and associated symptoms. Follow-up: none reported. [low-confidence transcription — verify against source PDF]
+
+Fedorchuk (2009, JPMFH): Otitis media and headaches. Age 8, female. 29 treatments over 3 months. ARA -6.9° to -31.9° (25° increase). Age-appropriate norm -22.5°, diff to norm +9.4°. APL approx. -8° to -4.7° (direction as printed is unclear, treat with caution) (9° increase). AHT 5.0mm to 5.6mm (0mm reduction). Pain N/R. Other outcomes: resolved headaches, sinus infections, neck pain & headaches. Follow-up: 1 year. [low-confidence transcription — verify against source PDF]
+
+Fedorchuk (2009, JPMFH), second case: Headaches. Age 13, female, number of treatments not reported. 18 months duration. ARA -3.8° to -43.4° (39.6° increase). Age-appropriate norm -25.3°, diff to norm +18.1°. APL -16.7° to -35.5° (18.8° increase). AHT 29.0mm to 17.6mm (13mm reduction). Pain 9-9/0 (9-9 reduction). Other outcomes: resolution of headaches. Follow-up: none reported. [low-confidence transcription — verify against source PDF]
+
+Basteki (2005, JMPT): ADHD. Age 5, male. 35 treatments over 2 months. ARA +12° to -32° (44° increase). Age-appropriate norm -27.8°, diff to norm +4.2°. APL -8° to -2.2° (14° increase). AHT N/R. Pain N/R. Other outcomes: resolution of ADHD and facial tics, discontinued medication. Follow-up: 3 months. [low-confidence transcription — verify against source PDF]
+
+Average across all 11 pediatric cases in Table 1: age 8.8 years (8 male, 3 female), 34.4 treatments over 4.6 months. ARA pre/post approx. -4.1°/-29.0° (24.9° increase). The three headline averages — 25° increase in lordosis (ARA), 12.3° increase in APL, 7.2mm reduction in AHT, and 6.9-point pain improvement — are independently confirmed by this paper's prose Results paragraph and should be treated as the reliable figures; the printed average row in the source table image is too small to read every sub-value with full confidence.
+
 Note: *Indicates C2-7 Cobb; **Indicates age appropriate normal!2; AHT: anterior head translation; ARA: C2-7 absolute
 rotation angle (posterior tangents); APL: atlas plane line; f/u: follow-up; m: months; m/y: male/female; n/r: not reported;
 Txt: treatment; y: years. ‘Diff to norm’ indicates post-treatment lordosis difference to age appropriate norm (‘+ = over-
@@ -202,12 +228,19 @@ was universally reported to be maintained.
 
  
 
-Wee WE Ffu No. Txt PostARA) MRA PostAPl) AR PostANI/ | AHI Postpain/ Pan
-time Tots Freq fMARA dt TUL lif {fu AKT sf ffupsin dif
+[Table 2 — corrected transcription, verified directly against the source PDF page image on 2026-08-14, replacing an earlier badly-garbled OCR pass. Details of cases reporting a post-treatment long-term follow-up. Source scan resolution is limited; treat individual-cell values as best-effort. Columns: Author, Year, Primary complaint, Age, sex, Follow-up time, No. treatments, Treatment frequency, Post-ARA / follow-up ARA, ARA difference, Post-APL / follow-up APL, APL difference, Post-AHT / follow-up AHT, AHT difference, Post-pain / follow-up pain, Pain difference.]
 
-10 may 17 tim asa * nt Sdmm/i2imm +7.Lenm
+Norton (2022): Headaches. Age 10, male. Follow-up 1.4 years. 17 treatments, 1x/month. ARA -25.2° to -23.8° (+1.4° difference). APL N/R. AHT 5.1mm to 12.1mm (+7.1mm difference). Pain 2 to N/R. [low-confidence transcription — verify against source PDF]
 
-      
+Chu (2021): Dizziness. Age 11, female. Follow-up 6 months. 0 treatments in the follow-up period. ARA -9° to N/R. APL N/R. AHT N/R. Pain 0 to 0 (0 difference). [low-confidence transcription — verify against source PDF]
+
+Fedorchuk (2019): Nocturnal enuresis and pain. Age 7, male. Follow-up 4 months. 8 treatments, 2x/month. ARA -21.2° to N/R. APL N/R. AHT 6mm to N/R. Pain N/R. [low-confidence transcription — verify against source PDF]
+
+Underhill (2018): WAD. Age 13, sex printed as male in this follow-up table though Table 1 lists the same case as female — likely a typesetting inconsistency in the original paper, not an OCR error; noted for caution. Follow-up 11 months. 5 treatments, 1x/2 months. ARA -23° to -13° (+10° difference). APL -20° to -15° (+5° difference). AHT 6mm to 19mm (+13mm difference). Pain 0 to 1.5 (+1.5 difference). [low-confidence transcription — verify against source PDF]
+
+Fedorchuk (2009): Otitis media and headaches. Age 8, female. Follow-up 1 year. Treatments not reported. ARA -31.9° to N/R. APL -17° to N/R. AHT 5.6mm to N/R. Pain N/R. [low-confidence transcription — verify against source PDF]
+
+Basteki (2005): ADHD. Age 5, male. Follow-up 3 months. 0 treatments in the follow-up period. ARA -32° to N/R. APL -22° to N/R. AHT N/R. Pain N/R. [low-confidence transcription — verify against source PDF]
 
 Table 2. Details of cases reporting a post-treatment long-term follow-up.
 ===PAGE:pg-07.txt===

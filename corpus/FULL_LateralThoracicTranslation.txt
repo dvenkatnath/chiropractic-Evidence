@@ -180,25 +180,23 @@ searching journals, references or contacting case report authors.
 
  
 
-Primary No. Txt Pre-post Txt —Pre-post Dangle Pre-post LSangle Pre-post Pain ‘Other thu
-Author Year Journal_complaint Age m/f Txts duration et reduction LD angle reduction _LSangle reduction pain reduction outcomes time
-Woodham 2021 JCC Degenerative 63 m 24 5.5m +17.Jmmj+4.8mm 125mm N/R NR NR NR 7/2 5 Case 2: Lessdisability&SF36 no
-(series) discdisease “60 m 42 45m -40mm/-7mm 33mm N/R NR NR NR = (2/0 2 Case 5: Less disability & SF36 no
-Anderson 2019 JPTS Parkinson's *59 m 38 4m -12.8mm/-2.4mm 104mm —N/R NR NR NR 6/2 4 Improved gait, balance, hand 1.75y
+[Table 1 — corrected transcription, verified directly against the source PDF page image on 2026-08-14, replacing an earlier badly-garbled OCR pass. Details of case reports showing reduction of lateral thorax translation postures in the treatment of various lumbar spine disorders. Columns: Author, Year, Journal, Primary complaint, Age, sex, No. treatments, Treatment duration, Pre-post TxT (lateral thoracic translation), TxT reduction, Pre-post LD angle, LD angle reduction, Pre-post LS angle, LS angle reduction, Pre-post pain, Pain reduction, Other outcomes, Follow-up time.]
 
-tremors, back & knee pain, SF-36
+Woodham case series (2021, JCC), case 2: Degenerative disc disease. Age 63, male. 24 treatments over 5.5 months. TxT +17.7mm to +4.8mm (12.5mm reduction). LD angle N/R. LS angle N/R. Pain 7/2 (5 reduction). Other outcomes: less disability & SF-36. Follow-up: none reported.
+
+Woodham case series (2021, JCC), case 5: Degenerative disc disease. Age 60, male. 42 treatments over 4.5 months. TxT -40mm to -7mm (33mm reduction). LD angle N/R. LS angle N/R. Pain 2/0 (2 reduction). Other outcomes: less disability & SF-36. Follow-up: none reported.
+
+Anderson (2019, JPTS): Parkinson's. Age 59, male. 38 treatments over 4 months. TxT -12.8mm to -2.4mm (10.4mm reduction). LD angle N/R. LS angle N/R. Pain 6/2 (4 reduction). Other outcomes: improved gait, balance, hand tremors, back & knee pain, SF-36. Follow-up: 1.75 years.
 
  
 
-Henshaw 2018 JPTS lowback 29 f 36 3m +20.3mm/S.6mm 25.6mm +17°-15' 0.2" 82/4879" 10.1" 4/2 2 Reduced disability no
-pain
-Jaeger 2014 AVSR Urinary 63 f «22 © 2m +46.8mm/+6.4mm 40.4mm +10.6'/+19.9° 93° -703°/-81.0° 10.77 N/R NR Resolution of incontinence, no
-incontinence neck & low back pains
-Oakley 2007 JVSR Post-surgical 35 m 36 3m = +16mm/-Imm_ 17mm NR NR NR NR 8/2 6 Reduced low back pain, T5y
-laminectomy leg pain & disability
-Average 52 4m 33 3.7m 256mm/4smm 232mm 61/08 48° 762/e45° 104 Safle 38
+Henshaw (2018, JPTS): Low back pain. Age 29, female. 36 treatments over 3 months. TxT +20.3mm to -5.6mm (25.6mm reduction). LD angle +1.7° to -1.5° (0.2° reduction). LS angle reported in source as approx. -8.2° to 87.9° (10.1° reduction) — this specific cell is low-confidence, verify against source PDF before citing. Pain 4/2 (2 reduction). Other outcomes: reduced disability. Follow-up: none reported.
 
-2
+Jaeger (2014, AVSR): Urinary incontinence. Age 63, female. 22 treatments over 2 months. TxT +46.8mm to +6.4mm (40.4mm reduction). LD angle +10.6° to +19.9° (angle increased by 9.3°, not reduced). LS angle -70.3° to -81.0° (10.7° reduction). Pain N/R. Other outcomes: resolution of incontinence, neck & low back pains. Follow-up: none reported.
+
+Oakley (2007, JVSR): Post-surgical laminectomy. Age 35, male. 36 treatments over 3 months. TxT +16mm to -1mm (17mm reduction). LD angle N/R. LS angle N/R. Pain 8/2 (6 reduction). Other outcomes: reduced low back pain, leg pain & disability. Follow-up: 0.75 years.
+
+Average across the 6 case reports in Table 1: age 52 (4 male, 2 female), 33 treatments over 3.7 months. TxT pre/post 25.6mm/4.5mm (23.2mm reduction). LD angle pre/post 6.1°/10.8° (4.8° reduction). LS angle pre/post 76.2°/84.5° (10.4° reduction). Pain pre/post 5.4/1.6 (3.8 reduction).
 
 Table 1. Details of case reports showing reduction of lateral thorax translation
 postures in the treatment of various lumbar spine disorders.

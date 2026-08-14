@@ -189,34 +189,37 @@ There were no adverse events reported.
 
  
 
-Primary No. Txt Pre-post TxH —Pre-post CDangle Pre-post Rzangle Pre-post Pain Other tfu
-Author Year Journal complaint _Age m/f Txts duration Txt reduction CD angle reduction _Rzangle reduction pain _ reduction outcomes time
-Berry 2020 ICC Trigeminal 64 m 36 3m +7mmjomm = 7mm N/R NR NR NR 7 0 Improved symptoms with 2y
-neuralgia sagittal improvements
-Radcliffe 2019 AVSR Cervical 9 49 m 72 6m —-36.9mm/-11.8mm 25.1mm +14°/N/R N/R +9.2°/N/R N/R 72 5 Resolved hand numbness, .83y
-radiculopathy headaches & vertigo
-Spriggs 2019 AVSR Chronic «35 m 24 «2m = -98.9mm/-3.7mm 62mm N/R NR NR NR 8/0 8 Resolved migraines, reduced _6y
-migraine disability
-Haas 2019 KC Cervical «59 f «24 «2m = -18.7mm/-4.8mm 139mm -12/-43° 7.77 6.4728" 36" N/R 90% reduction in dystonia 1.5y
-dystonia symptoms, pain, disability
-Breton 2019 JCC Carpaltunnel 29 m 33 3.25m +11mm/+5.5mm 5.5mm -4.9°/-6.1° -12" +4.4°/43.6" 0.8" 5/0 5 Resolution of CTS, improved no
-syndrome SF-36
-Anderson 2019 JPTS Parkinson's 59 m 38 5m -62.7mm/46.0mm 16.7mm -4.8/-2.2" 2.6" +15.6°/+115° 41° 6/2 4 Improved gait, balance, hand 1.75y
-tremors, back & knee pain, SF-36
-Oakley 2018 JPTS Post-surgical 56 f 25 0.5m -28mm/-13mm 15mm -3*/N/R N/R +11°/N/R_ N/R 6/ 5 Improved pain, headache, 14y
-fusion disability & SF-36
-Jaeger 2018 JPTS) = TM), «24 f 36) 3m -19mm/-1.3mm 17.7mm 6.2/2.8" 98ST BS! 42 2 Resolved disability, normalized no
-dysfunction TMU vibration analysis
-Berry 2017 AVSR Chronic «55 f «36 © «3m = -14mm/Omm = 14mm_— N/R NR NAR NR s/t 4 Resolved headaches, 10
-headaches neck disability
-Fedorchuk 2017 AVSR Postsurgical 43 f 36 3m = -6mm/-L4mm 4.6mm +4.7%/+15" 3.2" +1.3°/0? 13" N/R NUR Improved migraines, no
-fusion pain, ADL
-Berry 2017 CIA Cervical. «57 -m 36 «3m = -15mm/+3.9mm 189mm -2.9%/-2.2° 0.77 44.50" 45° 6/05 5.5_—Resolutionof neck pain, hand no
-radiculopathy numbness & hand strength
-Fedorchuk 2016 AVSR Multiple 58 f 30 25m +16.2mm/-0.8mm 17mm +8.6%/+4.2" 44° -6.2°/-0.8" 5.4" N/R_—N/R_Increasedlung function, grip no
-sclerosis strength & thermography
-Cardwell 2014 AVSR Chronic 34 m 33° 9m © -22mm/s6mm = -28mm_— N/R NR NR N/R =-N/R_—N/R_—Improvedheadaches, sinus no
-headaches & respiratory symptoms
+[Table 1 — corrected transcription, verified directly against the source PDF page image on 2026-08-14, replacing an earlier badly-garbled OCR pass. Details of case reports showing reduction of lateral head postures in the treatment of various cranio-cervical disorders. Columns: Author, Year, Journal, Primary complaint, Age, sex, No. treatments, Treatment duration, Pre-post TxH (lateral head translation), TxH reduction, Pre-post CD angle, CD angle reduction, Pre-post Rz angle, Rz angle reduction, Pre-post pain, Pain reduction, Other outcomes, Follow-up time.]
+
+Berry (2020, JCC): Trigeminal neuralgia. Age 64, male. 36 treatments over 3 months. TxH +7mm to 0mm (7mm reduction). CD angle N/R. Rz angle N/R. Pain 7/7 (0 reduction). Other outcomes: improved symptoms with sagittal improvements. Follow-up: 2 years.
+
+Radcliffe (2019, AVSR): Cervical radiculopathy. Age 49, male. 72 treatments over 6 months. TxH -36.9mm to -11.8mm (25.1mm reduction). CD angle +1.4° to N/R. Rz angle +9.2° to N/R. Pain 7/2 (5 reduction). Other outcomes: resolved hand numbness, headaches & vertigo. Follow-up: 0.83 years.
+
+Spriggs (2019, AVSR): Chronic migraine. Age 35, male. 24 treatments over 2 months. TxH -9.9mm to -3.7mm (6.2mm reduction). CD angle N/R. Rz angle N/R. Pain 8/0 (8 reduction). Other outcomes: resolved migraines, reduced disability. Follow-up: 0.6 years.
+
+Haas (2019, JCC): Cervical dystonia. Age 59, female. 24 treatments over 2 months. TxH -18.7mm to -4.8mm (13.9mm reduction). CD angle -12° to -4.3° (7.7° reduction). Rz angle +6.4° to +2.8° (3.6° reduction). Pain N/R. Other outcomes: 90% reduction in dystonia symptoms, pain, disability. Follow-up: 1.5 years.
+
+Breton (2019, JCC): Carpal tunnel syndrome. Age 29, male. 33 treatments over 3.25 months. TxH +11mm to +5.5mm (5.5mm reduction). CD angle -4.9° to -6.1° (-1.2° change). Rz angle +4.4° to +3.6° (0.8° reduction). Pain 5/0 (5 reduction). Other outcomes: resolution of CTS, improved SF-36. Follow-up: none reported.
+
+Anderson (2019, JPTS): Parkinson's. Age 59, male. 38 treatments over 5 months. TxH -62.7mm to 46.0mm (16.7mm reduction). CD angle -4.8° to -2.2° (2.6° reduction). Rz angle +15.6° to +11.5° (4.1° reduction). Pain 6/2 (4 reduction). Other outcomes: improved gait, balance, hand tremors, back & knee pain, SF-36. Follow-up: 1.75 years.
+
+Oakley (2018, JPTS): Post-surgical fusion. Age 56, female. 25 treatments over 0.5 months. TxH -28mm to -13mm (15mm reduction). CD angle -3° to N/R. Rz angle +11° to N/R. Pain 6/1 (5 reduction). Other outcomes: improved pain, headache, disability & SF-36. Follow-up: 14 years.
+
+Jaeger (2018, JPTS): TMJ dysfunction. Age 24, female. 36 treatments over 3 months. TxH -19mm to -1.3mm (17.7mm reduction). CD angle -6.2° to +2.8° (9° change). Rz angle +6.8° to -1.7° (8.5° reduction). Pain 4/2 (2 reduction). Other outcomes: resolved disability, normalized TMJ vibration analysis. Follow-up: none reported.
+
+Berry (2017, AVSR): Chronic headaches. Age 55, female. 36 treatments over 3 months. TxH -14mm to 0mm (14mm reduction). CD angle N/R. Rz angle N/R. Pain 5/1 (4 reduction). Other outcomes: resolved headaches, neck disability. Follow-up: none reported.
+
+Fedorchuk (2017, AVSR): Post-surgical fusion. Age 43, female. 36 treatments over 3 months. TxH -6mm to -1.4mm (4.6mm reduction). CD angle +4.7° to +1.5° (3.2° reduction). Rz angle +1.3° to 0° (1.3° reduction). Pain N/R. Other outcomes: improved migraines, pain, ADL. Follow-up: none reported.
+
+Berry (2017, CJA): Cervical radiculopathy. Age 57, male. 36 treatments over 3 months. TxH -15mm to +3.9mm (18.9mm reduction). CD angle -2.9° to -2.2° (0.7° reduction). Rz angle +4.5° to 0° (4.5° reduction). Pain 6/0.5 (5.5 reduction). Other outcomes: resolution of neck pain, hand numbness & hand strength. Follow-up: none reported.
+
+Fedorchuk (2016, AVSR): Multiple sclerosis. Age 58, female. 30 treatments over 2.5 months. TxH +16.2mm to -0.8mm (17mm reduction). CD angle +8.6° to +4.2° (4.4° reduction). Rz angle -6.2° to -0.8° (5.4° reduction). Pain N/R. Other outcomes: increased lung function, grip strength & thermography. Follow-up: none reported.
+
+Cardwell (2014, AVSR): Chronic headaches. Age 34, male. 33 treatments over 9 months. TxH -22mm to +6mm (28mm reduction). CD angle N/R. Rz angle N/R. Pain N/R. Other outcomes: improved headaches, sinus & respiratory symptoms. Follow-up: none reported.
+
+Ferrucci (2010, JVSR): Tourette's. Age 45, male. 108 treatments over 12 months. TxH -22mm to -6mm (16mm reduction). CD angle -20° to -8.5° (11.5° reduction). Rz angle +16° to +5.0° (11° reduction). Pain N/R. Other outcomes: reduced tremors, increased energy. Follow-up: none reported.
+
+Average across the 14 case reports in Table 1: age 48 (8 male, 6 female), 41 treatments over 4.1 months. TxH pre/post 20.6mm/7.4mm (17.7mm reduction). CD angle pre/post 6.9°/4.0° (4.7° reduction). Rz angle pre/post 8.1°/3.2° (4.9° reduction). Pain pre/post 6/1.7 (4.3 reduction).
 Ferrucci 2010 JVSR Tourette's. 45 m 108 12m = -22mm/-6mm 16mm -207/-8.5" 115" +16"/45.0" 11" N/R N/R Reduced tremors, 0
 increased enerey
 ‘Average 48 8m 41 4.1m 20.6mm/7.4mm 177mm 6.97/40" 47° 81/32 49 6/17 43

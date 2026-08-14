@@ -408,7 +408,6 @@ fetch('/api/bayesian').then(r=>r.json()).then(data=>{
   data.regions.forEach((region, idx) => {
     const div = document.createElement('div');
     div.className = 'regioncard';
-    const sdFlag = region.steps.some(s => s.label.includes('estimated')) ? '' : '';
     div.innerHTML = `
       <h3>${region.label}</h3>
       <div class="cap">Real pooled posterior from ${region.posterior.n} patients across this region's studies in the 9-paper set</div>
