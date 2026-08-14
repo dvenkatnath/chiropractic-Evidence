@@ -1,0 +1,659 @@
+ J. Phys. Ther. Sci. 33: 784–794, 2021
+
+
+
+ The Journal of Physical Therapy Science
+
+Review Article
+
+Restoring cervical lordosis by cervical
+extension traction methods in the treatment of
+cervical spine disorders: a systematic review of
+controlled trials
+
+Paul A. Oakley, DC, MSc1)*, Niousha Navid Ehsani, MD2),
+Ibrahim M. Moustafa, PT, PhD3, 4), Deed E. Harrison, DC5)
+1) Innovative Spine & Wellness: Newmarket, ON, L3Y 8Y8 Canada
+2) University Hospitals Cleveland Medical Center, USA
+3) Department of Physiotherapy, College of Health Sciences, University of Sharjah, UAE
+4) Basic Science Department, Faculty of Physical Therapy, Cairo University, Egypt
+5) CBP NonProfit, Inc., USA
+
+
+
+
+        Abstract. [Purpose] To systematically review the literature on the use of cervical extension traction methods for
+        increasing cervical lordosis in those with hypolordosis and cervical spine disorders. [Methods] Literature searches
+        for controlled clinical trials were performed in Pubmed, PEDro, Cochrane, and ICL databases. Search terms in-
+        cluded iterations related to the cervical spine, neck pain and disorders, and extension traction rehabilitation. [Re-
+        sults] Of 1,001 initially located articles, 9 met the inclusion/exclusion criteria. The trials demonstrated increases in
+        radiographically measured lordosis of 12–18°, over 5–15 weeks, after 15–60 treatment sessions. Untreated controls/
+        comparison groups not receiving extension traction showed no increase in cervical lordosis. Several trials demon-
+        strated that both traction and comparison treatment groups experienced immediate pain relief. Traction treatment
+        groups maintained their pain and disability improvements up to 1.5 years later. Comparative groups not receiving
+        lordosis improvement experienced regression of symptoms towards pre-treatment values by 1 years’ follow-up.
+        [Conclusion] There are several high-quality controlled clinical trials substantiating that increasing cervical lordosis
+        by extension traction as part of a spinal rehabilitation program reduces pain and disability and improves functional
+        measures, and that these improvements are maintained long-term. Comparative groups who receive multimodal
+        rehabilitation but not extension traction experience temporary relief that regresses after treatment cessation.
+        Key words: Spine traction, Cervical lordosis, Systematic review
+                                                     (This article was submitted May 6, 2021, and was accepted Jul. 13, 2021)
+
+
+
+                                                        INTRODUCTION
+    Neck pain is among the greatest contributors to disability1). It is typically episodic or recurrent throughout its disease
+course with great variation in symptomatology2). There are also wide variations in assessment methods and treatment ap-
+proaches for patients presenting with cervical spine disorders3). Most treatments for neck disorders have limited efficacy and
+this is particularly evident after long-term, post-therapeutic follow-up4).
+    As compared to other parts of the spine, the cervical spine has its own unique anatomical and physiological character-
+istics5). Functionally, the cervical spine must paradoxically, maintain a dynamic ability as it is the most mobile area of the
+spine6), while balance this need with the requirement for stability7) in the critical role of preserving horizontal gaze8). Cervical
+
+
+*Corresponding author. Paul A. Oakley (E-mail: docoakley.icc@gmail.com)
+©2021 The Society of Physical Therapy Science. Published by IPEC Inc.
+                   This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial No Deriva-
+                   tives (by-nc-nd) License. (CC-BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+                                                                                                                                      784
+spine alignment has been shown to be significantly related to patient outcomes; this has been particularly substantiated within
+the surgical literature6, 9, 10), but also in some manual therapy literature11, 12). Cervical kyphosis, for example, is considered a
+spinal deformity and is associated with pain and disability13–15). Altered cervical spine alignment is associated with various
+specific craniocervical symptoms including headache16–19), migraine19, 20), as well as radiculopathy and myelopathy21, 22).
+Anterior head translation (AHT), which has variable cervical subluxation patterns23), is highly associated with neck pain24)
+and is also associated with altered cervical sensorimotor control and autonomic nervous system function25).
+    The study of cervical spine biomechanics involves routine radiographic assessment23, 26, 27). The traditional measures used
+to assess cervical spine alignment parameters includes AHT, termed the cervical sagittal vertical axis (cSVA), and cervical
+lordosis (CL)28). Newer developments in the understanding of cervical spine biomechanics recognizes the association of
+the tilt of C7 (C7 slope) or T1 (T1 slope), as those with increased thoracic curve (hyperkyphosis) tend to have a larger CL
+and those with less thoracic curve (hypokyphosis) tend to have a smaller CL29, 30). The ratio of T1-CL (or C7-CL) is thus
+an important biomechanical parameter for modern cervical spine analysis31, 32). Other important parameters include the
+thoracic inlet angle (TIA)33), the chin-brow vertical axis (CBVA), and others7). Although understanding of the craniocervical
+biomechanics is less developed than other areas of the spine, the research is evolving.
+    Despite continued efforts to discover more precisely, the biomechanical interrelationships between the various cervical
+parameters, there has long been efforts to improve a patient’s head and neck posture. Historically, efforts have been directed at
+attempts to improve the cervical lordosis by non-surgical manual therapy methods, particularly by chiropractors. Traditional
+spinal manipulative therapy, however, has largely proven unsuccessful for increasing CL34–37). With the advent of a unique
+spinal traction method developed by Don Harrison in the 1980s, cervical extension traction (CET) was shown to be effective
+for increasing CL as demonstrated in the first published clinical trial of this new approach in 199435). In that paper it was
+discussed that the success for changing the spine structure was likely due to both the ‘more efficient direction of the applied
+tractioning force’ and the ‘use of a sustained force’. Regardless of actual mechanism, the ability to restore the anatomic
+cervical spine curve may be an under-utilized therapeutic approach to a myriad of craniocervical disorders38–42).
+    The purpose of the present study was to systematically review and summarize the existing literature on clinical controlled
+trials investigating the efficacy of cervical extension traction (CET) methods employed to rehabilitate the cervical lordosis in
+patients with hypolordosis and cervical spine disorders. Specifically, for located studies, we aimed to investigate magnitude
+of lordosis improvement, the frequency and duration of treatment and the clinical effect on pain and disability outcome
+measures.
+
+                                                         METHODS
+   This study assessed clinical controlled trials utilizing extension traction methods to increase cervical lordosis for the
+treatment of patients with cervical spine disorders.
+   Inclusion criteria included: (a) both randomized controlled trials (RCTs) and non-randomized controlled trials (nRCTs);
+(b) only trials that radiographically assessed CL; (c) only trials that applied the intervention of ‘extension traction’ to increase
+CL; (d) only trials that treated patients with any type of craniocervical disorder. Exclusion criteria included reviews, confer-
+ence papers, non-trials such as case reports, surgical or animal studies, or trials not treating the cervical spine. We adhered to
+the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guideline43).
+   All RCTs were assessed for methodological quality using the 10-point PEDro scale44–46). All studies were assessed for risk
+of bias using the Scottish Intercollegiate Guidelines Network (SIGN 50) checklist for RCTs47). All scoring of study quality
+and bias were performed by the first two authors with discrepancies resolved by consensus of all authors.
+   The literature was reviewed using the following databases: PubMed, PEDro (Physiotherapy Evidence Database), Cochrane,
+and ICL (Index to Chiropractic Literature). Key words used in literature searches included varied combinations of terms
+associated with the anatomical region, anatomically related pathology, traction rehabilitation methods as well as achieving
+lordosis restoration. Search terms included ‘cervical spine’, ‘cervical lordosis’, ‘neck’, ‘pain’, ‘disc herniation’, ‘headache’,
+‘migraine’, ‘radiculopathy’, ‘traction’, ‘extension traction’, ‘restoration’, ‘correction’, ‘increase’, and ‘rehabilitation’. The
+references of located articles were also screened for citations. The date range for searches included each databases inception
+to April, 2020. Only articles of English language were included, and only adult cohorts (>17 years) were considered.
+   Any located articles were independently assessed by the first two authors. Studies were reviewed to extract data related
+to age, traction set-up, concurrent rehabilitation procedures, with the principal summary measures of interest consisting of
+magnitude of lordosis improvement, treatment duration, treatment number and treatment frequency and clinical outcomes of
+pain, disability or functional ability scale scores. All pertinent data were extracted for baseline, post-treatment and follow-up
+assessments.
+
+                                                          RESULTS
+   Initial searches identified 1,001 articles from the four databases (Fig. 1). One hundred-thirty-nine citations were removed
+for duplication (n=862). The titles and abstracts were then screened for irrelevant topics where a further 736 were removed
+due to: Non-cervical area=26, review=9, case report=7, conference paper=3, surgical=419, other=272. Note that ‘other’
+
+
+                                                                                                                               785
+                         Fig. 1. Flow diagram of searched, screened, and included studies.
+
+
+
+indicates articles also deemed irrelevant as topics included medication trials, children cohorts, genetic diseases, bone density
+loss, range of motion studies, dental, trial registry, biomechanical modeling, cancer cohorts, not a clinical trial or trials on
+irrelevant treatments including massage therapy, acupuncture, Chinese medicine, music therapy, spiritual healing, kinesiotap-
+ing, shockwave therapy, cutaneous nerve stimulation, and other holistic therapies. The remaining 126 articles were screened
+for inclusion criteria, leaving 9 controlled trials, 6 RCTs48–53) and 3 nRCTs35, 54, 55) (Table 1).
+    According to the PEDro quality assessment scale the quality of the RCTs was generally moderate to high, only one
+having a poor score (4/10)51), all others scored 7–9/1048–50, 52, 53) (Table 2). The risk of bias according to the SIGN 50 criteria
+was high quality for 5 trials and acceptable for the remaining 4 trials35, 51, 54, 55); in other words, all studies were adequately
+designed to minimise the risk of bias (Table 3).
+    The 9 included trials involved a total of 299 CET intervention patients suffering from the primary conditions of chronic
+neck pain (n=6354, 55)), cervical disc disease (n=2048)), spondylotic radiculopathy (n=1551)), discogenic radiculopathy
+(n=3052)), myofascial pain syndrome (n=6049)), cervicogenic dizziness (n=3650)), fibromyalgia (4053)), or simply cervical hy-
+polordosis (n=3535)). Trials included a total of 315 controls including patients who received comparative treatments less CET
+(comparative treatment groups, n=23135,48–53)) or patients who served as traditional controls (no treatment, n=8435, 54, 55)). The
+extracted data from the trials is shown in Table 1.
+    Results demonstrate CET patients achieved a 12–18° increase in cervical lordosis after 15–60 treatment sessions over
+5–15 weeks. This corresponded to a 6–25 mm reduction of AHT. The trials that had follow-up, ranging from 3 months to
+15.5 months (7/9 trials49–55)), demonstrated that lordosis correction was relatively stable, with no or slight loss of initial
+improvement (up to 3.5° (19% of original correction) at 15.5 months55)).
+    CET patients showed a 2–4 point reduction on 11-point pain intensity scales, and a 10–27% reduction on various other
+disability scales. The average age of patient groups across the trials ranged from 32–54 years. Notably, all comparison groups
+(n=231) receiving various treatments but not CET, as well as all traditional controls (n=84) receiving no treatment, had no
+improvement in cervical lordosis.
+
+                                                       DISCUSSION
+   This systematic review identified 9 controlled trials (6 RCTs; 3 nRCTs) which utilized extension traction to increase the
+cervical lordosis in patient cohorts with hypolordosis having various cervical spine disorders (Fig. 1; Table 1). All trials re-
+ported positive outcomes detailing increases in cervical lordosis concomitant with improvements in pain intensity, disability
+scores, functional measures including increased range of motion, as well as other physiological measures including increased
+spinal canal diameter, improved kinesthetic sense and increased central somatosensory conduction time.
+   The quality of the randomized trials overall, were of high-quality, five of six RCTs scoring 7–9/10 on the PEDro assess-
+ment scale (Table 2). All 9 trials were also adequately designed to minimize the risk of bias of the results (Table 3). Despite
+
+
+J. Phys. Ther. Sci. Vol. 33, No. 10, 2021                                                                                     786
+      Table 1. Summary of 6 randomized and 3 non-randomized controlled trials incorporating cervical extension traction methods used to treat cervical spine disorders in patients presenting with cervi-
+               cal spine hypolordosis
+      Publication
+                       Cohort & treatment details                                    Radiographic measures                                                 Pain intensity                    Disability scores                 Other outcome measures
+      details
+                                                                                                                                                           Pre-post                                                          Post-treatment & Long-term
+                                         Exp/             Age      No. of Duration    Pre-post     Lordosis     f/u      Pre-post     AHT         f/u                 Pain           f/u     Pre-post Disability     f/u                                 f/u
+       Author   Year     Condition                  n                                                                                                         Nk                                                             Treatment Grp Improvements
+                                        Control           (SD)      Txts   of txt     Lordosis     Increase   Lordosis    AHT       Reduction    AHT                Reduction       Pain     Disability Reduction Disability                            Time
+                                                                                                                                                             Pain                                                             in Other Outcome Measures
+                       Cervical disc                       48.8
+      Lee       2019                      E         20              15    1.25 m     4.8°/16.9°     12.1°       n/r        n/r         n/r        n/r      6.8/3.3      3.5         n/r      29.9/20.2       9.7      n/r                                     none
+                         disease                          (13.3)
+                                                           43.2                                                                                                                                                                Increased central canal area
+      (RCT)                               C         20              15    1.25 m     5.2°/4.9°      −0.03°      n/r        n/r         n/r        n/r      7.0/4.3       2.7        n/r      28.5/26.9       1.6      n/r                                     none
+                                                          (16.2)
+                                                                                                   p<0.001                                                             p>0.05                  (ODI)       p<0.05
+                         Cervical                  60
+      Moustafa 2018                       E             33.1 (8)    30     2.5 m     <25°/n/r        n/r        n/r        n/r         n/r        n/r      5.3/1.4       3.9        0.4      35.7/23.3      12.4      17.4                                    12 m
+                        myofascial                (20f)                                                                                                                                                                        Improved range of motion,
+                          pain                     60                                                                                                                                                                          pain-pressure thresholds,
+      (RCT)             syndrome          C             31.9 (7)    30     2.5 m     <25°/n/r        n/r        n/r        n/r         n/r        n/r      5.1/1.6      3.5         4.2      35.1/24        11.1      28.5                                    12 m
+                                                  (24f)                                                                                                                                                                        cervical posture
+                                                                                                                                                               -       p= 0.36    p<0.001      (NDI)      p= 0.09   p<0.001
+                       Cervicogenic                36     49.3                                                           35 mm/
+      Moustafa 2017                       E                         30     2.5 m     7.5°/21.2°     13.7°      20.9°                 25 mm       14 mm      5.7/3.7     2.0         1.2      47.5/23.2      24.3      6.9                                     12 m
+                        dizziness                 (14f)   (4.7)                                                          0.9 mm                                                                                                Improved dizziness severity,
+                                                   36     50.4                                                           32 mm/                                                                                                frequency, DHI, head reposi-
+      (RCT)              Neck pain        C                         30     2.5 m     7.2°/6.7°      −0.5°       6.2°                 −1 mm       35 mm     5.9/3.6      2.3          6       49.8/24.2      25.6      39.2                                    12 m
+                                                  (11f)   (4.9)                                                          33 mm                                                                                                 tioning accuracy
+                                                                                        -          p<0.0005 p<0.0005         -      p<0.0005    p<0.0005       -       p= 0.3     p<0.0005     (DHI)       p= 0.5   p<0.0005
+                                                    15
+      Moustafa 2017      Cervical         E                n/r      30     2.5 m       n/r           n/r        n/r        n/r         n/r        n/r        n/r        n/a         n/r         n/r         n/a       n/r      Improved lordosis, pain,       3m
+                                                   (?f)
+                        spondylotic                                                                                                                                                                                            DSSEPs, flexion-extension
+                       radiculopathy                15                                                                                                                                                                         kinematics
+      (RCT)                               C                n/r      30     2.5 m       n/r           n/r        n/r        n/r         n/r        n/r        n/r        n/a         n/r         n/r         n/a       n/r                                     3m
+                                                   (?f)
+                                                    30    41.5                                                       25.4 mm/
+      Moustafa 2016       Cervical        E                         30     2.5 m     6.5°/19.7°      13.1°    19.2°                 13.3 mm     15.1 mm    5.1/1.3      3.8         0.5      20.2/7.7       12.5       4                                      12 m
+                                                  (11f)   (3.7)                                                      13.0 mm                                                                                                   Improved arm pain, DS-
+                         discogenic
+                       radiculopathy                30    43.9                                                       24.4 mm/                                                                                                  SEPs, central somatosensory
+      (RCT)                               C                         30     2.5 m     6.5°/6.7°        0.2°     6.8°                  0.9 mm     24.1 mm    4.7/1.2      3.5         3.9      20.6/12.9       7.7      20                                      12 m
+                                                  (12f)   (6.2)                                                      23.5 mm                                                                                                   conduction time
+                                                                                        -          p<0.0005 p<0.0005     -          p<0.0005    p<0.0005       -       p= 0.6     p<0.0005     (NDI)     p<0.0005   p<0.0005
+                                                   40                                                                27.9 mm/
+      Moustafa 2013 Fibromyalgia          E             54.3 (7)    36      3m       6.6°/19.4°      12.8°    18.3°                 13.4 mm     14.9 mm    5.2/3.2      2.0         2.9      70.9/44.1      26.8      9.3      Improved 3D posture,           12 m
+                                                  (10f)                                                              14.5 mm
+                                                                                                                                                                                                                               algometry, QOL, fatigue,
+                                                   40                                                                 27 mm/
+      (RCT)                               C             52.2 (6)    36      3m       7.5°/7.2°       −0.4°     5.5°                  7.9 mm     21.2 mm    4.6/3.1       1.5        4.7      71.3/43.6      27.7      47.9     depression, anxiety, sleep,    12 m
+                                                  (12f)                                                              19.1 mm
+                                                                                                                                                                                                                               fibromyalgia
+                                                                                        -          p<0.0001 p<0.001      -          p<0.0001    p<0.0001       -       p= 0.3     p<0.0005     (FIQ)       p= 0.4   p<0.0005
+                       Chronic neck                33      36.0                                                      24.9 mm/
+      Harrison 2003                       E                         38    3.75 m     4.2°/22.1°      17.9°    22.0°                  9.5 mm     15.0 mm     4.1/1.1      3.0        n/r         n/r          n/r      n/r                                     14 m
+                           pain                   (14)    (14.2)                                                     15.4 mm
+                                                   30      37.0                                                      23.1 mm/                                                                                                                                 8.5
+      (nRCT)                              C                          0      n/a      10.2°/11.1°      0.9°      n/r                  0.8 mm       n/r      3.5/3.4       0.1        n/r         n/r          n/r      n/r
+                                                  (14)    (11.1)                                                     22.4 mm                                                                                                                                  m
+                                                                                                                                                                      p<0.0001
+                    Chronic neck                    30     33.1                                                          22.1 mm/                                                                                                                             15.5
+      Harrison 2002                       E                         35    2.25 m 12.4°/26.6°        14.2°      22.9°                 6.2 mm     15.3 mm    4.3/1.6       2.7        n/r         n/r          n/r      n/r
+                        pain                      (25F)   (14.3)                                                         15.9 mm                                                                                                                               m
+                                                    24     35.1
+      (nRCT)                              C                          0      n/a      9.9°/10.8°      0.9°       n/r        n/r         n/r        n/r      3.6/3.8      −0.2        n/r         n/r          n/r      n/r                                     8m
+                                                  (13F)   (13.9)
+                                                                                                                                                                      p<0.0001
+                            n/s                     35     34.5                                                          19.5 mm/
+      Harrison 1994                       E1                        60      3m       14.5°/27.7°    13.2°       n/r                  6.8 mm       n/r        n/r            n/r     n/r         n/r          n/r      n/r                                     none
+                       (hypolordosis)              (11)   (10.9)                                                         12.7 mm
+                                                    30     35.8                                                          21.3 mm/                                                                                              Reliability assessment of X-
+      (nRCT)                              E2                        60      3m       18.7°/19.9°     1.2°       n/r                  2.0 mm       n/r        n/r            n/r     n/r         n/r          n/r      n/r                                     none
+                                                  (20f)   (12.5)                                                         19.3 mm                                                                                               ray markings by 3 examiners
+                                                    30     34.8                                                          20.9 mm/
+                                          C                          0      n/a      18.2°/21.2°     2.9°       n/r                  0.5 mm       n/r        n/r            n/r     n/r         n/r          n/r      n/r                                     none
+                                                  (17f)   (11.1)                                                         20.4 mm
+       Harrison C: control group with no treatment; Harrison E2: manipulation but no CET; Moustafa C: comparison groups receiving ‘conventional rehab’ but no CET; AHT: anterior head translation; DHI:
+       dizziness handicap inventory; DSSEPs: dermatomal somatosensory evoked potentials; f/u: follow-up; FIQ: fibromyalgia index questionnaire; Nk: neck; NDI: neck disability index; QOL: quality of
+
+
+
+
+787
+       life. All trials measured lordosis by posterior tangents C2-C7 except Lee, who used C2-C7 Cobb, to convert to tangents add 9°.
+Table 2. Study quality assessment using the PEDro scale
+
+       First                                                        Items of PEDro scale                                                 Total
+      author         Date        1        2        3        4         5       6      7          8         9         10          11       score
+   Lee               2019        Y        Y        Y        Y        Y        N        Y        Y         Y         Y           Y         9/10
+   Moustafa          2018        Y        Y        Y        Y        N        N        Y        Y         Y         Y           Y         8/10
+   Moustafa          2017        Y        Y        Y        Y        N        N        Y        Y         Y         Y           Y         8/10
+   Moustafa          2017        N        Y        N        Y        N        N        N        N         N         Y           Y         4/10
+   Moustafa          2016        Y        Y        Y        Y        N        N        Y        Y         Y         Y           Y         8/10
+   Moustafa          2013        Y        Y        Y        Y        N        N        N        Y         Y         Y           Y         7/10
+ 1. Eligibility criteria, 2. Random allocation, 3. Concealed allocation, 4. Similar groups, 5. Blinding of participants, 6. Blinding of thera-
+ pists, 7. Blinding of assessors, 8. Adequate follow-up, 9. Intention-to-treat analysis, 10. Between group comparison statistics, 11. Point
+ measures and variability. Scale item No. 1 not included in PEDro score. Only randomized controlled clinical trials can be assessed by
+ PEDro scale.
+
+
+
+Table 3. Risk of bias using the SIGN 50 checklist
+
+      First                                                   Items of SIGN 50 checklist                                               Overall
+     author         Date        1.1       1.2      1.3       1.4     1.5     1.6      1.7           1.8       1.9        1.10        assessment
+   Lee              2019        ++        ++       ++        ++      ++      ++       ++            ++        ++         n/a             ++
+   Moustafa         2018        ++        ++       ++         +      ++      ++       ++            ++        ++         n/a             ++
+   Moustafa         2017        ++        ++       ++         +      ++      ++       ++            ++        ++         n/a             ++
+   Moustafa         2017        ++         +        ?         ?       ?      ++       ++             ?        ++         n/a              +
+   Moustafa         2016        ++        ++       ++         +       +      ++       ++            ++        ++         n/a             ++
+   Moustafa         2013        ++        ++       ++         ?      ++      ++       ++             +        ++         n/a             ++
+   Harrison         2003        ++        n/a      n/a       n/a     ++      ++       ++             +        ++         n/a              +
+   Harrison         2002        ++        n/a      n/a       n/a     ++      ++       ++            ++        ++         n/a              +
+   Harrison         1994        ++        n/a      n/a       n/a      −      ++        +            ++        ++         n/a              +
+ 1.1, clear study question; 1.2, randomization; 1.3, adequate concealment; 1.4, blinding of participants/investigator; 1.5, baseline group
+ similarities; 1.6, only difference being intervention; 1.7, outcome validity/reliability; 1.8, drop out percentage less than 20%; 1.9, inten-
+ tion-to-treat analysis; 1.10, multi-site similarities. n/a: not applicable, ?: cannot answer question from manuscript. ++ high quality, +
+ acceptable, − low quality. Questions 1.2–1.4 do not apply for non-randomized controlled trials.
+
+
+
+
+the overall high-quality and low risk of bias, the generalizability of the data is limited due to population cohorts being
+exclusively mid-aged adults (average age of cohorts 32–54 years), as well as many of the trials were conducted in Egypt (5
+trials49–53)), which has a different socio-cultural atmosphere to other populations including the US.
+    Notably, seven of nine trials (5/6 RCTs; 2/3 nRCTs) included a follow-up of CET treated patients which allowed for
+assessment of the stability of the initial lordosis improvement. In three RCTs including follow-up, each showed a loss of
+1.4%,50) 2.5%52) and 5.6%53) of the original lordosis improvement achieved (13–14° over a 2.5 to 3-month CET treatment
+program) over a 12-month follow-up period. In two nRCTs, the 2002 trial55) showed a loss of 3.7°, or 14% of the original
+improvement achieved (14.2°) at a 15.5-month follow-up, while the 2003 trial54) showed no loss of lordosis of an original
+17.9° improvement at a 14-month follow-up. The latter trial however, did have patients attend ‘maintenance’ treatments
+which averaged 6.1 treatments (SD 5.6) over 14 months, or about once every two months, and it was suggested by the
+authors that the maintenance treatments undoubtedly preserved the correction and prevented any loss of original lordosis
+correction54). Thus, it seems lordosis improvements occurring over short 2.5 to 3.75-month durations remain relatively stable.
+The slight loss of lordosis over time also supports the rationale for intermittent maintenance treatments after the completion
+of CET protocols to purposefully preserve the improved lordosis and to prevent the loss of lordosis over time.
+    It is noted that although all trials demonstrated improvements in lordosis in CET treated patients, treatments were typically
+limited to 2.5 to 3-months and limited to 30–38 treatments (with two exceptions35, 48)). The ending curvature improvements
+in CET treated groups were not considered physiologically ideal as an end of goal result11, 12, 56, 57). For example, using the
+posterior tangent method (C2-C7), Harrison et al. determined that patients having a lordosis less than 29° (~17° Cobb) were
+likely to have acute neck pains, and those having a lordosis less than 22° (~13° Cobb) were likely to have chronic neck
+pains11). McAviney et al. determined that patients having a cervical lordosis less than 20° were significantly more likely to
+have neck pain, and that data from 277 patients suggested a ‘clinically normal’ range of lordosis of between 31–40° (C2-C7
+posterior tangents)12). In 1996, Harrison suggested a clinically normal cervical curve of 34° (C2-C7 posterior tangents)56, 57).
+Considering most post-treatment lordosis measurements from the trials ranged from 19–28° (C2-C7 posterior tangent), in
+
+
+J. Phys. Ther. Sci. Vol. 33, No. 10, 2021                                                                                                     788
+all practicality, the patients should have received further treatment to attain an average lordosis of at least 30° as determined
+from the studies discussed. It becomes apparent further studies are warranted to assess CET treatment that is continued until
+an end-of-care cervical curve threshold is reached as the goal of care which would be more similar to actual clinical practice
+for providers of these techniques4, 58).
+    There were 5 different extension traction approaches described in the 9 located trials. The original 1994 nRCT35) featured
+an extension-compression type traction where the patient lay supine on an angled bench and extended their head off the end of
+the bench where a strap pulled the head into a hyper-extended position. The second nRCT (200255)), featured ‘Pope’s 2-way’
+traction which introduced a posterior-to-anterior transverse pull at the mid-neck while the patient was seated in a chair having
+their head distracted while in a retracted and extended position. The third nRCT (200354)), utilized an extension-compression
+with a posterior-to-anterior transverse mid-neck pull while the patient was in a seated position. Many of the RCTs49, 50, 52, 53)
+featured the cervical Denneroll traction orthotic (Denneroll Spinal Orthotics, Wheeler Heights, NSW, Australia), and one
+trial48) used a modified traditional axial-distraction cervical traction table (Kinetrac KNX-9900 Hanmed Co., Gimhae, Re-
+public of Korea) with a cervical support that placed a posterior-to-anterior push onto the mid neck while the patient lay
+supine. While it is unknown which traction approach is most effective, as taught through CBP© seminars (www.idealspine.
+com), different traction approaches are better suited for different cervical spine subluxation patterns59).
+    Comparing lordosis improvements between traction devices must include consideration of both treatment number and
+traction duration. For instance, in the 1994 trial,35) traction was only performed for 10-minute durations and for 60 treat-
+ment sessions resulting in a 13.2° lordosis improvement. In 3 trials using the cervical Denneroll50, 52, 53), 20-minute traction
+durations resulted in 13–14° improvements after 30–36 treatments. It is likely that 10-minute durations are less than ideal,
+and that with 20-minute traction sessions, larger lordosis increases may be accomplished in less treatments, however, this
+needs to be tested in future trials. Also, when considering the percentage of lordosis increase by treatment number, the trials
+are comparable at about 0.4–0.45° improvement per treatment. The 1994 trial35) shows half this (0.22°/treatment) and a
+2019 trial48) on the adapted axial traction table shows 2.4°/treatment. The latter trial was conducted on patients with cervical
+disc disease, and it is not known if these patients may respond differently than patients suffering from other cervical spine
+disorders; there are also more critical concerns about this trial that we will discuss.
+    Another issue to consider when re-assessing a patient’s cervical lordosis is when a post-treatment X-ray is taken. It is
+known that taking an X-ray immediately after a patient performs CET is likely to produce better results than has actually
+occurred as the soft tissues require about 8 hours duration to fully recover from a sustained loading60). As discussed previ-
+ously54), this is why in all 3 nRCTs, a 1 day wait period was included prior to the taking of the post-treatment radiographs. Of
+the 4 other RCTs that reported post-treatment X-ray results49, 50, 52, 53), none of them detailed the timing of the post-treatment
+cervical X-ray in the manuscripts, however since at least one of the current authors had co-authored these trials, it was
+confirmed that at least a days’ time period was allowed prior to the post-treatment X-ray (Patient’s received post X-rays 1–7
+days after the last treatment session). Regarding the Lee RCT however, this is of major concern, and is a critical flaw in the
+design of the Lee trial as they specifically state that the lateral cervical X-ray was taken “two days before the first treatment
+session and after the last treatment session”. Thus, the larger degree of lordosis change per treatment (2.4°/treatment) may be
+an artifact of the methodology that would overestimate the lordosis correction. This may explain the inconsistency with the
+change reported in the Lee trial as compared to the other trials (0.4–0.45°/treatment). Regardless, explanation of the timing
+of post-treatment radiographs is an important detail that needs to be reported in future CET trials.
+    Another important consideration in post-treatment radiography is the repeatability and reliability of posture. It is well
+demonstrated that measuring cervical spine subluxation on radiographs is repeatable and reliable61–66). Dating from the
+1970s, Beck and Killus67) stated “several X-rays of the same individual furnished reproducible results, even when they were
+taken years apart”. It is surprising that this criticism is still being perpetuated68). Based on the control and comparative groups
+however, this criticism has no merit, as all the trials reporting post-treatment radiographs for patients not getting CET show
+no change, and therefore confirm the reliability and repeatability cervical spine X-ray measurement35, 48, 50, 52–55).
+    Another possible criticism with cervical re-alignment is that it could be argued that a patient/doctor may be excited to
+show improved lordosis which may influence the patient to slightly extend their head. In two different studies assessing slight
+head nodding, it was shown that for each degree of head extension, half as much occurs in the cervical spine. Harrison et
+al.69) determined a 14° head extension caused a 6.9° cervical extension, and Hellsing70) found a 20° head extension caused
+a 10° cervical extension. A 20° head extension is large and a radiographer should notice such efforts, thus, it is important to
+specify to the patient the precise instructions prior to taking the X-ray. As performed in the nRCTs, all patients were instructed
+to close their eyes, flex and extend the head twice, and assume a comfortable resting position. Due to the pre-post cervical
+lordosis changes in the trials being relatively large (12–18°) it is deemed the structural improvements as reported are beyond
+what a slight head nod may produce, validating lordosis improvements due to treatment effect.
+    Yet another criticism regarding changes in cervical spine structure, and as discussed previously54), is the notion of cervical
+muscle spasm causing loss of lordosis71–73). It has been argued that if this were the case, then SMT alone would relieve the
+spasm, as has been shown to occur74, 75), and lead to an increased lordosis, however, this is not the case34–37). Further, most of
+the trials involved chronic neck disorder patients, which nullifies any argument about acute muscle spasms causing cervical
+hypolordosis. In fact, the Moustafa trials49–53) were so designed to include physiotherapeutic methods that would relieve any
+muscle spasms, but comparison treated patients, not receiving CET, still did not achieve any improvements in lordosis. Also,
+
+
+                                                                                                                              789
+Fedorchuk et al. recently showed that cervical muscle engagement simulating muscle spasm most likely induces an increase
+in curvature, not a straightening of the cervical spine76).
+   Why does CET restore cervical lordosis? As discussed as early as the 1994 trial35) showing for the first time the efficacy of
+CET in improving cervical lordosis versus no lordosis improvements in a comparison group receiving SMT, the difference in
+structural outcome was stated as being either due to: 1) the ‘more efficient direction of the applied traction force vs. those used
+in chiropractic manipulation’ or 2) use of sustained force. We suggest it is due to both of these reasons. It has been verified
+that the most direct approach to correcting a cervical kyphosis is by applying a transverse load at the apex of the kyphosis77).
+This is consistent with using CBPs ‘mirror image’ approach, or the application of load vectors that are directly opposite to
+the spine misalignments4, 58). The use of a ‘sustained force’ is key for traction application, specifically for ‘extension traction’
+as has been discussed recently4, 78). It is suggested that extension traction creates a sustained visco-elastic deformation and
+creep-relaxation effect in the soft tissues including specifically, the anterior longitudinal ligament and anterior portions of
+the intervertebral discs4, 78). Traction must be performed in a continuous and sustained manner to have these two processes
+occur79–83). This is likely the reason SMT does not routinely correct spine alignment. Thus, the biomechanical elongation of
+the anterior spinal structures leads to a permanent structural tissue resting length change and when performed in a repeated
+manner (e.g. daily or three times per week), a steady and consistent change to the spine and postural alignment is possible,
+as has been demonstrated by the clinical trials included in this review (12–18° cervical lordosis increase after ~30–40 CET
+treatments).
+   How does CET traction differ from traditional cervical traction? As stated by Harrison et al., “All cervical traction concepts
+have accepted the premise that traction in flexion, with consequent decrease in lordosis, is the goal. This concept implies
+that lordosis is nonphysiologic and is the cause of the pathology”55). Although some reports have shown large proportions of
+asymptomatic populations having decreased cervical lordosis84), these reports often have methodological flaws, for example,
+Hey et al.84) used full-spine X-rays to measure the cervical curve which projects it to appear straighter85, 86). The results
+from this review35, 48–55) as well as surgical outcomes87–92) show that restoring lordosis leads to better patient outcomes.
+The surgical literature is profuse with evidence of superior outcomes including better pain, disability and quality of life
+scores, and less post-surgical complications and re-surgeries and the prevention of adjacent disc disease when the lordosis
+of the cervical spine is re-established/maintained87–92). Also, a recent meta-analysis of 21 studies confirmed that even in
+asymptomatic patients, the literature shows that a cervical lordosis is the norm93). Several trials included in this review also
+clearly demonstrate positive outcomes and, in many trials, superior long-term outcomes from spinal rehabilitation programs
+that include CET for the treatment of neck pain50, 54, 55), cervical discogenic radiculopathy52), cervical spondylotic radiculopa-
+thy51), cervical myofascial pain syndrome49), cervicogenic dizziness50) and fibromyalgia53) that result in increased cervical
+lordosis after initial treatment.
+   The long-term maintenance of symptomatic relief in patient groups receiving CET as a part of their rehabilitation undoubt-
+edly resulted from achieving increased cervical lordosis. This is substantiated by the fact that 6 trials featured the CET as
+the only difference between the treatment and comparison group treatment arms48–53). Traditional views on cervical traction,
+endorsing flexion and/or axial (longitudinal) angle of pull ignore important biomechanical implications for the spinal cord,
+nerve roots, their dura, and the blood vessels of the nerve roots55). As postulated by the cadaveric studies of Breig, traditional
+flexion and axial traction has a negative consequence on the pons-cord traction, including the spinal cord, nerve roots, pons
+and potentially cranial nerves 5–1294–98). Axial and flexion traction lengthens the cervical spine and spinal canal which
+exerts traction forces onto the neural tissues; although temporary separation of the intervertebral discs and opening of the
+intervertebral foramen may provide temporary relief for a classic bulged disc-pinched nerve root, neurologically this may be
+more detrimental for those having chronic craniocervical disorders involving more globally, a pathologic traction effect of
+the pons-cord tract system. Thus, understanding of the biomechanics of the central nervous system provides an intriguing and
+logical explanation for the beneficial results achieved in groups receiving CET as has been summarized recently99). This also
+questions the implications of the long-term effects of traditional axial and flexion traction procedures94).
+   Indeed, it is the relief of biomechanical neurological tension that is presumed to be the mechanism responsible for the
+improved neurophysiological measures as demonstrated in several of the trials included in this review48–53). This has been
+summarized recently99), where it was shown that the influence of sagittal plane spine alignment correction of cervical lordosis
+had direct effects on neurophysiology and sensorimotor control measures; this includes increased motor function. Although
+the limited trials identified in this review included many measures of human performance, future trials incorporating CET
+should continue to incorporate more diverse measures of human performance. These trials demonstrate the optimization of
+function through spinal structural correction.
+   The limitations to the present review were that we only included publications that were in English, potentially leading to
+missing evidence from other languages. Since all studies involved cohorts being of a mid-age the results cannot necessarily
+be generalized to people of all ages. Not all trials used the same cervical lordosis measurement method. Lee48) used the C2-C7
+Cobb angle and Moustafa49–53) and Harrison35, 54, 55) used the C2-C7 posterior tangent method. It is noted that to convert the
+C2-C7 Cobb angle to the equivalent posterior tangent angle, one should add 9°59).
+   It is noted that none of the trials included in this review considered sub-cervical spine biomechanics. Current spinal
+biomechanics accepts that whole-spine alignment has a relationship with the cervical spine, such as the thoracic curve and
+T1 slope, and that these parameters are important variables to consider in assessing the cervical spine alignment and its
+
+
+J. Phys. Ther. Sci. Vol. 33, No. 10, 2021                                                                                      790
+correction to be more patient-specific100, 101). Future trials need to incorporate a global spinal analysis as this will likely play
+an important role in better determining patient responders to the various CET approaches.
+   Future trials investigating CET should include more diverse population cohorts, better detail the X-ray instructions as
+well as describe the timing of the post-treatment X-rays. Future research also needs to confirm which traction approach
+best suits what cervical spine deformity type, and whether traction time (i.e. 10 vs. 20 minutes) results in quicker structural
+improvements. More trials need to directly compare CET to SMT.
+   The implications of these findings for stakeholders (e.g. clinicians, policy makers) are important. The assessment of
+cervical lordosis is an important clinical parameter that may not be traditionally recognized102), but may have pathognomonic
+importance and clinical impact on both a patient’s clinical symptoms and long-term response to treatment. Policy makers
+should account for the screening (i.e. by X-ray) and structural rehabilitation (restoration of lordosis) versus exclusively
+functional treatments, that are warranted for particular patients presenting with chronic cranio-cervical complaints with
+concomitant cervical hypolordosis/kyphosis.
+
+Conflict of interest
+   PAO is a paid consultant to CBP NonProfit Inc.; DEH teaches and sells products to doctors for spinal rehabilitation; There
+are no other conflicts of interest declared.
+
+
+                                                                       REFERENCES
+
+1)    GBD 2015 Disease and Injury Incidence and Prevalence Collaborators: Global, regional, and national incidence, prevalence, and years lived with disability for
+      310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015. Lancet, 2016, 388: 1545–1602. [Medline] [CrossRef]
+2)    Guzman J, Hurwitz EL, Carroll LJ, et al. Bone and Joint Decade 2000–2010 Task Force on Neck Pain and Its Associated Disorders: A new conceptual model
+      of neck pain: linking onset, course, and care: the Bone and Joint Decade 2000–2010 Task Force on Neck Pain and Its Associated Disorders. Spine, 2008, 33:
+      S14–S23. [Medline] [CrossRef]
+3)    Haldeman S, Kopansky-Giles D, Hurwitz EL, et al.: Advancements in the management of spine disorders. Best Pract Res Clin Rheumatol, 2012, 26: 263–280.
+      [Medline] [CrossRef]
+4)    Oakley PA, Moustafa IM, Harrison DE: Restoration of cervical and lumbar lordosis: CBP® methods overview. In: Bettany-Saltikov J (ed.) Spinal deformities
+      in adolescents, adults and older adults. IntechOpen, 2019. [CrossRef]
+5)    Bland JH, Boushey DR: Anatomy and physiology of the cervical spine. Semin Arthritis Rheum, 1990, 20: 1–20. [Medline] [CrossRef]
+6)    Ling FP, Chevillotte T, Leglise A, et al.: Which parameters are relevant in sagittal balance analysis of the cervical spine? A literature review. Eur Spine J, 2018,
+      27: 8–15. [Medline] [CrossRef]
+7)    Pal GP, Sherk HH: The vertical stability of the cervical spine. Spine, 1988, 13: 447–449. [Medline] [CrossRef]
+8)    Khalil N, Bizdikian AJ, Bakouny Z, et al.: Cervical and postural strategies for maintaining horizontal gaze in asymptomatic adults. Eur Spine J, 2018, 27:
+      2700–2709. [Medline] [CrossRef]
+9)    Scheer JK, Tang JA, Smith JS, et al. International Spine Study Group: Cervical spine alignment, sagittal deformity, and clinical implications: a review. J Neu-
+      rosurg Spine, 2013, 19: 141–159. [Medline] [CrossRef]
+10)   Ames CP, Blondel B, Scheer JK, et al.: Cervical radiographical alignment: comprehensive assessment techniques and potential importance in cervical my-
+      elopathy. Spine, 2013, 38: S149–S160. [Medline] [CrossRef]
+11)   Harrison DD, Harrison DE, Janik TJ, et al.: Modeling of the sagittal cervical spine as a method to discriminate hypolordosis: results of elliptical and circular
+      modeling in 72 asymptomatic subjects, 52 acute neck pain subjects, and 70 chronic neck pain subjects. Spine, 2004, 29: 2485–2492. [Medline] [CrossRef]
+12) McAviney J, Schulz D, Bock R, et al.: Determining the relationship between cervical lordosis and neck complaints. J Manipulative Physiol Ther, 2005, 28:
+      187–193. [Medline] [CrossRef]
+13)   Seong HY, Lee MK, Jeon SR, et al.: Prognostic factor analysis for management of chronic neck pain: can we predict the severity of neck pain with lateral
+      cervical curvature? J Korean Neurosurg Soc, 2017, 60: 456–464. [Medline] [CrossRef]
+14)   Han K, Lu C, Li J, et al.: Surgical treatment of cervical kyphosis. Eur Spine J, 2011, 20: 523–536. [Medline] [CrossRef]
+15) Hohl M: Soft-tissue injuries of the neck in automobile accidents. Factors influencing prognosis. J Bone Joint Surg Am, 1974, 56: 1675–1682. [Medline] [Cross-
+      Ref]
+16) Braaf MM, Rosne RS: Trauma of cervical spine as cause of chronic headache. J Trauma, 1975, 15: 441–446. [Medline] [CrossRef]
+17) Nagasawa A, Sakakibara T, Takahashi A: Roentgenographic findings of the cervical spine in tension-type headache. Headache, 1993, 33: 90–95. [Medline]
+      [CrossRef]
+18)   Fernández-de-las-Peñas C, Alonso-Blanco C, Cuadrado ML, et al.: Forward head posture and neck mobility in chronic tension-type headache: a blinded,
+      controlled study. Cephalalgia, 2006, 26: 314–319. [Medline] [CrossRef]
+19)   Vernon H, Steiman I, Hagino C: Cervicogenic dysfunction in muscle contraction headache and migraine: a descriptive study. J Manipulative Physiol Ther,
+      1992, 15: 418–429. [Medline]
+20) Ferracini GN, Chaves TC, Dach F, et al.: Analysis of the cranio-cervical curvatures in subjects with migraine with and without neck pain. Physiotherapy, 2017,
+      103: 392–399. [Medline] [CrossRef]
+21)   Buell TJ, Buchholz AL, Quinn JC, et al.: Importance of sagittal alignment of the cervical spine in the management of degenerative cervical myelopathy. Neu-
+      rosurg Clin N Am, 2018, 29: 69–82. [Medline] [CrossRef]
+22) Shamji MF, Ames CP, Smith JS, et al.: Myelopathy and spinal deformity: relevance of spinal alignment in planning surgical intervention for degenerative
+      cervical myelopathy. Spine, 2013, 38: S147–S148. [Medline] [CrossRef]
+
+
+
+                                                                                                                                                                    791
+23) Oakley PA, Cuttler JM, Harrison DE: X-ray imaging is essential for contemporary chiropractic and manual therapy spinal rehabilitation: radiography increases
+      benefits and reduces risks. Dose Response, 2018, 16: 1–7.
+24) Mahmoud NF, Hassan KA, Abdelmajeed SF, et al.: The relationship between forward head posture and neck pain: a systematic review and meta-analysis. Curr
+      Rev Musculoskelet Med, 2019, 12: 562–577. [Medline] [CrossRef]
+25) Moustafa IM, Youssef A, Ahbouch A, et al.: Is forward head posture relevant to autonomic nervous system function and cervical sensorimotor control? Cross
+      sectional study. Gait Posture, 2020, 77: 29–35. [Medline] [CrossRef]
+26) Bess S, Protopsaltis TS, Lafage V, et al. International Spine Study Group: Clinical and radiographic evaluation of adult spinal deformity. Clin Spine Surg, 2016,
+      29: 6–16. [Medline] [CrossRef]
+27) Oakley PA, Ehsani NN, Harrison DE: Repeat radiography in monitoring structural changes in the treatment of spinal disorders in chiropractic and manual
+      medicine practice: evidence and safety. Dose Response, 2019, 17: 1559325819891043. [Medline] [CrossRef]
+28) Diebo BG, Varghese JJ, Lafage R, et al.: Sagittal alignment of the spine: what do you need to know? Clin Neurol Neurosurg, 2015, 139: 295–301. [Medline]
+      [CrossRef]
+29) Patwardhan AG, Khayatzadeh S, Havey RM, et al.: Cervical sagittal balance: a biomechanical perspective can help clinical practice. Eur Spine J, 2018, 27:
+      25–38. [Medline] [CrossRef]
+30) Patwardhan AG, Havey RM, Khayatzadeh S, et al.: Postural consequences of cervical sagittal imbalance: a novel laboratory model. Spine, 2015, 40: 783–792.
+      [Medline] [CrossRef]
+31)   Ames CP, Smith JS, Eastlack R, et al. International Spine Study Group: Reliability assessment of a novel cervical spine deformity classification system. J
+      Neurosurg Spine, 2015, 23: 673–683. [Medline] [CrossRef]
+32)   Protopsaltis T, Terran J, Soroceanu A, et al. International Spine Study Group: T1 slope minus cervical lordosis (TS-CL), the cervical answer to PI-LL, defines
+      cervical sagittal deformity in patients undergoing thoracolumbar osteotomy. Int J Spine Surg, 2018, 12: 362–370. [Medline] [CrossRef]
+33)   Lee SH, Kim KT, Seo EM, et al.: The influence of thoracic inlet alignment on the craniocervical sagittal balance in asymptomatic adults. J Spinal Disord Tech,
+      2012, 25: E41–E47. [Medline] [CrossRef]
+34) Plaugher G, Cremata EE, Phillips RB: A retrospective consecutive case analysis of pretreatment and comparative static radiological parameters following
+      chiropractic adjustments. J Manipulative Physiol Ther, 1990, 13: 498–506. [Medline]
+35) Harrison DD, Jackson BL, Troyanovich S, et al.: The efficacy of cervical extension-compression traction combined with diversified manipulation and drop
+      table adjustments in the rehabilitation of cervical lordosis: a pilot study. J Manipulative Physiol Ther, 1994, 17: 454–464. [Medline]
+36) Hurwitz EL, Aker PD, Adams AH, et al.: Manipulation and mobilization of the cervical spine. A systematic review of the literature. Spine, 1996, 21: 1746–1759,
+      discussion 1759–1760. [Medline] [CrossRef]
+37) Shilton M, Branney J, de Vries BP, et al.: Does cervical lordosis change after spinal manipulation for non-specific neck pain? A prospective cohort study.
+      Chiropr Man Therap, 2015, 23: 33. [Medline] [CrossRef]
+38) Fortner MO, Oakley PA, Harrison DE: Cervical extension traction as part of a multimodal rehabilitation program relieves whiplash-associated disorders in a
+      patient having failed previous chiropractic treatment: a CBP® case report. J Phys Ther Sci, 2018, 30: 266–270. [Medline] [CrossRef]
+39) Fortner MO, Oakley PA, Harrison DE: Alleviation of posttraumatic dizziness by restoration of the cervical lordosis: a CBP® case study with a one year follow-
+      up. J Phys Ther Sci, 2018, 30: 730–733. [Medline] [CrossRef]
+40) Fortner MO, Oakley PA, Harrison DE: Non-surgical improvement of cervical lordosis is possible in advanced spinal osteoarthritis: a CBP® case report. J Phys
+      Ther Sci, 2018, 30: 108–112. [Medline] [CrossRef]
+41)   Dennis AK, Oakley PA, Weiner MT, et al.: Alleviation of neck pain by the non-surgical rehabilitation of a pathologic cervical kyphosis to a normal lordosis: a
+      CBP® case report. J Phys Ther Sci, 2018, 30: 654–657. [Medline] [CrossRef]
+42) Wickstrom BM, Oakley PA, Harrison DE: Non-surgical relief of cervical radiculopathy through reduction of forward head posture and restoration of cervical
+      lordosis: a case report. J Phys Ther Sci, 2017, 29: 1472–1474. [Medline] [CrossRef]
+43)   Hutton B, Salanti G, Caldwell DM, et al.: The PRISMA extension statement for reporting of systematic reviews incorporating network meta-analyses of health
+      care interventions: checklist and explanations. Ann Intern Med, 2015, 162: 777–784. [Medline] [CrossRef]
+44) https://www.pedro.org.au/english/downloads/pedro-scale/.
+45) de Morton NA: The PEDro scale is a valid measure of the methodological quality of clinical trials: a demographic study. Aust J Physiother, 2009, 55: 129–133.
+      [Medline] [CrossRef]
+46) Maher CG, Sherrington C, Herbert RD, et al.: Reliability of the PEDro scale for rating quality of randomized controlled trials. Phys Ther, 2003, 83: 713–721.
+      [Medline] [CrossRef]
+47) SIGN: Scottish Intercollegiate Guidelines Network. Sign 50: A Guideline Developer’s Handbook. 2019. https://www.sign.ac.uk/assets/sign50_2019.pdf.
+48) Lee CH, Heo SJ, Park SH, et al.: The functional and morphological changes of the cervical intervertebral disc after applying lordotic curve controlled traction:
+      a double-blind randomized controlled study. Int J Environ Res Public Health, 2019, 16: 2162. [Medline] [CrossRef]
+49) Moustafa IM, Diab AA, Hegazy F, et al.: Does improvement towards a normal cervical sagittal configuration aid in the management of cervical myofascial
+      pain syndrome: a 1-year randomized controlled trial. BMC Musculoskelet Disord, 2018, 19: 396. [Medline] [CrossRef]
+50) Moustafa IM, Diab AA, Harrison DE: The effect of normalizing the sagittal cervical configuration on dizziness, neck pain, and cervicocephalic kinesthetic
+      sensibility: a 1-year randomized controlled study. Eur J Phys Rehabil Med, 2017, 53: 57–71. [Medline] [CrossRef]
+51)   Moustafa IM, Diab AA, Hegazy FA, et al.: Does rehabilitation of cervical lordosis influence sagittal cervical spine flexion extension kinematics in cervical
+      spondylotic radiculopathy subjects? J Back Musculoskeletal Rehabil, 2017, 30: 937–941. [Medline] [CrossRef]
+52)   Moustafa IM, Diab AA, Taha S, et al.: Addition of a sagittal cervical posture corrective orthotic device to a multimodal rehabilitation program improves short-
+      and long-term outcomes in patients with discogenic cervical radiculopathy. Arch Phys Med Rehabil, 2016, 97: 2034–2044. [Medline] [CrossRef]
+53)   Moustafa IM: Does improvement towards a normal cervical configuration aid in the management of fibromyalgia. A randomized controlled trial. Bull Fac Ph
+      Th Cairo Univ, 2013, 18: 29–41.
+54) Harrison DE, Harrison DD, Betz JJ, et al.: Increasing the cervical lordosis with chiropractic biophysics seated combined extension-compression and transverse
+      load cervical traction with cervical manipulation: nonrandomized clinical control trial. J Manipulative Physiol Ther, 2003, 26: 139–151. [Medline] [CrossRef]
+
+
+
+J. Phys. Ther. Sci. Vol. 33, No. 10, 2021                                                                                                                      792
+55) Harrison DE, Cailliet R, Harrison DD, et al.: A new 3-point bending traction method for restoring cervical lordosis and cervical manipulation: a nonrandom-
+      ized clinical controlled trial. Arch Phys Med Rehabil, 2002, 83: 447–453. [Medline] [CrossRef]
+56) Harrison DD, Janik TJ, Troyanovich SJ, et al.: Comparisons of lordotic cervical spine curvatures to a theoretical ideal model of the static sagittal cervical spine.
+      Spine, 1996, 21: 667–675. [Medline] [CrossRef]
+57) Harrison DD, Janik TJ, Troyanovich SJ, et al.: Evaluation of the assumptions used to derive an ideal normal cervical spine model. J Manipulative Physiol Ther,
+      1997, 20: 246–256. [Medline]
+58) Oakley PA, Harrison DD, Harrison DE, et al.: Evidence-based protocol for structural rehabilitation of the spine and posture: review of clinical biomechanics
+      of posture (CBP) publications. J Can Chiropr Assoc, 2005, 49: 270–296. [Medline]
+59) Harrison DE, Harrison DD, Haas JW: Structural rehabilitation of the cervical spine. Evanston: Harrison CBP® Seminars, Inc., 2002.
+60) Solomonow M, He Zhou B, Baratta RV, et al.: Biexponential recovery model of lumbar viscoelastic laxity and reflexive muscular activity after prolonged cyclic
+      loading. Clin Biomech (Bristol, Avon), 2000, 15: 167–175. [Medline] [CrossRef]
+61)   Harrison DE, Harrison DD, Colloca CJ, et al.: Repeatability over time of posture, radiograph positioning, and radiograph line drawing: an analysis of six
+      control groups. J Manipulative Physiol Ther, 2003, 26: 87–98. [Medline] [CrossRef]
+62) Jackson BL, Barker WF, Pettibon BR, et al.: Reliability of the Pettibon patient positioning system for radiographic production. J Vertebr Subluxat Res, 2000,
+      4: 3–11.
+63) Gore DR: Roentgenographic findings in the cervical spine in asymptomatic persons: a ten-year follow-up. Spine, 2001, 26: 2463–2466. [Medline] [CrossRef]
+64) Peng L, Cooke MS: Fifteen-year reproducibility of natural head posture: a longitudinal study. Am J Orthod Dentofacial Orthop, 1999, 116: 82–85. [Medline]
+      [CrossRef]
+65) Sandham A: Repeatability of head posture recordings from lateral cephalometric radiographs. Br J Orthod, 1988, 15: 157–162. [Medline] [CrossRef]
+66) Cooke MS, Wei SH: The reproducibility of natural head posture: a methodological study. Am J Orthod Dentofacial Orthop, 1988, 93: 280–288. [Medline]
+      [CrossRef]
+67) Beck A, Killus J: Normal posture of spine determined by mathematical and statistical methods. Aerosp Med, 1973, 44: 1277–1281. [Medline]
+68) Jenkins HJ, Downie AS, Moore CS, et al.: Current evidence for spinal X-ray use in the chiropractic profession: a narrative review. Chiropr Man Therap, 2018,
+      26: 48. [Medline] [CrossRef]
+69) Harrison DE, Harrison DD, Janik TJ, et al.: Slight head extension: does it change the sagittal cervical curve? Eur Spine J, 2001, 10: 149–153. [Medline] [Cross-
+      Ref]
+70) Hellsing E: Changes in the pharyngeal airway in relation to extension of the head. Eur J Orthod, 1989, 11: 359–365. [Medline] [CrossRef]
+71)   Gehweiler JA Jr, Clark WM, Schaaf RE, et al.: Cervical spine trauma: the common combined conditions. Radiology, 1979, 130: 77–86. [Medline] [CrossRef]
+72) Clark WN, Gehweiler JA, Laib R: Twelve significant signs of cervical spine trauma. Skeletal Radiol, 1979, 3: 201–205. [CrossRef]
+73) Juhl JH, Miller SM, Roberts GW: Roentgenographic variations in the normal cervical spine. Radiology, 1962, 78: 591–597. [CrossRef]
+74) Shekelle PG, Coulter I: Cervical spine manipulation: summary report of a systematic review of the literature and a multidisciplinary expert panel. J Spinal
+      Disord, 1997, 10: 223–228. [Medline] [CrossRef]
+75) Colloca CJ, Keller TS: Electromyographic reflex responses to mechanical force, manually assisted spinal manipulative therapy. Spine, 2001, 26: 1117–1124.
+      [Medline] [CrossRef]
+76) Fedorchuk CA, McCoy M, Lightstone DF, et al.: Impact of isometric contraction of anterior cervical muscles on cervical lordosis. J Radiol Case Rep, 2016, 10:
+      13–25. [Medline]
+77) Zhou L, Fan J, Cheng L, et al.: Changes of cervical sagittal alignments during motions in patients with cervical kyphosis. Medicine (Baltimore), 2017, 96:
+      e8410. [Medline] [CrossRef]
+78) Harrison DE, Oakley PA: Non-operative correction of flat back syndrome using lumbar extension traction: a CBP® case series of two. J Phys Ther Sci, 2018,
+      30: 1131–1137. [Medline] [CrossRef]
+79) Panjabi MM, White AA: Biomechanics in the musculoskeletal system. Philadelphia: Churchill Livingstone, 2001.
+80) Adams MA, Dolan P: Time-dependent changes in the lumbar spine’s resistance to bending. Clin Biomech (Bristol, Avon), 1996, 11: 194–200. [Medline]
+      [CrossRef]
+81)   Hukins DW, Kirby MC, Sikoryn TA, et al.: Comparison of structure, mechanical properties, and functions of lumbar spinal ligaments. Spine, 1990, 15:
+      787–795. [Medline] [CrossRef]
+82) Oliver MJ, Twomey LT: Extension creep in the lumbar spine. Clin Biomech (Bristol, Avon), 1995, 10: 363–368. [Medline] [CrossRef]
+83) Woo S, Livesay GA, Runco TJ, et al.: Structure and function of tendons and ligaments. In: Mow VC, Hayes WC, (eds.) Basics orthopaedic biomechanics, 2nd
+      ed. Philadelphia: Lippincott-Raven, 1997, pp 209–52.
+84) Hey HW, Lau ET, Wong GC, et al.: Cervical alignment variations in different postures and predictors of normal cervical kyphosis: a new understanding. Spine,
+      2017, 42: 1614–1621. [Medline] [CrossRef]
+85) Park SM, Song KS, Park SH, et al.: Does whole-spine lateral radiograph with clavicle positioning reflect the correct cervical sagittal alignment? Eur Spine J,
+      2015, 24: 57–62. [Medline] [CrossRef]
+86) Carreon LY, Smith CL, Dimar JR 2nd, et al.: Correlation of cervical sagittal alignment parameters on full-length spine radiographs compared with dedicated
+      cervical radiographs. Scoliosis Spinal Disord, 2016, 11: 12. [Medline] [CrossRef]
+87) Baba H, Uchida K, Maezawa Y, et al.: Lordotic alignment and posterior migration of the spinal cord following en bloc open-door laminoplasty for cervical
+      myelopathy: a magnetic resonance imaging study. J Neurol, 1996, 243: 626–632. [Medline] [CrossRef]
+88) Stein J: Failure of magnetic resonance imaging to reveal the cause of a progressive cervical myelopathy related to postoperative spinal deformity: a case report.
+      Am J Phys Med Rehabil, 1997, 76: 73–75. [Medline] [CrossRef]
+89) Swank ML, Sutterlin CE 3rd, Bossons CR, et al.: Rigid internal fixation with lateral mass plates in multilevel anterior and posterior reconstruction of the cervi-
+      cal spine. Spine, 1997, 22: 274–282. [Medline] [CrossRef]
+90) Kawakami M, Tamaki T, Yoshida M, et al.: Axial symptoms and cervical alignments after cervical anterior spinal fusion for patients with cervical myelopathy.
+      J Spinal Disord, 1999, 12: 50–56. [Medline] [CrossRef]
+
+
+
+                                                                                                                                                                  793
+91)   Naderi S, Ozgen S, Pamir MN, et al.: Cervical spondylotic myelopathy: surgical results and factors affecting prognosis. Neurosurgery, 1998, 43: 43–49, discus-
+      sion 49–50. [Medline] [CrossRef]
+92) Grosso MJ, Hwang R, Mroz T, et al.: Relationship between degree of focal kyphosis correction and neurological outcomes for patients undergoing cervical
+      deformity correction surgery. J Neurosurg Spine, 2013, 18: 537–544. [Medline] [CrossRef]
+93) Guo GM, Li J, Diao QX, et al.: Cervical lordosis in asymptomatic individuals: a meta-analysis. J Orthop Surg Res, 2018, 13: 147. [Medline] [CrossRef]
+94) Breig A: Adverse mechanical tension in the central nervous system. Analysis of cause and effect. Relief by functional neurosurgery. Stockholm: Almqvist &
+      Wiksell International, 1978.
+95) Breig A: Chapter 6. Pathological stress in the pons-cord tissue tract and its alleviation by neurosurgical means. Clin Neurosurg, 1973, 20: 85–94. [Medline]
+      [CrossRef]
+96) Breig A, Turnbull I, Hassler O: Effects of mechanical stresses on the spinal cord in cervical spondylosis. A study on fresh cadaver material. J Neurosurg, 1966,
+      25: 45–56. [Medline] [CrossRef]
+97) Breig A, el-Nadi AF: Biomechanics of the cervical spinal cord. Relief of contact pressure on and overstretching of the spinal cord. Acta Radiol Diagn (Stockh),
+      1966, 4: 602–624. [Medline] [CrossRef]
+98) Breig A, Troup JD: Focal intramedullary tension in patients with cord lesion and its surgical relief by spinal cord relaxation. Lancet, 1984, 1: 739–740. [Med-
+      line] [CrossRef]
+99) Oakley PA, Moustafa IM, Harrison DE: The Influence of sagittal plane spine alignment on neurophysiology and sensorimotor control measures: optimization
+      of function through structural correction. In: Bernardo-Filho M, Sá-Caputo D, Seixas A, Taiar R (eds.) Neurological physical therapy. London: IntechOpen
+      Publishers, 2021. [CrossRef]
+100) Teo AQ, Thomas AC, Hey HW: Sagittal alignment of the cervical spine: do we know enough for successful surgery? J Spine Surg, 2020, 6: 124–135. [Medline]
+      [CrossRef]
+101) Lin BJ, Hong KT, Lin C, et al.: Impact of global spine balance and cervical regional alignment on determination of postoperative cervical alignment after
+      laminoplasty. Medicine (Baltimore), 2018, 97: e13111. [Medline] [CrossRef]
+102) Oakley PA, Sanchez LJ, Harrison DE: Medical radiologists may not consider the cervical lordosis in radiology reports: a comparison of subjective qualitative
+      assessment versus object quantitative mensuration in 100 consecutive patients at one medical imaging center. J Contemp Chiropr, 2021, 4: 17–25.
+
+
+
+
+J. Phys. Ther. Sci. Vol. 33, No. 10, 2021                                                                                                                     794
+

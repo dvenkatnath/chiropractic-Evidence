@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CBP Research Network — Evidence Engine</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#0a1020; --panel:rgba(255,255,255,.045); --panel2:rgba(255,255,255,.07);
+    --border:rgba(255,255,255,.09); --text:#e8eefc; --muted:#8fa3c8;
+    --cyan:#38bdf8; --violet:#a78bfa; --green:#34d399; --amber:#fbbf24; --rose:#fb7185;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:radial-gradient(1200px 600px at 80% -10%, #12325a55, transparent),
+       radial-gradient(900px 500px at -10% 110%, #3b0f5e44, transparent), var(--bg);
+       color:var(--text); font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; min-height:100vh}
+  .wrap{max-width:1280px;margin:0 auto;padding:22px 26px 60px}
+  header{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:18px}
+  .logo{display:flex;align-items:center;gap:14px}
+  .logomark{width:44px;height:44px;border-radius:12px;background:linear-gradient(135deg,var(--cyan),var(--violet));
+    display:flex;align-items:center;justify-content:center;font-weight:800;font-size:15px;color:#071021}
+  h1{font-size:20px;font-weight:700;letter-spacing:-.3px}
+  .sub{font-size:12.5px;color:var(--muted);margin-top:2px}
+  .badges{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .badge{font-size:11px;padding:5px 11px;border-radius:20px;border:1px solid var(--border);color:var(--muted)}
+  .badge.real{border-color:#34d39955;color:var(--green);background:#34d39910}
+  .badge.role{border-color:#38bdf855;color:var(--cyan);background:#38bdf810}
+  .logout{background:none;border:1px solid var(--border);color:var(--muted);font-size:11.5px;padding:6px 12px;
+    border-radius:20px;cursor:pointer;font-family:inherit}
+  .logout:hover{color:var(--text);border-color:var(--muted)}
+  nav{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:20px;border-bottom:1px solid var(--border)}
+  nav button{background:none;border:none;color:var(--muted);font-size:13.5px;font-weight:600;padding:11px 15px;cursor:pointer;
+    border-bottom:2.5px solid transparent;transition:.18s;font-family:inherit;white-space:nowrap}
+  nav button:hover{color:var(--text)}
+  nav button.on{color:var(--cyan);border-bottom-color:var(--cyan)}
+  .tab{display:none;animation:fade .3s ease}
+  .tab.on{display:block}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .grid{display:grid;gap:14px}
+  .row{display:grid;gap:14px;margin-top:14px}
+  .r2{grid-template-columns:1.4fr 1fr}
+  .r3{grid-template-columns:1fr 1fr 1fr}
+  @media(max-width:900px){.r2,.r3{grid-template-columns:1fr}}
+  .card{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px}
+  .card h3{font-size:14px;font-weight:700;margin-bottom:3px}
+  .card .cap{font-size:11.5px;color:var(--muted);margin-bottom:12px}
+  table{width:100%;border-collapse:collapse;font-size:12px}
+  th{text-align:left;color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.5px;padding:8px 8px;
+    border-bottom:1px solid var(--border);white-space:nowrap}
+  td{padding:9px 8px;border-bottom:1px solid rgba(255,255,255,.04);vertical-align:top}
+  tr:hover td{background:rgba(255,255,255,.025)}
+  .pill{font-size:10px;padding:2px 8px;border-radius:10px;font-weight:700;white-space:nowrap}
+  .pill.cervical{background:#38bdf818;color:var(--cyan)}
+  .pill.lumbar{background:#34d39918;color:var(--green)}
+  .pill.thoracic{background:#fbbf2418;color:var(--amber)}
+  .pill.other{background:#a78bfa18;color:var(--violet)}
+  /* Evidence Library / search */
+  .searchbox{display:flex;gap:10px;margin-bottom:14px}
+  .searchbox input{flex:1;background:#0d1830;border:1px solid var(--border);border-radius:10px;
+    padding:12px 14px;color:var(--text);font-size:13.5px;font-family:inherit}
+  .searchbox input:focus{outline:none;border-color:var(--cyan)}
+  .searchbox button{background:linear-gradient(135deg,var(--cyan),var(--violet));border:none;color:#071021;
+    font-weight:800;font-size:13px;padding:0 20px;border-radius:10px;cursor:pointer}
+  .searchbox button:disabled{opacity:.5;cursor:default}
+  .prompts{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+  .prompts button{background:var(--panel2);border:1px solid var(--border);color:var(--text);font-size:11px;
+    padding:7px 12px;border-radius:16px;cursor:pointer;font-family:inherit}
+  .prompts button:hover{border-color:var(--cyan);color:var(--cyan)}
+  .ask-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+  .ask-controls label{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--muted);cursor:pointer;user-select:none}
+  .ask-controls input[type=checkbox]{width:15px;height:15px;accent-color:var(--cyan);cursor:pointer}
+  .clear-btn{background:transparent;border:1px solid var(--border);color:var(--muted);font-size:12px;
+    padding:7px 14px;border-radius:10px;cursor:pointer;font-family:inherit;font-weight:600}
+  .clear-btn:hover{border-color:var(--rose);color:var(--rose)}
+  .synthesis{background:var(--panel2);border:1px solid #34d39955;border-left:3px solid var(--green);
+    border-radius:12px;padding:16px;font-size:13.5px;line-height:1.7;margin-bottom:14px;display:none}
+  .synthesis.unavailable{border-color:#fbbf2455;border-left-color:var(--amber);background:#fbbf2410;color:var(--amber);font-size:12.5px}
+  .sourcelist{display:none}
+  .source{background:var(--panel2);border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+  .source .meta{font-size:10.5px;color:var(--cyan);font-weight:700;margin-bottom:6px}
+  .source .quote{font-size:12.5px;color:var(--text);line-height:1.55;font-style:italic}
+  .source .page{color:var(--muted);font-weight:400;font-style:normal}
+  .loading{color:var(--muted);font-size:12.5px;display:none}
+  /* Bayesian */
+  .regioncard{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px;margin-bottom:14px}
+  .regioncard h3{font-size:15px;margin-bottom:2px}
+  .statgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:12px 0}
+  .stat{background:var(--panel2);border-radius:10px;padding:12px;text-align:center}
+  .stat .v{font-size:20px;font-weight:800;color:var(--green)}
+  .stat .l{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.4px;margin-top:4px}
+  .steplist{margin-top:10px;font-size:11.5px;color:var(--muted)}
+  .steplist div{padding:4px 0;border-bottom:1px solid rgba(255,255,255,.04)}
+  .chartbox{position:relative;height:220px;margin-top:12px}
+  .footnote{font-size:10.5px;color:var(--muted);font-style:italic;margin-top:10px;line-height:1.5}
+  .excludedbox{background:var(--panel2);border:1px solid var(--border);border-radius:12px;padding:14px;margin-top:14px}
+  .excludedbox .item{font-size:11.5px;color:var(--muted);padding:6px 0;border-bottom:1px solid rgba(255,255,255,.04)}
+  .footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--border);font-size:11px;color:var(--muted);text-align:center;line-height:1.7}
+  .placeholder-tab{padding:60px 20px;text-align:center;color:var(--muted)}
+  .placeholder-tab h3{color:var(--text);font-size:16px;margin-bottom:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="logo">
+      <div class="logomark">RN</div>
+      <div>
+        <h1>CBP Research Network <span style="color:var(--muted);font-weight:400">·</span> <span style="background:linear-gradient(90deg,var(--cyan),var(--violet));-webkit-background-clip:text;background-clip:text;color:transparent">Evidence Engine</span></h1>
+        <div class="sub">Real retrieval, real Bayesian synthesis, real citations — 9-paper proof of concept</div>
+      </div>
+    </div>
+    <div class="badges">
+      <span class="badge role" id="roleBadge">…</span>
+      <span class="badge real">REAL DATA · LIVE RAG</span>
+      <button class="logout" id="logoutBtn">Sign out</button>
+    </div>
+  </header>
+
+  <nav id="nav">
+    <button data-t="overview">Overview</button>
+    <button data-t="evidence">Evidence Library</button>
+    <button data-t="bayesian">Bayesian Synthesis</button>
+    <button data-t="clinics">Clinics</button>
+    <button data-t="policy">Policy</button>
+  </nav>
+
+  <!-- OVERVIEW -->
+  <section class="tab" id="tab-overview">
+    <div class="grid r3">
+      <div class="card"><div class="cap">Source papers indexed</div><div style="font-size:26px;font-weight:800;color:var(--cyan)" id="statPapers">9</div></div>
+      <div class="card"><div class="cap">Retrievable passages</div><div style="font-size:26px;font-weight:800;color:var(--violet)" id="statChunks">—</div></div>
+      <div class="card"><div class="cap">Regions with real Bayesian posteriors</div><div style="font-size:26px;font-weight:800;color:var(--green)" id="statRegions">3</div></div>
+    </div>
+    <div class="card" style="margin-top:14px">
+      <h3>What's real on this platform</h3>
+      <div class="cap">This is a proof of concept — not the full 341+ study network</div>
+      <p style="font-size:13px;line-height:1.75;color:var(--muted)">
+      The <b style="color:var(--text)">Evidence Library</b> tab runs genuine retrieval over the text of 9 real CBP papers from the research library, with a live LLM call synthesizing prose answers strictly grounded in the retrieved passages — every claim traces to a real quote, a real paper, and a real page number.<br><br>
+      The <b style="color:var(--text)">Bayesian Synthesis</b> tab pools the actual reported effect sizes from these 9 papers, region by region, using real inverse-variance-weighted updating — not simulated data. Where a paper only reported a range instead of a precise mean and SD, that's flagged explicitly.<br><br>
+      Production scales both engines to the full 341+ publication corpus plus live registry data from participating clinics.</p>
+    </div>
+  </section>
+
+  <!-- EVIDENCE LIBRARY (real) -->
+  <section class="tab" id="tab-evidence">
+    <div class="card">
+      <h3>Ask the Evidence Library</h3>
+      <div class="cap">Real retrieval over 9 CBP papers · live LLM synthesis grounded strictly in retrieved passages</div>
+      <div class="searchbox">
+        <input type="text" id="askInput" placeholder="e.g. What is the evidence for cervical extension traction?">
+        <button id="askBtn">Ask</button>
+      </div>
+      <div class="prompts">
+        <button data-q="What is the evidence for cervical extension traction and lordosis correction?">Cervical traction</button>
+        <button data-q="How much lumbar lordosis correction and pain reduction do CBP trials report?">Lumbar outcomes</button>
+        <button data-q="What improvements are reported for thoracic hyperkyphosis with CBP methods?">Thoracic kyphosis</button>
+        <button data-q="What secondary conditions improved in pediatric cervical lordosis case reports?">Pediatric cervical</button>
+        <button data-q="Is radiographic measurement of the sagittal lumbar spine and pelvis reliable?">Measurement reliability</button>
+      </div>
+      <div class="ask-controls">
+        <label><input type="checkbox" id="includeSources" checked> Include Sources / Evidence summary</label>
+        <button type="button" class="clear-btn" id="clearBtn">Clear</button>
+      </div>
+      <div class="loading" id="askLoading">Searching the corpus and generating a grounded answer…</div>
+      <div class="synthesis" id="synthesisBox"></div>
+      <div class="sourcelist" id="sourceList"></div>
+      <div id="evidenceTableCard" style="display:none;margin-top:14px">
+        <h3 style="font-size:14px;font-weight:700;margin-bottom:3px" id="evidenceTableTitle">Evidence summary for this answer</h3>
+        <div class="cap" style="margin-bottom:12px" id="evidenceTableCap">Structured numbers from the papers used in the answer above — not the full library</div>
+        <div style="overflow-x:auto">
+          <table id="extractionTable">
+            <thead><tr>
+              <th>Paper</th><th>Region</th><th>Study type</th><th>N</th><th>Treatments</th><th>Duration</th>
+              <th>Correction</th><th>Pain outcome</th><th>Follow-up</th>
+            </tr></thead>
+            <tbody id="extractionBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BAYESIAN (real) -->
+  <section class="tab" id="tab-bayesian">
+    <div class="card" style="margin-bottom:14px">
+      <h3>Real Per-Region Bayesian Pooling</h3>
+      <div class="cap" id="bayesianNote">Loading…</div>
+    </div>
+    <div id="regionCards"></div>
+    <div class="excludedbox">
+      <h3 style="font-size:13px;margin-bottom:8px">Excluded from pooling (shown for completeness)</h3>
+      <div id="excludedList"></div>
+    </div>
+  </section>
+
+  <!-- CLINICS (placeholder for this POC) -->
+  <section class="tab" id="tab-clinics">
+    <div class="placeholder-tab">
+      <h3>Clinic Dashboard</h3>
+      <p>Clinic-level benchmarking connects once pilot clinics begin submitting registry data.<br>This proof of concept focuses on the Evidence Library and Bayesian Synthesis engines.</p>
+    </div>
+  </section>
+
+  <!-- POLICY (placeholder for this POC) -->
+  <section class="tab" id="tab-policy">
+    <div class="placeholder-tab">
+      <h3>Executive &amp; Policy View</h3>
+      <p>Coverage-evidence briefs and aggregate outcomes reporting draw on the same real Evidence Library and Bayesian engines shown in this proof of concept, plus registry data once the network is live.<br>See the Evidence Library and Bayesian Synthesis tabs for the real engines in action.</p>
+    </div>
+  </section>
+
+  <div class="footer">
+    CBP Research Network — Evidence Engine Proof of Concept · Real retrieval &amp; real Bayesian synthesis over 9 source papers<br>
+    Production scales to the full 341+ publication corpus plus live registry data
+  </div>
+</div>
+
+<script>
+const C = { cyan:'#38bdf8', violet:'#a78bfa', green:'#34d399', amber:'#fbbf24', rose:'#fb7185', muted:'#8fa3c8', grid:'rgba(255,255,255,.06)' };
+Chart.defaults.color = C.muted;
+Chart.defaults.font.family = "-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif";
+
+/* ---- auth guard + role badge ---- */
+fetch('/api/session').then(r=>r.json()).then(s=>{
+  if(!s.authenticated){ window.location.href='/login.html'; return; }
+  document.getElementById('roleBadge').textContent = 'Signed in as: ' + s.label;
+  const landingMap = { clinics:'clinics', evidence:'evidence', overview:'overview', policy:'policy' };
+  const landing = landingMap[s.landing] || 'overview';
+  activateTab(landing);
+});
+
+document.getElementById('logoutBtn').addEventListener('click', ()=>{
+  fetch('/api/logout', {method:'POST'}).then(()=> window.location.href='/login.html');
+});
+
+/* ---- tabs ---- */
+const nav = document.getElementById('nav');
+function activateTab(name){
+  nav.querySelectorAll('button').forEach(b=>b.classList.toggle('on', b.dataset.t===name));
+  document.querySelectorAll('.tab').forEach(t=>t.classList.remove('on'));
+  const el = document.getElementById('tab-'+name);
+  if(el) el.classList.add('on');
+}
+nav.addEventListener('click', e=>{
+  if(e.target.tagName!=='BUTTON') return;
+  activateTab(e.target.dataset.t);
+});
+
+/* ---- Evidence Library: real search ---- */
+const askInput = document.getElementById('askInput');
+const askBtn = document.getElementById('askBtn');
+const clearBtn = document.getElementById('clearBtn');
+const includeSources = document.getElementById('includeSources');
+const askLoading = document.getElementById('askLoading');
+const synthesisBox = document.getElementById('synthesisBox');
+const sourceList = document.getElementById('sourceList');
+const evidenceTableCard = document.getElementById('evidenceTableCard');
+const extractionBody = document.getElementById('extractionBody');
+let lastSources = null;
+let lastShowFullEvidenceTable = false;
+let extractionRows = [];
+
+function regionClass(region){
+  if(/cervical/i.test(region)) return 'cervical';
+  if(/lumbar/i.test(region)) return 'lumbar';
+  if(/thoracic/i.test(region)) return 'thoracic';
+  return 'other';
+}
+
+fetch('/api/extraction-table').then(r=>r.json()).then(data=>{
+  extractionRows = data.rows || [];
+}).catch(()=>{ extractionRows = []; });
+
+function renderEvidenceTable(sources, showFull){
+  if(!includeSources.checked){
+    evidenceTableCard.style.display = 'none';
+    return;
+  }
+  const titleEl = document.getElementById('evidenceTableTitle');
+  const capEl = document.getElementById('evidenceTableCap');
+  let rows = [];
+  if(showFull){
+    rows = extractionRows.slice();
+    titleEl.textContent = 'Full evidence table';
+    capEl.textContent = 'Structured numbers from all 9 papers in this proof-of-concept corpus';
+  } else {
+    if(!sources || !sources.length || !extractionRows.length){
+      evidenceTableCard.style.display = 'none';
+      extractionBody.innerHTML = '';
+      return;
+    }
+    const ids = [...new Set(sources.map(s => s.paperId).filter(Boolean))];
+    rows = extractionRows.filter(row => ids.includes(row.paperId));
+    titleEl.textContent = 'Evidence summary for this answer';
+    capEl.textContent = 'Structured numbers from the papers used in the answer above — not the full library';
+  }
+  if(!rows.length){
+    evidenceTableCard.style.display = 'none';
+    extractionBody.innerHTML = '';
+    return;
+  }
+  extractionBody.innerHTML = rows.map(row => `
+    <tr>
+      <td style="font-weight:600;max-width:220px">${row.title} <span style="color:var(--muted);font-weight:400">(${row.year})</span></td>
+      <td><span class="pill ${regionClass(row.region)}">${row.region}</span></td>
+      <td>${row.studyType}</td>
+      <td>${row.n}</td>
+      <td>${row.treatments}</td>
+      <td>${row.duration}</td>
+      <td>${row.correction}</td>
+      <td>${row.painOutcome}</td>
+      <td>${row.followUp}</td>
+    </tr>`).join('');
+  evidenceTableCard.style.display = 'block';
+}
+
+function renderSources(sources){
+  if(!includeSources.checked || !sources || !sources.length){
+    sourceList.style.display = 'none';
+    sourceList.innerHTML = '';
+    return;
+  }
+  sourceList.innerHTML = '<div style="font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px">Sources — real retrieved passages</div>' +
+    sources.map(s => `
+      <div class="source">
+        <div class="meta">[${s.n}] ${s.title} — ${s.journal}, ${s.year} <span class="page">· p.${s.page} · score ${s.score}</span></div>
+        <div class="quote">"${s.text}"</div>
+      </div>`).join('');
+  sourceList.style.display = 'block';
+}
+
+function renderSourcesAndSummary(){
+  renderSources(lastSources);
+  renderEvidenceTable(lastSources, lastShowFullEvidenceTable);
+}
+
+function clearAnswer(){
+  askInput.value = '';
+  askLoading.style.display = 'none';
+  synthesisBox.style.display = 'none';
+  synthesisBox.textContent = '';
+  sourceList.style.display = 'none';
+  sourceList.innerHTML = '';
+  evidenceTableCard.style.display = 'none';
+  extractionBody.innerHTML = '';
+  lastSources = null;
+  lastShowFullEvidenceTable = false;
+  askBtn.disabled = false;
+}
+
+async function runAsk(question){
+  if(!question || question.trim().length < 3) return;
+  askBtn.disabled = true;
+  askLoading.style.display = 'block';
+  synthesisBox.style.display = 'none';
+  sourceList.style.display = 'none';
+  sourceList.innerHTML = '';
+  evidenceTableCard.style.display = 'none';
+  extractionBody.innerHTML = '';
+  lastSources = null;
+  lastShowFullEvidenceTable = false;
+  try{
+    const resp = await fetch('/api/ask', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ question })
+    });
+    const data = await resp.json();
+    askLoading.style.display = 'none';
+    askBtn.disabled = false;
+
+    if(data.synthesis){
+      synthesisBox.className = 'synthesis';
+      synthesisBox.textContent = data.synthesis;
+      synthesisBox.style.display = 'block';
+    } else if(data.synthesisUnavailable){
+      synthesisBox.className = 'synthesis unavailable';
+      synthesisBox.textContent = '⚠ ' + data.synthesisUnavailable.message;
+      synthesisBox.style.display = 'block';
+    }
+
+    lastSources = data.sources || [];
+    lastShowFullEvidenceTable = !!data.showFullEvidenceTable;
+    renderSourcesAndSummary();
+  }catch(err){
+    askLoading.style.display = 'none';
+    askBtn.disabled = false;
+    synthesisBox.className = 'synthesis unavailable';
+    synthesisBox.textContent = '⚠ Could not reach the server.';
+    synthesisBox.style.display = 'block';
+  }
+}
+askBtn.addEventListener('click', ()=> runAsk(askInput.value));
+clearBtn.addEventListener('click', clearAnswer);
+includeSources.addEventListener('change', renderSourcesAndSummary);
+askInput.addEventListener('keydown', e=>{ if(e.key==='Enter') runAsk(askInput.value); });
+document.querySelectorAll('.prompts button').forEach(b=>{
+  b.addEventListener('click', ()=>{ askInput.value = b.dataset.q; runAsk(b.dataset.q); });
+});
+
+/* ---- Bayesian (real) ---- */
+function normPdf(x,mu,sd){ return Math.exp(-0.5*Math.pow((x-mu)/sd,2))/(sd*Math.sqrt(2*Math.PI)); }
+
+fetch('/api/bayesian').then(r=>r.json()).then(data=>{
+  document.getElementById('bayesianNote').textContent = data.note;
+  const container = document.getElementById('regionCards');
+  container.innerHTML = '';
+
+  data.regions.forEach((region, idx) => {
+    const div = document.createElement('div');
+    div.className = 'regioncard';
+    const sdFlag = region.steps.some(s => s.label.includes('estimated')) ? '' : '';
+    div.innerHTML = `
+      <h3>${region.label}</h3>
+      <div class="cap">Real pooled posterior from ${region.posterior.n} patients across this region's studies in the 9-paper set</div>
+      <div class="statgrid">
+        <div class="stat"><div class="v">${region.posterior.mean}°</div><div class="l">Posterior mean</div></div>
+        <div class="stat"><div class="v">±${region.posterior.sd}°</div><div class="l">Posterior SD</div></div>
+        <div class="stat"><div class="v">${region.posterior.ci95[0]}° to ${region.posterior.ci95[1]}°</div><div class="l">95% credible interval</div></div>
+        <div class="stat"><div class="v">${region.probExceedsZero}%</div><div class="l">P(true effect &gt; 0)</div></div>
+        <div class="stat"><div class="v">${region.probExceedsMcidProxy}%</div><div class="l">P(effect &gt; ${region.mcidThresholdDeg}° proxy)</div></div>
+      </div>
+      <div class="chartbox"><canvas id="chart-${region.region}"></canvas></div>
+      <div class="steplist">
+        ${region.steps.map(s => `<div>${s.label} — mean ${s.mean.toFixed ? s.mean.toFixed(2) : s.mean}°, SD ${s.sd.toFixed ? s.sd.toFixed(2): s.sd}°, n=${s.n}</div>`).join('')}
+      </div>
+      <div class="footnote">MCID proxy (${region.mcidThresholdDeg}°) is a conservative placeholder — no formally validated MCID exists for degrees of radiographic correction. SD values marked "estimated" in the underlying data were derived from reported ranges or comparable-study ratios, not measured directly; see data/bayesian-inputs.json for full methodology notes.</div>
+    `;
+    container.appendChild(div);
+  });
+
+  // Render charts after DOM insertion
+  data.regions.forEach(region => {
+    const ctx = document.getElementById('chart-'+region.region);
+    if(!ctx) return;
+    const mean = region.posterior.mean, sd = region.posterior.sd;
+    const lo = mean - 4*sd, hi = mean + 4*sd;
+    const xs = []; for(let x=lo; x<=hi; x+= (hi-lo)/80) xs.push(x);
+    new Chart(ctx, {
+      type:'line',
+      data:{ labels: xs.map(x=>x.toFixed(1)), datasets:[{
+        label:'Posterior distribution', data: xs.map(x=>normPdf(x,mean,sd)),
+        borderColor:C.green, borderWidth:2.5, pointRadius:0, tension:.35, fill:true,
+        backgroundColor:'rgba(52,211,153,.12)'
+      }]},
+      options:{ maintainAspectRatio:false, plugins:{legend:{display:false}},
+        scales:{ x:{ grid:{display:false}, ticks:{maxTicksLimit:8}, title:{display:true,text:'Correction (degrees)'} },
+                 y:{ grid:{color:C.grid}, ticks:{display:false} } } }
+    });
+  });
+
+  document.getElementById('excludedList').innerHTML = data.excluded.map(e => `
+    <div class="item"><b style="color:var(--text)">${e.paperId}</b> — ${e.reason}</div>
+  `).join('');
+});
+
+/* ---- overview stats ---- */
+fetch('/api/stats').then(r=>r.json()).then(d=>{
+  document.getElementById('statPapers').textContent = d.papers;
+  document.getElementById('statChunks').textContent = d.chunks;
+  document.getElementById('statRegions').textContent = d.regions;
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,868 @@
+===PAGE:pg-01.txt===
+JCC (/),
+
+MENU
+
+ISSN 2688-111X
+
+Articles (/section/3692-articles)
+
+Vol. 5, Issue 1, 2022 + September 14, 2022 CDT
+
+STRUCTURAL REHABILITATION
+OF THE LUMBAR LORDOSIS: A
+SELECTIVE REVIEW OF CBP®
+CASE REPORTS
+
+Paul Oakley, Sean Kallan, Deed Harrison
+
+ 
+
+C Lumbar Spine (/articles?tag-Lumbar%20Spine) C Lordosis (/articles?tag-Lordosis) )
+
+ 
+
+ 
+
+Rehabilitation (/articles?tag=Rehabilitation:
+
+JCC (/)
+
+Oakley P, Kallan S, Harrison D. STRUCTURAL REHABILITATION OF THE LUMBAR LORDOSIS: A SELECTIVE REVIEW OF CBP®
+CASE REPORTS. JCC. 2022;5(1):206-211.
+===PAGE:pg-02.txt===
+Save article as... ¥
+
+Data Sets/Files (2)
+
+818 views
+
+27 pdf downloads
+
+View more stats (/article/78047-structural-rehabilitation-of-the-lumbar-lordosis-a-
+selective-review-of-cbp-case-reports/stats)
+
+Abstract
+
+Objective: To characterize case report evidence of Chiropractic BioPhysics® (CBP®) technique methods
+applied to increase lumbar lordosis in patients with defined radiographic hypolordosis.
+
+Methods: The CBP NonProfit website and Pubmed and Index to Chiropractic literature databases were
+searched for case reports/series documenting lumbar lordosis changes in the treatment of low back
+disorders after CBP technique methods were applied.
+
+Results: Our search located 17 patients reported in 11 publications treated by CBP methods to increase
+lumbar hypolordosis. On average, CBP lumbar extension traction (LET) methods as a part of a multimodal
+treatment program increased the lumbar lordosis by 15° after 52 treatments applied over 4.2 months,
+corresponding to a 75% reduction in pain intensity. Methodological quality of reports varied.
+
+Conclusions: There is an evolving evidence base involving case reports describing the management of
+CBP LET procedures in rehabilitation of the lumbar lordosis. The available case reports are in general
+agreement with clinical trial results and approximate treatment durations can be estimated from the
+
+existing data
+
+Introduction
+
+Low back pain (LBP) is a top cause of disability and yet treatment regimens aimed
+
+towards this disorder are highly varied and have limited and/or short-term efficacy.!
+2
+
+This is why LBP remains a high priority research avenue within the health sciences,
+===PAGE:pg-03.txt===
+where it is particularly needed in the manual therapies as the science is less complete.3
+
+The spinal biomechanics literature has evolved to recognize the importance of the
+lumbar lordosis, particularly the loss of the distal lumbar lordosis as a cause for back
+pain.45 Recent advancements in manual therapy has shown that non-surgical lumbar
+extension traction (LET) methods are effective for increasing the lumbar lordosis in
+multimodal rehabilitation programs.°~8 In fact, a recent systematic review located 4
+manuscripts®—? documenting 3 clinical trials showing a 7-11° increase in lumbar
+lordosis over the course of 10-12 weeks after 30-36 treatment sessions.!° An additional
+randomized trial, using the lumbar Denneroll™ orthotic as the LET device, found that
+an increased lumbar lordosis was associated with improved back pain, disability, and
+lumbar lordosis in the group receiving LET applied 3 sessions per week over the course
+
+of 10-weeks, though the magnitude of the change was not reported.!!
+
+These LET trials have demonstrated the use of LET as a part of a multimodal
+rehabilitation program in patients with chronic mechanical LBP’—!! as well as
+discogenic lumbosacral radiculopathy.® These 2 conditions (CLBP and lumbosacral
+radiculopathy) represent only 2 disorders of many possible low back conditions that
+patients may seek care for. Due to ever increasing efforts to increase provider treatment
+guidelines, lesser levels of scientific evidence, such as case reports, often become
+important in offering guidance in the treatment of different spinal conditions,!213
+
+including low back conditions lacking higher levels of documented evidence (i.e.
+
+randomized clinical trial).
+
+The purpose of this review is to examine the clinical evidence of CBP technique
+methods of LET as used to increase lumbar lordosis in patients presenting with low
+back disorders having radiographically-diagnosed hypolordosis. We specifically aim to
+locate the scientific evidence as documented in case reports and series. Additionally, we
+offer suggestions for improvement of future clinical investigations and areas of needed
+
+research.
+===PAGE:pg-04.txt===
+Methods
+
+This review evaluated case reports/series reporting on LET rehabilitation of patients
+suffering from low back ailments having loss of lumbar spine lordosis and the clinical
+outcomes reported from CBP technique methods. Inclusion criteria required the report
+to use CBP LET methods to increase the lumbar lordosis. All ages and types of patient
+conditions were considered. Papers were obtained from the CBP NonProfit!4 website
+citation listings, as they are updated yearly (every fall). Only peer-reviewed manuscripts
+
+were considered.
+
+LET can be performed supine, seated, or standing. In each case, setups are similar and
+consider several features of the patient’s spine and posture alignment including: 1)
+sagittal translation to determine neutral or posterior or anterior positioning of the
+ribcage, 2) apex of the lumbar curve abnormality to determine location and angle of
+traction pull, 3) sacral inclination angle to determine thigh vs. pelvic constraint, 4)
+thoracic kyphosis to determine location of any thoracic constraint or support, and 5)
+pelvic to feet posture. For the purpose of this review, each method is considered an
+effective type of 3-point bending LET and are shown in Figure 1 (174868),
+
+ 
+
+Figure 1. Lumbar extension traction (LET) methods. LET can be performed supine
+(upper left in office device and lower left with the Denneroll™ prescription lumbar
+orthotic), seated (middle), or standing (right). In each case, setups are similar and
+
+consider several features of the patients spine and posture alignment including: 1)
+===PAGE:pg-05.txt===
+sagittal translation to determine neutral or posterior or anterior positioning of the
+ribcage, 2) apex of the lumbar curve abnormality to determine location and angle of
+traction pull, 3) sacral inclination angle to determine thigh vs. pelvic constraint, 4)
+thoracic kyphosis to determine location of any thoracic constraint or support, and 5)
+pelvic to feet posture. All methods are effective types of 3-point bending LET
+(Courtesy CBP Seminars).
+
+To ensure completeness, a further search was conducted in the Index to Chiropractic
+Literature (ICL) and Pubmed databases for cases published within the last year (Oct.
+2021-July 2022). Search terms included lumbar spine, lumbar lordosis, hypolordosis,
+combined with Chiropractic Biophysics, CBP, traction, rehabilitation, restoration and
+improvement. Any located reports were screened for related references. Authors with
+multiple case reports on CBP methods were also individually searched on ICL, Pubmed
+
+and ResearchGate to locate any qualifying cases involving the lumbar spine.
+
+Papers listed on the CBP NonProfit website were systematically evaluated for
+documentation of treatments that aimed to correct lumbar hypolordosis deformities in
+the sagittal plane. The first 2 authors independently extracted details from included
+cases with any discrepancies decided among all three authors. All 129 papers listed on
+the CBP NonProfit website were screened for lumbar rehabilitation via CBP LET
+methods. Extracted details of the patients included: age, sex, primary complaint,
+treatment duration, treatment specifics (traction set-up), number of treatments,
+traction duration, exercise protocols and adjustment protocols. Extracted x-ray metrics
+included measured lordosis using absolute rotational angle (ARA), sacral base angle
+(SBA) thoracic translation in the sagittal plane (TzT) and any pelvic morphology
+measures. Further, pain and disability scores were noted, including the numerical pain
+rating scale (NPRS) and the Oswestry low back pain disability index (ODI).
+===PAGE:pg-06.txt===
+Results
+
+Our search located 17 patients reported in 11 separate publications as treated by CBP
+methods to increase lumbar hypolordosis (Table 1 | (178850)).15=25 All manuscripts
+except one were listed on the CBP NP website and only the Fedorchuk case! was
+identified through the database search within the last year.
+
+ 
+
+  
+
+ 
+
+ 
+
+3
+5
+5
+53
+
+ 
+
+Table 1. Details of case reports/series rehabilitating lumbar lordosis in the treatment
+of patients with various lumbopelvic disorders.
+
+Note. All cases performed supine LET with the exception of Troyanovich (standing) and Brown (sitting).
+
+There were 2 case series (Brown, n=629; Harrison, n=218) and 9 single patient
+
+reports. 15-17,19-24 The low back conditions documenting improvement associated with
+increasing lumbar lordosis included: chronic LBP, 15,16,18-21,23-25 disc herniation,2/:25
+spinal stenosis,2° thoracolumbar kyphosis,?° flat back syndrome,!8 diffuse idiopathic
+skeletal hyperostosis (DISH),24 gastroesophageal reflux disease (GERD),22 and
+
+exertional dyspnea.!? One case reported a child aged 9,2” all others featured adults.
+
+An average of the treatment results (not including the Brown2>
+
+series that reported a
+group average), showed an increase in lumbar lordosis of 15° after 51 treatments over
+3.9 months to 10 patients (6m; 4f) of an average age of 33 years. There was also an
+
+average 8.6° increase in sacral base angle corresponding with an average reduction of
+
+anterior thoracic translation of 29mm (some reported reduction of posterior thoracic
+===PAGE:pg-07.txt===
+translation). The average pain intensity decreased 4.6 points on an 11-point pain rating
+scale. Two cases reported Oswestry low back pain disability scores (ODI) showing a
+decrease of 44%!9 and 16%2° over 6.5 and 7 months, respectively.
+
+The Brown case series (n=6) reported an average increase in lumbar lordosis of 8° after
+16 treatments over 1.5 months.2° There was an average decrease of pain intensity of 4.2
+points, and an average 12% decrease in ODI. There was no follow-up reported. Traction
+
+consisted of a seated lumbar extension traction.
+
+Overall, there were 5 of 17 (29%) cases that reported a follow-up period (9.5m!8; 12m]5;
+19m20 ; 2.75y-Case 119. 8y21) ; of these, all reported a maintenance of wellness (i.e.
+maintained initial symptom improvement). Upon follow-up, one case reported a
+continued improvement in lordosis,!8 two cases showed a maintenance of lordosis,!5»2! 15,21
+one case did not report follow up x-ray metrics,24 and one case showed a loss of
+lordosis!?; however, in the latter case there was a maintenance of thoracic kyphosis and
+a further improved APD:TTD ratio (a metric for chest dimension ratio for the straight
+
+spine syndrome) in a patient treated for exertional dyspnea.
+
+Discussion
+
+In our selective review of papers reporting the rehabilitation of lumbar hypolordosis by
+CBP LET methods we located 17 patients as reported in 11 separate manuscripts. On
+average, there was an x-ray measured 15° improved lumbar lordosis, an 8.5° increased
+SBA, and a 28mm reduction in anterior thoracic translation posture after 52 treatments
+applied over the course of 4.2 months. These changes corresponded with a 4.8 point
+drop in the NPRS. These case studies reported the results from 12 males and 5 females
+ranging in age from 9 to 74 years.
+===PAGE:pg-08.txt===
+Excluding the series by Brown,2° there was an average 14.5° change in lordosis over 52
+treatments, which translates to a 0.28° change in lumbar lordosis per treatment. This is
+on par with what has been demonstrated in both non-randomized and randomized
+clinical trials on CBP LET methods.°~? The various clinical trials showed a range of
+0.21-0.31° improvement in lordosis per treatment.2° Although various case reports may
+have variation from this average change per treatment; it seems case reports are
+consistent with clinical trials and demonstrate that a 1° improvement in lumbar
+
+lordosis can be achieved after approximately 3-5 treatments. To note, the Brown
+25
+
+series? averaged 0.5° improvement per treatment in 6 patients. LET in the Brown case
+series,2° however, began in the initial week of beginning care, whereas in most of the
+other case reports, LET application began 1-3 weeks following traditional treatment
+applications (spinal manipulation, stretching, ice, etc...); thus, the results are similar
+
+considering LET actual dosages.
+
+Assessing the average lumbar lordosis improvement over treatment number employing
+LET methods is an important evidence-based approach to extrapolate treatment
+duration needed for individual presenting LBP patients. This obviously applies to the
+incorporation of LET methods which is based on radiographic assessment screening of
+a patient’s presenting sagittal lumbar spine. This raises several questions for debate
+regarding the routine utilization of spine radiographs including understanding of and
+
+using contemporary lumbopelvic parameters, and the implications of not using X-ray.
+
+First, contemporary understanding of the lumbopelvic sagittal spine alignment is
+essential and can only efficiently be screened for by using standing radiographs, and of
+course, repeat radiographs to assess treatment response. The analysis of the lumbar
+lordosis (LL) is now precisely understood where it cannot be simply assessed as a single
+angle of LL curvature in isolation. Rather the congruence/incongruence of how the LL is
+correlated to both the sacral inclination angle (SIA) and the patient’s angle of pelvic
+morphology (PM) is mandatory.2”—33 Importantly, an individual’s correlation between
+LL vs. SIA and both SIA and LL vs. PM has been demonstrated to determine the
+
+ 
+===PAGE:pg-09.txt===
+27-33
+
+presence or absence of LBP, disability, need for intervention, and outcomes.
+Further, the difference between LL and PM (i.e., LL minus PM) and sagittal balance
+(translation) are essential variables known to be associated with LBP.2/-33
+
+It is a criticism of all case reports located from this review as well as from all previous
+clinical trials on LET methods that none have reported on a patient’s predicted ideal
+lumbar curve after taking into account their unique pelvic morphology.!° It has been
+illustrated elsewhere!° how future studies on use of LET methods requires the
+consideration of pelvic morphology and the relationships of SIA and LL as expressed
+above. As mentioned, different relationships or ‘fits’ of the lumbar lordosis relative to
+both the SBA and pelvic incidence angle can explain normal distributions as well as
+abnormal relationships of the lumbar lordosis in normal vs. chronic low back pain
+populations.27-%3 This current advanced understanding needs to be considered in
+
+future presentations regarding treatment of patients by LET methods.
+
+Second, as pointed out in the literature recently, the implications of not taking
+screening radiographs of a patient’s presenting lumbopelvic spinal parameters are
+significant. Treatment would not take alignment into consideration and therefore be
+akin to ‘black box’ or blinded treatment. Although the patient may experience
+temporary pain relief from many physiotherapeutic modalities, these have been shown
+
+to fail in the long-term if the lordotic curve of the low back is not rehabilitated.—8.!0
+
+Finally, routine X-ray screening of LBP patients would allow biomechanical diagnoses
+to be made and treatments could be custom tailored to meet the patient’s
+biomechanical needs in the relief of their ailment. This type of practice requires routine
+
+imaging which defies some anti-imaging advocates,°4~*° but could lead to evidence-
+
+ 
+
+based, ethical and patient-specific treatments to achieve more successful long-term
+
+outcomes.
+===PAGE:pg-10.txt===
+The limitations to this review include the limited number of citations located and the
+limited number of lumbar disorders of the presenting patients. It was also noted that
+the quality of the case reports located varied and details regarding treatment and
+outcomes were sometimes missing. There were only four cases that included long term
+
+follow-up. Future cases utilizing CBP LET methods need to include metrics on pelvic
+32
+
+morphology, relationships between LL and SIA, include body mass index information,
+include a follow-up period of at least 6-12 months, and include standardized pain,
+
+disability and quality of life data for each case.
+
+CONCLUSION
+
+There is an evolving evidence base involving case reporting on the successful
+management of CBP LET procedures in the rehabilitation of the lumbar lordosis. The
+available case reports are in general agreement with clinical trial results and
+approximate treatment durations can be estimated from the existing data. Current
+understanding of lumbopelvic alignment supports the routine radiographic screening
+of patients presenting with low back disorders to make a definitive biomechanical
+
+diagnosis and to determine patient-specific treatment needs.
+
+Conflict of interest
+
+Dr. Paul Oakley (PAO) is a paid consultant for CBP NonProfit, Inc.; Dr. Deed Harrison
+(DEH) teaches chiropractic rehabilitation methods and sells products to physicians for
+patient care as used in this manuscript.
+===PAGE:pg-11.txt===
+References
+
+1. Hartvigsen J, Hancock MJ, Kongsted A, et al. What low back pain is and why
+
+we need to pay attention. Lancet. 2018;391(10137):2356-2367. doi:10.1016/
+s0140-6736(18)30480-x (https://doi.org/10.1016/s0140-6736(18)30480-x)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=What+low+back+pain+is tand+why+we+need+totpay+attention&publication_year=2018&doi=10.1016%2Fs0140-
+6736%2818%2930480-x&pages=2356-
+
+2367 &journal=The+Lancet&volume=391 &issue=10137&author=Jan+Hartvigsen&author=Mark+J+Hancock&author=Alic
+
+2. Buchbinder R, van Tulder M, Oberg B, et al. Low back pain: a call for action.
+Lancet. 2018;391(10137):2384-2388. doi:10.1016/s0140-6736(18)30488-4
+(https://doi.org/10.1016/s0140-6736(18)30488-4)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Low+back+pain%3Ata+call+fortaction&publication_year=2018&doi=10.1016%2Fs0140-
+
+6736%2818%2930488-4&pages=2384-
+
+ 
+
+23888journal=The+Lancet&volume=391 &issue=10137&author=Rachelle+Buchbinder&author=Maurits+van+Tulder&aul
+
+3. Nuckols TK, Lim YW, Wynn BO, et al. Rigorous development does not ensure
+that guidelines are acceptable to a panel of knowledgeable providers. J Gen
+Intern Med. 2008;23(1):37-44. doi:10.1007/s11606-007-0440-9
+(https://doi.org/10.1007/s11606-007-0440-9), PMID:18030541
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Rigorous+development+does+not+ensuretthat+guidelines+aret+acceptable+to+a+panel+of+knowledgeable+provic
+007-0440-9&pages=37-
+
+448journal=Journal+of+General+Internal+Medicine&volume=238&issue=1 &author=Tery|+K.+Nuckols&author=Yee-
+
+Wei+Lim&author=Barbara+O.+Wynn&author=Soeren+Mattke&author=Catherine+H.+MacLean&author=Philip+Harber&
+===PAGE:pg-12.txt===
+Central (https://www.ncbi.nIm.nih.gov/pme/articles/PMC2173921) PubMed
+
+ 
+
+(https://pubmed.ncbi.nlm.nih.gov/18030541)
+
+4. Chun SW, Lim CY, Kim K, Hwang J, Chung SG. The relationships between
+low back pain and lumbar lordosis: a systematic review and meta-analysis.
+Spine J. 2017;17(8):1180-1191. doi:10.1016/j.spinee.2017.04.034
+(https://doi.org/10.1016/j.spinee.2017.04.034),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+relationships+between+low+back+pain+and+lumbar+lordosis%3A+atsystematic+reviewtand+meta-
+analysis&publication_year=2017&doi=10.1016%2Fj.spinee.2017.04.034&pages=1180-
+
+1191 &journal=The+Spine+Journal&volume=17&issue=8&author=Se-Woong+Chun&author=Chai-
+
+ 
+
+ 
+
+Young+Lim&author=Keewon+Kim&author=Jinseub+Hwang&author=Sun+G,+Chung)
+
+5. Sadler SG, Spink MJ, Ho A, De Jonge XJ, Chuter VH. Restriction in lateral
+bending range of motion, lumbar lordosis, and hamstring flexibility predicts
+the development of low back pain: a systematic review of prospective cohort
+studies. BMC Musculoskelet Disord. 2017;18(1):179. doi:10.1186/s12891-017-
+1534-0 (https://doi.org/10.1186/s12891-017-1534-0). PMID:28476110
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Restriction+in+lateral+bending+range+of+motion%2C+lumbartlordosis%2C+and+hamstring+flexibility+predicts+th
+017-1534-
+
+0&pages=1798journal=BMC+Musculoskeletal+Disorders&volume=18&issue=1 &author=Sean+G+Sadler&author=Martir
+
+ 
+
+Central (https://www.ncbi.nim.nih.gov/pmc/articles/PMC5418732) PubMed
+
+6. Moustafa IM, Diab AA. Extension traction treatment for patients with
+discogenic lumbosacral radiculopathy: a randomized controlled trial. Clin
+===PAGE:pg-13.txt===
+Rehabil. 2013;27(1):51-62. doi:10.1177/0269215512446093
+(https://doi.org/10.1177/0269215512446093)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Extension+traction+treatment+for+patients+with+discogenic+lumbosacraltradiculopathy%3Ata+randomized+cont
+
+628&journal=Clinical+Rehabilitation&volume=27&issue=1 &author=|brahim+M+Moustafa&author=Aliaa+A+Diab)
+
+7. Diab AA, Moustafa IM. Lumbar lordosis rehabilitation for pain and lumbar
+segmental motion in chronic mechanical low back pain: a randomized trial. J
+Manipulative Physiol Ther. 2012;35(4):246-253. doi:10.1016/j.jmpt.2012.04.021
+(https://doi.org/10.1016/j.jmpt.2012.04.021),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Lumbar+lordosis+rehabilitation+for+pain+and+lumbar+segmental+motion+in+chronictmechanical+low+back+pain
+
+2538journal=Journal+of+Manipulativet+and+Physiological+Therapeutics&volume=35&issue=4 &author=Aliaa+A.+Diab&
+
+8. Diab AA, Moustafa IM. The efficacy of lumbar extension traction for sagittal
+alignment in mechanical low back pain: a randomized trial. J Back
+
+Musculoskeletal Rehabil. 2013;26(2):213-220. doi:10.3233/bmr-130372
+(https://doi.org/10.3233/bmr-130372)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+efficacy+of+lumbar+textension+traction+for+sagittal+alignment+in+mechanical+low+back+pain%3A+a+rando1
+130372&pages=213-
+
+220&journal=Journal+of+Back+and+Musculoskeletal+Rehabilitation&volume=26&issue=2&author=Aliaa+Attiaht+Diab&<
+
+9. Harrison DE, Cailliet R, Harrison DD, Janik TJ, Holland B. Changes in sagittal
+lumbar configuration with a new method of extension traction:
+nonrandomized clinical controlled trial. Arch Phys Med Rehabil.
+
+2002;83(11):1585-1591. doi:10.1053/apmr.2002.35485
+(https://doi.org/10.1053/apmr.2002.35485),
+===PAGE:pg-14.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Changes+in+sagittal+lumbart+configuration+witht+a+new+method+of+extension+traction%3A+nonrandomized+clin
+
+ 
+
+1591 &journal=Archives+of+Physical+Medicine+and+Rehabilitation&volume=83&issue=11 &author=Deed+E.+Harrison&
+
+10. Oakley PA, Ehsani NN, Moustafa IM, Harrison DE. Restoring lumbar
+lordosis: a systematic review of controlled trials utilizing Chiropractic Bio
+Physics® (CBP®) non-surgical approach to increasing lumbar lordosis in the
+treatment of low back disorders. J Phys Ther Sci. 2020;32(9):601-610.
+doi:10.1589/jpts.32.601 (https://doi.org/10.1589/jpts.32.601). PMID:32982058
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Restoring+lumbar+lordosis%3A+a+systematictreview+of+controlled+trials+utilizing+Chiropractic+Bio+Physics%C;
+
+ 
+
+surgicaltapproach+to+increasing+lumbartlordosis+int+the+treatment+of+lowtback+disorders&publication_year=2020&
+
+ 
+
+610&journal=Journal+of+Physical+Therapy+Science&volume=32&issue=9&author=Paul+A.+Oakley&author=Niousha+|
+
+Central (https://www.ncbi.nim.nih.gov/pmce/articles/PMC7509154) PubMed
+
+11. Azzam A, Moustafa IM, Anmed AMA, et al. Efficacy of denneroll traction on
+restoring normal sagittal configuration of lumber spine in chronic mechanical
+low back pain. Bulletin of Faculty of Physical Therapy. 2013;15(1):5-14.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Efficacy+of+denneroll+traction+on+restoring+normal+sagittal+configuration+of+lumber+spine+int+chronic+mechan
+
+ 
+
+14&journal=Bulletin+of+Faculty+of+Physical+Therapy&volume=15&issue=1 &author=A.+Azzamé&author=!.M.+Moustafa:
+
+12. Rome P, Waterhouse JD. An evidence-based narrative of the evidence-base
+concept. Asia-Pacific Chiropr J. 2020;1:004. doi:10.46323/2021004)
+(https://doi.org/10.46323/2021004)),
+
+Google Scholar (https://scholar.google.com/scholar_lookup7title=Ant+evidence-
+
+ 
+
+based+narrative+of+the+evidence-
+===PAGE:pg-15.txt===
+base+concept&publication_year=2020&doi=10.46323%2F2021004%29&pages=0048journal=Asia-
+
+ 
+
+Pacific+Chiropr+J&volume=1 &author=P.+Rome&author=J.D.+Waterhouse)
+
+ 
+
+13. Ebrall P, Doyle M. The value of case reports as clinical evidence. Chiropr J
+
+Australia. 2020;47:29-43. http:/Awww.cjaonline.com.au/index.php/cja/issue/
+view/15 (http://www.cjaonline.com.au/index.php/cja/issue/view/15),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+value+of+case+reports+as+clinical+evidence&publication_year=2020&pages=29-
+
+43&journal=Chiropr+J+Australia&volume=47&author=P.+Ebrall&author=M.+Doyle)
+
+14. Chiropractic BioPhysics NonProfit Inc. . Accessed July 6, 2022. http://
+www.cbpnonprofit.com/publications/
+(http:/Avww.cbpnonprofit.com/publications/),
+
+15. Fedorchuk C, Himel B, Lightstone DF. Improved Pain and Quality of Life
+
+with Corrected Thoracic and Lumbosacral Spondylolisthesis Subluxations
+
+Using CBP®: A Case Study and 1-Year Follow-Up. J Radiol Case Rep.
+2022;16(2):21-38. doi:10.3941/jrer.v16i2.4413
+(https://doi.org/10.3941/jrer.v16i2.4413), PMID:35586358
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Improved+Pain+and+Quality+of+Life+witht Corrected+Thoracic+and+Lumbosacral+Spondylolisthesis+ Subluxation
+
+Year+Follow-Up&publication_year=2022&doi=10.3941%2Fjrcr.v16i2.4413&pages=21-
+
+ 
+
+388journal=Journal+of+Radiology+Case+Reports&volume=16&issue=28author=Curtis+ Fedorchuk&author=Blake+Him
+
+Central (https:/Awww.ncbi.nim.nih.gov/pmce/articles/PMC9063820) PubMed
+
+16. Gubbels CM, Werner JT, Oakley PA, Harrison DE. Reduction of thoraco-
+
+lumbar junctional kyphosis, posterior sagittal balance, and increase of lumbar
+===PAGE:pg-16.txt===
+lordosis and sacral inclination by Chiropractic BioPhysics® methods in an
+adolescent with back pain: a case report. J Phys Ther Sci. 2019;31(10):839-843.
+doi:10.1589/jpts.31.839 (https://doi.org/10.1589/jpts.31.839). PMID:31645816
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Reduction+of+thoraco-
+lumbar+junctional+kyphosis%2C+posterior+sagittal+balance%2C+and+increase+of+lumbar+lordosistand+sacral+inclir
+8438&journal=Journal+of+Physical+Therapy+Science&volume=31&issue=10&author=Christopher+M.+Gubbels&author=
+
+Central (https://www.ncbi.nim.nih.gov/pmc/articles/PMC6801338) PubMed
+
+17. Fedorchuk C, Lightstone D, Baca J. Improvement in sagittal lumbar
+
+alignment and posture in an asymptomatic 9-year-old child following
+
+reduction in vertebral subluxation using Chiropractic BioPhysics protocol: A
+
+case study and review of literature. J Pediatr Matern Fam Health - Chiropr.
+2019;Oct:109-116.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Improvementtin+sagittal+lumbar+alignment+and+posturet+in+an+asymptomatic+9-year-
+old+child+following+reduction+in+vertebral+subluxation+using+Chiropractic+BioPhysics+protocol%3At+tAtcasetstudy+:
+1168&journal=J+Pediatr+Matern+Fam+Healtht-
+
++Chiropr&volume=Oct&author=Curtis+Fedorchuk&author=Douglas+Lightstone&author=J.+Baca)
+
+18. Harrison DE, Oakley PA. Non-operative correction of flat back syndrome
+
+using lumbar extension traction: a CBP® case series of two. J Phys Ther Sci.
+2018;30(8):1131-1137. doi:10.1589/jpts.30.1131
+(https://doi.org/10.1589/jpts.30.1131). PMID:30154615
+
+Google Scholar (https://scholar.google.com/scholar_lookup7title=Non-
+operative+correction+of#flattback+syndrome+using+lumbar+extension+traction%3A+a+CBP%C2%AE+casetseriesto
+
+11378&journal=Journal+of+Physical+Therapy+Science&volume=30&issue=8&author=Deed+E.+Harrison&author=Paul+/
+===PAGE:pg-17.txt===
+Central (https://www.ncbi.nIm.nih.gov/pmce/articles/PMC6110233) PubMed
+
+ 
+
+(https://pubmed.ncbi.nlm.nih.gov/30154615)
+
+19. Betz JW, Oakley PA, Harrison DE. Relief of exertional dyspnea and spinal
+
+pains by increasing the thoracic kyphosis in straight back syndrome (thoracic
+hypo-kyphosis) using CBP® methods: a case report with long-term follow-up.
+
+J Phys Ther Sci. 2018;30(1):185-189. doi:10.1589/jpts.30.185
+(https://doi.org/10.1589/jpts.30.185). PMID:29410595
+
+Google Scholar (https://scholar.google.com/scholar_ lookup?
+title=Relief+of+exertional+dyspnea+and+spinal+pains+by+increasing+the+thoracic+kyphosis+in+straight+back+syndro!
+
+kyphosis%29+using+CBP%C2%AE+methods%3A+a+casetreportt+with+long-term+follow-
+
+ 
+
+up&publication_year=2018&doi=10.1589%2Fjpts.30.185&pages=185-
+189&journal=Journal+of+Physical+Therapy+Science&volume=30&issue=1 &author=Joseph+W.+Betz&author=Paul+A.+
+Central (https://www.ncbi.nim.nih.gov/pmce/articles/PMC5788804) PubMed
+
+(https://pubmed.ncbi.nlm.nih.gov/294 10595),
+
+20. Weiner MT, Oakley PA, Dennis AK, Shapiro DA, Harrison DE. Increasing the
+cervical and lumbar lordosis is possible despite overt osteoarthritis and spinal
+stenosis using extension traction to relieve low back and leg pain in a 66-year-
+old surgical candidate: a CBP® case report. J Phys Ther Sci. 2018;30(11):1364-
+1369. doi:10.1589/jpts.30.1364 (https://doi.org/10.1589/jpts.30.1364),.
+PMID:30464366
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Increasing+the+cervical+and+lumbar+lordosis+is+possible+despite+overt+osteoarthritistand+spinal+stenosis+usil
+
+ 
+
+year-
+old+surgical+candidate%3A+a+CBP%C2%AE+case+report&publication_year=2018&doi=10.1589%2Fjpts.30.1364&par
+
+13698journal=Journal+of+Physical+Therapy+Science&volume=30&issue= 11 &author=Michael+T.+Weiner&author=Paul
+
+ 
+===PAGE:pg-18.txt===
+Central (https://www.ncbi.nIm.nih.gov/pme/articles/PMC6220102) PubMed
+
+ 
+
+(https://pubmed.ncbi.nlm.nih.gov/30464366)
+
+21. Oakley PA, Harrison DE. Lumbar extension traction alleviates symptoms
+
+and facilitates healing of disc herniation/sequestration in 6-weeks, following
+
+failed treatment from three previous chiropractors: a CBP® case report with
+
+an 8 year follow-up. J Phys Ther Sci. 2017;29(11):2051-2057. doi:10.1589/
+jpts.29.2051 (https://doi.org/10.1589/jpts.29.2051). PMID:29200655
+
+Google Scholar (https://scholar.google.com/scholar_ lookup?
+title=Lumbar+extension+traction+alleviates+symptoms+and+facilitates+healing+of+disc+herniation%2Fsequestration+ir
+
+weeks%2C+following+failed+treatment+from+three+previous+chiropractors%3A+a+CBP%C2%AE+case+report+with+<
+
+ 
+
+up&publication_year=2017&doi=10.1589%2Fjpts.29.2051&pages=2051-
+2057 &journal=Journal+of+Physical+Therapy+Science&volume=298issue=11&author=Paul+A.+Oakley&author=Deed+E
+
+Central (https://www.ncbi.nim.nih.gov/pmce/articles/PMC5702845) PubMed
+
+22. Fedorchuk C, Mohammed H. Improvement in GERD Following Reduction of
+Vertebral Subluxations & Improved Sagittal Alignment Utilizing Chiropractic
+Biophysics Protocol. Ann of Vert Sublux Res. Published online June 26, 2014:99-
+109.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=lmprovement+in+GERD+Following+Reduction+of+Vertebral+Subluxations+t %26+Improved+Sagittal+Alignment+Ut
+
+ 
+
+1098journal=Ann+of+Vert+Sublux+Res&author=C ,+Fedorchuk&author=H,.+Mohammed)
+
+23. Paulk GP, Harrison DE. Management of a chronic lumbar disk herniation
+with chiropractic biophysics methods after failed chiropractic manipulative
+intervention. J Manipulative Physiol Ther. 2004;27(9):579. doi:10.1016/
+j.jmpt.2004. 10.003 (https://doi.org/10.1016/j.jmpt.2004.10.003),
+===PAGE:pg-19.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Management+of+at+chronic+lumbar+diskt+herniation+with+chiropractict biophysics+methods+after+failed+chiropra
+
+ 
+
+24. Troyanovich SJ, Buettner M. A structural chiropractic approach to the
+management of diffuse idiopathic skeletal hyperostosis. J Manipulative Physiol
+Ther. 2003;26(3):202-206. doi:10.1016/s0161-4754(02)54132-4
+(https://doi.org/10.1016/s0161-4754(02)54132-4)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=A+structural+chiropractict+approach+to+the+managementtoftdiffusetidiopathic+skeletal+hyperostosis&publicatior
+4754%2802%2954132-4&pages=202-
+
+206&journal=Journal+of+Manipulative+and+Physiological+ Therapeutics&volume=26&issue=3&author=StephantJ+Troy
+
+25. Brown J, Jaeger J, Polatis T, et al. Increasing the lumbar lordosis by seated
+3-point bending traction: A case series utilizing Chiropractic BioPhysics
+
+technique. Chiropr J Australia. 2017;45:144-154.
+
+Google Scholar (https://scholar.google.com/scholar_lookup7title=Increasing+the+lumbar+lordosistby+seated+3-
+point+bending+traction%3A+A+casetseries+utilizing+Chiropractic+ BioPhysicst+technique&publication_year=2017&pag
+
+154&journal=Chiropr+J+Australia&volume=45&author=J.+Brown&author=J.+Jaeger&author=T.%2C+ettal.+Polatis)
+===PAGE:pg-20.txt===
+26. Harrison DE, Oakley PA. An Introduction to Chiropractic BioPhysics®
+(CBP®) Technique: A Full Spine Rehabilitation Approach to Reducing Spine
+Deformities. In: Bernardo-Filho M, Taiar R, de SA-Caputo DC, Seixas A, eds.
+Complementary Therapies. IntechOpen; 2022. doi:10.5772/intechopen.102686
+(https://doi.org/10.5772/intechopen. 102686)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+titlke=An+Introduction+to+Chiropractict BioPhysics%C2%AE+%28CBP%C2%AE%29+Technique%3AtA+Full+Spine+Re
+
+27. Mendoza-Lattes S, Ries Z, Gao Y, Weinstein SL. Natural history of
+
+spinopelvic alignment differs from symptomatic deformity of the spine. Spine.
+2010;35(16):E792-E798. doi:10.1097/brs.0b013e3181d35ca9
+(https://doi.org/10.1097/brs.0b013e3181d35ca9)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Natural+history+of+spinopelvic+alignmenttdiffers+from+symptomatictdeformity+of+the+spine&publication_year=2Z
+E7988&journal=Spine&volume=35&issue=16&author=Sergio+Mendoza-
+
+Lattes&author=Zachary+Ries&author=Yubo+Gao&author=Stuart+L.+Weinstein)
+
+28. Harrison DE, Harrison DD, Janik TJ, et al. Elliptical modeling and sagittal
+lumbar radiographic alignment variables in normal vs. chronic low back pain
+subjects: does pelvic morphology explain group lordotic differences? In:
+Proceedings of the 34th Annual Meeting of the International Society for the Study
+of the Lumbar Spine (ISSLS). ; 2007:149.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Ellipticalt+modeling+and+sagittal+lumbar+radiographic+alignment+variables+in+normal+vs.+chronictlow+back+pa
+
+29. Harrison DE, Keller TS, Harrison DD, et al. Pelvic morphology affects the
+sagittal plane alignment of the lumbo-pelvic spine normal subjects and low
+back pain patients. In: Proceedings of the 34th Annual Meeting of the
+International Society for the Study of the Lumbar Spine (ISSLS). ; 2007:148.
+===PAGE:pg-21.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Pelvict+morphology+affects+the+sagittal+plane+alignment+oft+the+lumbo-
+
+pelvictspine+normal+subjects+and+low+back+paintpatients&publication_year=2007&pages=148&conference=Procee
+
+30. Harrison DE, Betz JW, Harrison DD, et al. CBP Structural Rehabilitation of
+the Lumbar Spine. Harrison Chiropractic Biophysics Seminars, Inc.; 2007.
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=CBP+structural+rehabilitation+of+the+lumbar+spine&publication_year=2007&author=D.E.+Harrison&author=J.W.+
+
+31. Noshchenko A, Hoffecker L, Cain CMJ, Patel VV, Burger EL. Spinopelvic
+Parameters in Asymptomatic Subjects Without Spine Disease and Deformity:
+A Systematic Review With Meta-Analysis. Clin Spine Surg. 2017;30(9):392-403.
+
+doi:10.1097/bsd.0000000000000533
+(https://doi.org/10.1097/bsd.0000000000000533),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Spinopelvic+Parameters+in+Asymptomatic+Subjects+Without+Spine+Diseasetand+Deformity%3A+A+Systematic
+Analysis&publication_year=2017&doi=10.1097%2Fbsd.0000000000000533&pages=392-
+
+4038&journal=Clinical+Spine+Surgery%3A+A+Spine+Publication&volume=30&issue=9&author=Andriy+Noshchenko&au
+===PAGE:pg-22.txt===
+32. Fujishiro T, Boissiére L, Cawley DT, et al. Decision-making factors in the
+treatment of adult spinal deformity. Eur Spine J. 2018;27(9):2312-2321.
+doi:10.1007/s00586-018-5572-6 (https://doi.org/10.1007/s00586-018-5572-6)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Decision-
+making+factors+in+thettreatmenttoft+adult+spinaltdeformity&publication_year=2018&doi=10.1007%2Fs00586-
+018-5572-6&pages=2312-
+
+23218&journal=European+Spine+Journal&volume=27 &issue=9&author=Takashi+Fujishiro&author=Louis+Boissi~C3%A
+Marc+Vital&author=Ferran+Pellis%C3%A9&author=Francisco+Javier+Sanchez+P%C3%Agrez-
+
+Grueso&author=Frank+Kleinst%C3%BCck&author=Emre+Acaroglu&author=Ahmet+Alanay&author=Ibrahim+ Obeid),
+
+33. Banno T, Togawa D, Arima H, et al. The cohort study for the determination
+
+of reference values for spinopelvic parameters (T1 pelvic angle and global tilt)
+in elderly volunteers. Eur Spine J. 2016;25(11):3687-3693. doi:10.1007/s00586-
+016-4411-x (https://doi.org/10.1007/s00586-016-4411-x)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+cohortt+study+for+the+determinationt+of+reference+values+tfort+spinopelvictparameters+%28T 1+pelvictangle
+016-44 11-x&pages=3687-
+
+36938journal=European+Spine+Journal&volume=25&issue=11 &author=Tomohiro+ Banno&author=Daisuke+Togawa&al
+
+34. Corso M, Cancelliere C, Mior S, Kumar V, Smith A, Cété P. The clinical
+utility of routine spinal radiographs by chiropractors: a rapid review of the
+literature. Chiropr Man Therap. 2020;28(1):33. doi:10.1186/s12998-020-00323-
+8 (https://doi.org/10.1186/s12998-020-00323-8). PMID:32641135
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+clinical+utility+of+routine+spinal+radiographs+by+chiropractors%3A+a+rapid+review+of+the+literature&public
+020-00323-
+
+8&pages=338journal=Chiropractic+%26amp%3B+Manual+Therapies&volume=28&issue=1 &author=Melissa+Corso&at
+===PAGE:pg-23.txt===
+Central (https://www.ncbi.nIm.nih.gov/pme/articles/PMC7346665) PubMed
+
+ 
+
+(https://pubmed.ncbi.nlm.nih.gov/32641135)
+
+35. Jenkins HJ, Downie AS, Moore CS, French SD. Current evidence for spinal
+X-ray use in the chiropractic profession: a narrative review. Chiropr Man
+Therap. 2018;26(1):48. doi:10.1186/s12998-018-0217-8
+(https://doi.org/10.1186/s12998-018-0217-8). PMID:30479744
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Current+evidence+fort+spinal+X-
+ray+usetin+the+chiropractic+profession%3A+a+narrative+review&publication_year=2018&doi=10.1186%2Fs12998-
+018-0217-
+
+8&pages=488journal=Chiropractic+%26amp%3B+Manual+Therapies&volume=26&issue=1 &author=Hazel+J+Jenkins&
+
+ 
+
+ 
+
+Central (https://www.ncbi,nlm.nih.gov/pmc/articles/PMC6247638) PubMed
+
+36. Kawchuk G, Goertz C, Axén I, et al. Letter to the Editor Re: Oakley PA,
+Cuttler JM, Harrison DE. X-Ray Imaging Is Essential for Contemporary
+Chiropractic and Manual Therapy Spinal Rehabilitation: Radiography
+Increases Benefits and Reduces Risks. Dose Response. 2018 Jun 19;16(2). Dose
+Response. 2018;16(4):155932581881152. doi:10.1177/1559325818811521
+(https://doi.org/10.1177/1559325818811521). PMID:30627066
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Letter+to+the+EditortRe%3A+Oakley+PA%2C+Cuttler+JM%2C+Harrison+DE. +X-
+Ray+Imaging+ls+Essential+for+Contemporary+Chiropractict+and+Manual+Therapy+Spinal+Rehabilitation%3A+Radiog
+Response&volume=16&issue=4 &author=Greg+Kawchuk&author=Christine+Goertz&author=IbentAx%C3%A9n&author
+
+Central (https:/Awww.ncbi.nim.nih.gov/pme/articles/PMC6311565) PubMed
+
+ 
+===PAGE:pg-24.txt===
+Powered by Scholastica (https://scholasticahg.com/), the modern academic
+journal management system
+

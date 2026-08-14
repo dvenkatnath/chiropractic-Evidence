@@ -1,0 +1,791 @@
+===PAGE:pg-01.txt===
+JCC (/),
+
+MENU
+
+ISSN 2688-111X
+
+Articles (/section/3692-articles)
+
+Vol. 5, Issue 1, 2022 + February 18, 2022 CDT
+
+A REVIEW OF CBP METHODS®
+APPLIED TO REDUCE LATERAL
+HEAD TRANSLATION
+POSTURES
+
+Paul Oakley, Deed Harrison
+
+ 
+
+C Cervical Spine (/articles?tag-Cervical%20Spine) dC Posture (/articles?tag-Posture) )
+
+)
+
+ 
+
+ 
+
+C Chiropractic BioPhysics (/articles?tag-Chiropractic%20BioPhysics)
+
+ 
+
+JCC (7)
+
+Oakley P, Harrison D. A REVIEW OF CBP METHODS® APPLIED TO REDUCE LATERAL HEAD TRANSLATION POSTURES. JCC.
+2022;5(1):19-24.
+===PAGE:pg-02.txt===
+Save article as... ¥
+
+Data Sets/Files (4)
+
+476 views
+
+10 pdf downloads
+
+View more stats (/article/78024-a-review-of-cbp-methods-applied-to-reduce-lateral-
+head-translation-postures/stats)
+
+Abstract
+
+Objective: To characterize the evidence of CBP® technique methods in the reduction of lateral head
+translation postures and its effect on pain, disability and quality of life.
+
+Methods: The CBP NonProfit website as well as Pubmed and Index to Chiropractic literature were searched
+for clinical studies describing reduction of lateral head translation postures by CBP methods.
+
+Results: A single clinical trial as well as 14 case reports were located. The trial showed a 7mm reduction in
+lateral head translation after 37 treatments corresponding with a greater than a 3-point drop in pain rating
+versus no change in head posture or pain rating in 26 untreated controls.
+
+There were 14 case reports that in aggregate showed an average lateral head translation reduction of
+almost 18mm after 41 treatments, with a 4.3-point pain rating improvement. Many cases also reported
+functional, disability and quality of life improvements.
+
+Conclusion: There is a limited but evolving evidence-base supporting the unique mirror image approach to
+reducing lateral head translation postures by CBP technique methods that has impacts on pain, disability
+and quality of life. Since there is little consensus in the assessment and treatment of cervical spine
+disorders, the routine screening for head postures would allow for routine definitive diagnosis of those
+having a lateral head posture for which there is a specific treatment.
+===PAGE:pg-03.txt===
+Introduction
+
+A significant amount of evidence about Chiropractic BioPhysics® (CBP®) technique
+exoists in the scientific literature.! The CBP NonProfit website (www.idealspine.com
+(http:/Avww.idealspine.com)) lists 277 formal, peer-reviewed publications.! Recent
+systematic reviews have been published outlining the clinical evidence of CBP methods
+to increase cervical lordosis,2 increase lumbar lordosis,> and reduce thoracic
+
+hyperkyphosis.4
+
+CBP is based on the assessment of the 3-dimensional analysis of the head, thorax and
+pelvis in terms of rotations and translations about or along the x, y, and z-axes.° Thus,
+there are many postural subluxations; in fact, Harrison has calculated over 1.5 million
+different combinations of misaligned or subluxated postures based on this system.®
+One of the postures for which clinical reports exist is for the reduction of lateral head
+translation posture, a coronal offset of the head over the midline of the thorax (Figure 1
+(174746)).7
+
+Oakley and Harrison determined that approximately 50% of patients with neck pain
+and/or headaches have a lateral head translation posture.® They suggested lateral head
+postures exert asymmetrical forces onto the cervical spine tissues, which in turn
+contribute to neck pain and headaches. This is supported by their research on 146
+patient x-rays where the older the patient was, the longer they had suffered pain and
+the greater the lateral head translation magnitude.® Thus, lateral positioned head
+postures may be a clinical important finding that is amenable to treatment by CBP
+methods.?
+
+The purpose of this review is to characterize the evidence of CBP technique in the
+reduction of lateral head translation (also referred to as pseudo-scoliosis) and its effect
+on pain, disability and quality of life.
+===PAGE:pg-04.txt===
+Methods
+
+A review of the CBP NonProfit citation listings! was performed for clinical papers
+reporting on the reduction of lateral head translation postures. Any clinical study type
+was included. A search on both Pubmed and the Index to Chiropractic Literature (ICL)
+was also done using the keywords lateral head translation or pseudo-scoliosis; no
+
+papers were located that were not already listed on the CBP NonProfit site.
+
+To be thorough, CBP case reports were searched for this postural correction even if not
+mentioned in the title; for example, when the emphasis was on another postural
+subluxation. References of located studies were searched. Searches were also performed
+in chiropractic-dedicated conference proceedings, and experts were contacted on the
+
+topic of interest to locate further studies (e.g. authors of located cases).
+
+Information extracted from located studies included age and sex of patient, chief
+complaint, number of treatments, time duration of treatment, treatment specifics
+including traction set-up, traction duration, exercise protocol, adjusting protocol, as
+well as pre- and post-treatment magnitude of coronal offset and corresponding
+cervicodorsal (CD) and Rz angles (Figure 1 (174746)).
+
+ 
+
+Based on the data from located cases, we sought to evaluate the relation between
+magnitude of correction of lateral head posture to treatment number and treatment
+duration. This was done using correlation coefficients as calculated using the statistical
+
+program R10
+===PAGE:pg-05.txt===
+ 
+
+CERVICO-DORSAL
+ANGLE
+
+Figure 1. Harrison's modified Risser-Ferguson method applied to AP cervical
+radiographs. Best fit lines are created from the estimated centroids of each vertebra.
+===PAGE:pg-06.txt===
+The apex of the two lines represents the ‘cervico-dorsal (CD) angle’ and the lower
+line angle with the vertical represents the ‘Rz angle’ The lateral head translation is
+measured as the horizontal distance between the vertical and the upper end of the
+upper line level with C2 (not shown).
+
+Our search of the CBP NonProfit site located one non-randomized controlled trial
+(nRCT)? and 14 case reports!!~24 (Table 1 (178482)). Searches in Pubmed revealed 5
+hits and ICL 23 hits; all were already located from the CBP NonProfit site. No other
+cases were located by searching conference proceedings, references from included cases
+
+or contacting case report authors.
+
+Results
+
+The clinical trial reported a 7mm reduction in lateral head translation after an average
+of 37 treatments over 13 weeks in 51 chronic neck pain patients.? There was a 3.3-point
+drop in pain rating (4.0/10 to 0.7/10) during the treatment while there was no change in
+
+head posture or pain rating reported in the control group of 26 untreated patients with
+
+chronic neck pain.?
+
+The 14 located case reports (Table 1 (178482)) showed an average lateral head
+translation reduction of 17.7mm after 41 treatments over 4.1 months.!!-22 The
+corresponding reduction in CD and Rz angles were 5.0° and 4.9°, respectively. The
+average age was 48 and the average reduction of pain was 4.3 points on a 10-point
+
+rating scale (6.0/10 to 1.7/10). The reduction of lateral head postures successfully
+
+12,21 13
+
+relieved symptoms in patients with cervical radiculopathy,-“*~ chronic migraine,-?
+
+1 17,20
+
+4 carpal tunnel syndrome,!> 15 parkinson’s,! post: surgical fusion,_o“+
+19,23 4
+
+cervical dystonia,_*
+TM] dysfunction,!8 chronic headaches,!9:23 multiple sclerosis,22 and Tourette’s.24
+Many of the cases also reported improvements in functional measures (e.g. cervical
+
+range of motion), disability (e.g. neck disability index), and quality of life (e.g. SF-36).
+
+There were no adverse events reported.
+===PAGE:pg-07.txt===
+ 
+
+ 
+
+ 
+
+Primary No. Txt Pre-post TxH —Pre-post CDangle Pre-post Rzangle Pre-post Pain Other tfu
+Author Year Journal complaint _Age m/f Txts duration Txt reduction CD angle reduction _Rzangle reduction pain _ reduction outcomes time
+Berry 2020 ICC Trigeminal 64 m 36 3m +7mmjomm = 7mm N/R NR NR NR 7 0 Improved symptoms with 2y
+neuralgia sagittal improvements
+Radcliffe 2019 AVSR Cervical 9 49 m 72 6m —-36.9mm/-11.8mm 25.1mm +14°/N/R N/R +9.2°/N/R N/R 72 5 Resolved hand numbness, .83y
+radiculopathy headaches & vertigo
+Spriggs 2019 AVSR Chronic «35 m 24 «2m = -98.9mm/-3.7mm 62mm N/R NR NR NR 8/0 8 Resolved migraines, reduced _6y
+migraine disability
+Haas 2019 KC Cervical «59 f «24 «2m = -18.7mm/-4.8mm 139mm -12/-43° 7.77 6.4728" 36" N/R 90% reduction in dystonia 1.5y
+dystonia symptoms, pain, disability
+Breton 2019 JCC Carpaltunnel 29 m 33 3.25m +11mm/+5.5mm 5.5mm -4.9°/-6.1° -12" +4.4°/43.6" 0.8" 5/0 5 Resolution of CTS, improved no
+syndrome SF-36
+Anderson 2019 JPTS Parkinson's 59 m 38 5m -62.7mm/46.0mm 16.7mm -4.8/-2.2" 2.6" +15.6°/+115° 41° 6/2 4 Improved gait, balance, hand 1.75y
+tremors, back & knee pain, SF-36
+Oakley 2018 JPTS Post-surgical 56 f 25 0.5m -28mm/-13mm 15mm -3*/N/R N/R +11°/N/R_ N/R 6/ 5 Improved pain, headache, 14y
+fusion disability & SF-36
+Jaeger 2018 JPTS) = TM), «24 f 36) 3m -19mm/-1.3mm 17.7mm 6.2/2.8" 98ST BS! 42 2 Resolved disability, normalized no
+dysfunction TMU vibration analysis
+Berry 2017 AVSR Chronic «55 f «36 © «3m = -14mm/Omm = 14mm_— N/R NR NAR NR s/t 4 Resolved headaches, 10
+headaches neck disability
+Fedorchuk 2017 AVSR Postsurgical 43 f 36 3m = -6mm/-L4mm 4.6mm +4.7%/+15" 3.2" +1.3°/0? 13" N/R NUR Improved migraines, no
+fusion pain, ADL
+Berry 2017 CIA Cervical. «57 -m 36 «3m = -15mm/+3.9mm 189mm -2.9%/-2.2° 0.77 44.50" 45° 6/05 5.5_—Resolutionof neck pain, hand no
+radiculopathy numbness & hand strength
+Fedorchuk 2016 AVSR Multiple 58 f 30 25m +16.2mm/-0.8mm 17mm +8.6%/+4.2" 44° -6.2°/-0.8" 5.4" N/R_—N/R_Increasedlung function, grip no
+sclerosis strength & thermography
+Cardwell 2014 AVSR Chronic 34 m 33° 9m © -22mm/s6mm = -28mm_— N/R NR NR N/R =-N/R_—N/R_—Improvedheadaches, sinus no
+headaches & respiratory symptoms
+Ferrucci 2010 JVSR Tourette's. 45 m 108 12m = -22mm/-6mm 16mm -207/-8.5" 115" +16"/45.0" 11" N/R N/R Reduced tremors, 0
+increased enerey
+‘Average 48 8m 41 4.1m 20.6mm/7.4mm 177mm 6.97/40" 47° 81/32 49 6/17 43
+6
+
+ 
+
+Table 1. Details of case reports showing reduction of lateral head postures in the
+
+treatment of various cranio-cervical disorders.
+
+Note: m/f= male/female; Txt= treatment; TxH= Translation of the head along the x-axis; CD= cervicodorsal; Rz= Rotation
+about the z-axis; f/u= follow-up; m= month; N/R= not reported; y= year.
+
+Correlations between lateral head posture correction magnitudes and treatment
+
+number and treatment duration was .27 and .47, respectively (Figures 2 (174747) and 3
+(174748)). As seen, most patients received less than 40 treatments (Figure 2 (174747):
+12/14 cases) and most were treated for less than 4 months (Figure 3 (174748): 10/14
+
+cases).
+===PAGE:pg-08.txt===
+ 
+
+ 
+
+ 
+
+ 
+
+°
+
+°o
+
+S +
+
+S 4
+
+oe
+o °
+2
+=
+=
+Z
+e& 84
+
+Oo
+
+= °
+
+° ° ° oo
+° °
+°
+° °°
+T T T T T
+§ 10 15 20 25
+TxhReduction
+
+Figure 2. Plotting of the treatment number (TxtNumber) and lateral head translation
+correction in mm (TxhReduction) for 14 located case reports. Correlation coefficient =
+
+0.27.
+===PAGE:pg-09.txt===
+ 
+
+ 
+
+ 
+
+ 
+
+N 4 °
+o 4
+°
+co
+c
+2
+©
+46 o-4 °
+x
+e
+°
+e+
+°
+° ° ° oO
+°
+Nn 4 ° °
+°
+T T T T T
+5 10 15 20 25
+TxhReduction
+
+Figure 3. Plotting of the treatment duration in months (TxtDuration) and lateral head
+translation correction in mm (TxhReduction) for 14 located case reports. Correlation
+coefficient = 0.47.
+
+Discussion
+
+This review has summarized the details from one non-randomized controlled trial and
+14 case reports which have documented the reduction of lateral head translation
+postures in the treatment of various cranio-cervical disorders. The average reduction of
+lateral head posture was 7mm after 37 treatments in the trial? and averaged 18mm after
+41 treatments from the 14 individual cases./!=24 The individual cases demonstrated
+===PAGE:pg-10.txt===
+that a significant neck pain reduction (>4 points) can be achieved by reducing a lateral
+head postures after approximately 40 treatments over 4 months (Figures 2 (174747) and
+3 (174748)).
+
+It is perhaps surprising that the correlation between lateral head reduction magnitude
+and treatment number was low (r =,27),25 but this may be because some of the cases did
+a re-assessment after a larger than average treatment number (i.e. Ferruci, 108)24). The
+correlation between lateral head reduction and treatment duration approached a
+moderate strength at r = .47 and would have been stronger perhaps if some of the cases
+did a re-assessment sooner than at a long-time follow-up (i.e. Cardwell (9-months)23
+and Ferruci (12-months)24). The lack of strong correlations are likely due to the fact
+that in achieving significant clinical outcomes, the magnitude of correction can be
+small yet still provide an improvement where the biomechanical stresses and strains
+are reduced beyond some threshold sufficient enough to relieve the associated
+
+symptoms.
+
+It has been noted that most treatments for neck disorders have limited efficacy and this
+is particularly evident after long-term, post-therapeutic follow-up.2¢ The nRCT had no
+long-term follow-up and only 6 of 14 cases included a follow-up. Of the cases that did
+
+include a follow-up, 14-14,16.17
+
+the involved patients remained well and the
+corresponding spine improvements were maintained. Future studies of CBP clinical
+
+treatments for this posture need to include long-term outcome data.
+
+As the scientific evidence for the manual therapies is limited,2” lower forms of evidence
+must suffice; thus, case studies can play a role in guiding practice.2°29 Based on the
+magnitude of corrections divided by the treatment number, the data indicates a range
+of 0.2-0.4mm’s of correction per treatment. Therefore, a 1mm reduction requires 2.5-5
+
+treatments. This is useful information for a treating chiropractor utilizing these
+===PAGE:pg-11.txt===
+methods to estimate a range of treatment number based on the existing evidence base;
+for example, a patient presenting with a 20mm lateral head translation would require
+50-100 treatments for its reduction.
+
+In the only prevalence study of lateral head postures, Oakley and Harrison found a
+prevalence of 53% in a sample of 335 neck pain and/or headache patients.® They also
+suggested that lateral head postures exert asymmetrical forces onto the cervical spine
+tissues, which in turn contribute to neck pain and headaches.® It is conceivable that
+asymmetrical forces on the cervical structures may also contribute to other symptoms
+such as TMJ disorders.}8 We concur with Oakley and Harrison that because neck pain
+etiology remains controversial, lateral head shift postures are likely an unrealized factor
+in the causation of neck pains, headaches and other cranio-cervical symptoms in
+
+patients presenting with these postures.
+
+Because neck pain is a significant contributor to disability,2° and due to the wide
+variation in assessment methods and treatment approaches,”! the screening for lateral
+head postures seems like a wise recommendation particularly since the data presented
+show evidence of an effective treatment intervention utilizing CBP methods. It must
+also be stated that although postural photogrammetry may show this posture, only
+radiographic assessment allows for a more precise assessment and measurement
+including the CD and Rz angles and to confirm a normal spinal S-configuration
+
+coupling pattern or not.”
+
+Limitations to this review is that there was a limited number of cases, including only
+one trial. The generalizability of the data is also limited as treatment was typically
+provided to mid-aged patients. Since CBP methods uses a multimodal treatment
+approach, it is not known which procedures contributes to which extent to pain
+reduction and other positive clinical outcomes. Presumably it is the reduction of the
+spinal deviation that provides the long-term successful outcomes as has been shown in
+
+the correction of cervical and lumbar lordosis,2> however, this needs to be
+===PAGE:pg-12.txt===
+substantiated for lateral head translation postures. Future research in the treatment of
+lateral head translation postures also should include long-term follow-up and
+
+document disability and quality of life data.
+
+CONCLUSION
+
+There is a limited but evolving evidence-base supporting the unique mirror image
+approach to reducing lateral head translation postures by CBP technique methods.
+Since there is little consensus in the assessment and treatment of cervical spine
+disorders, the routine screening for head postures would allow for routine definitive
+
+diagnosis of those having a lateral head posture for which there is a specific treatment.
+
+References
+
+1. CBP NonProfit website. https://cbpnonprofit.com/publications/
+(https://cbpnonprofit.com/publications/)
+
+2. Oakley PA, Ehsani NN, Moustafa IM, Harrison DE. Restoring cervical lordosis
+by cervical extension traction methods in the treatment of cervical spine
+disorders: a systematic review of controlled trials. J Phys Ther Sci.
+2021;33(10):784-794. doi:10.1589/jpts.33.784
+(https://doi.org/10.1589/jpts.33.784). PMID:34658525
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Restoring+cervical+lordosis+by+cervical+extension+traction+methods+in+the+treatment+of+cervical+spine+disorc
+7948&journal=Journal+of+Physical+Therapy+Science&volume=33&issue=10&author=Paul+A.+Oakley&author=Niousha-
+Central (https://www.ncbi.nim.nih.gov/pmce/articles/PMC8516614) PubMed
+
+(https://pubmed.ncbi.nlm.nih.gov/34658525)
+===PAGE:pg-13.txt===
+3. Oakley PA, Ehsani NN, Moustafa IM, Harrison DE. Restoring lumbar
+
+lordosis: a systematic review of controlled trials utilizing Chiropractic Bio
+
+Physics® (CBP®) non-surgical approach to increasing lumbar lordosis in the
+treatment of low back disorders. J Phys Ther Sci. 2020;32(9):601-610.
+doi:10.1589/jpts.32.601 (https://doi.org/10.1589/jpts.32.601). PMID:32982058
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Restoring+lumbar+lordosis%3A+at+systematict+review+of+controlled+trials+utilizing+Chiropractic+Bio+Physics%C;
+surgical+approach+to+increasing+lumbar+lordosis +in+the+treatment+of+low+back+disorders&publication_year=2020&
+610&journal=Journal+of+Physical+Therapy+Science&volume=32&issue=9&author=Paul+A.+Oakley&author=Niousha+|
+
+Central (https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC7509154) PubMed
+
+4. Oakley PA, Harrison DE. Reducing thoracic uyperkyphosis subluxation
+deformity: a systematic review of Chiropractic BioPhysics® Methods employed
+
+in its structural improvement. J Contemp Chiropr. 2018;1:59-66.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Reducing+thoracictuyperkyphosis+subluxation+deformity%3A+a+systematic+reviewtof+Chiropractic+BioPhysics‘
+
+668journal=J+Contemp+Chiropr&volume=1 &author=P.A.+Oakley&author=D.E.+Harrison),
+
+5. Harrison DD, Janik TJ, Harrison GR, Troyanovich S, Harrison DE, Harrison
+
+SO. Chiropractic biophysics technique: a linear algebra approach to posture in
+chiropractic. J Manipulative Physiol Ther. 1996;19:525-535.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Chiropractictbiophysics+technique%3A+atlinear+algebratapproachtto+posture+in+chiropractic&publication_year
+
+535&journal=J+Manipulative+Physiol+Ther&volume=19&author=D.D.+Harrison&author=T.J.+Janik&author=G.R.+Harris
+
+6. Harrison DD. Abnormal postural permutations calculated as rotations and
+
+translations from an ideal normal upright static posture. In: Sweere JJ, ed.
+===PAGE:pg-14.txt===
+Chiropractic Family Practice. Aspen Publishers; 1992:1-22.
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Abnormal+postural+permutations+calculated+as+rotations+and+translations+from+an+ideal+normal+upright+statir
+
+228author=D.D.+Harrison)
+
+7. Harrison DE, Harrison DD, Cailliet R, Janik TJ, Troyanovich SJ. Cervical
+coupling during lateral head translations creates an S-configuration. Clin
+Biomech. 2000315(6):436-440. doi:10.1016/s0268-0033(99)00098-4
+
+(bttps://doi.org/10.1016/s0268-0033(99)00098-4),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Cervical+coupling+during+lateral+head+translations+createstan+S-
+configuration&publication_year=2000&doi=10.1016%2Fs0268-0033%2899%2900098-4 &pages=436-
+
+4408&journal=Clinical+Biomechanics&volume=15&issue=6&author=Deed+E+Harrison&author=Donald+D+Harrison&aut
+
+8. Oakley PA, Harrison DE. The prevalence of lateral head shift postures in a
+patient population: A correlation of posture magnitude, pain, and
+
+demographic variables. J Chiro Ed. 2004;18:73-74.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+prevalence+of+lateral+head+shift+postures+int+atpatient+population%3A+A+correlation+of+posture+magnitt
+
+74&journal=J+Chiro+Ed&volume=18&author=P.A.+Oakley&author=D.E.+Harrison)
+===PAGE:pg-15.txt===
+9. Harrison DE, Cailliet R, Betz J, et al. Conservative methods for reducing
+lateral translation postures of the head: a nonrandomized clinical control trial.
+J Rehabil Res Dev. 2004;41(4):631-639. doi:10.1682/jrrd.2003.05.0070
+
+(https://doi.org/10.1682/jrrd.2003.05.0070)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Conservative+methods+for+reducing+lateral+translationtpostures+of+the+head%3At+at+nonrandomizedt+clinical+<¢
+
+639&journal=The+Journal+tof+Rehabilitation+Researchtand+Development&volume=41 &issue=4&author=Deed+E.+Ha
+
+10. R. http:/Awww.r-project.org/ (http:/Awww.r-project.org/)
+
+11. Berry RH, Oakley PA, Harrison DE. Is one cause of trigeminal neuralgia
+subluxation of craniocervical posture? A CBP® case report. J Contemporary
+
+Chiro. 2020;3:28-35.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=ls+one+cause+of+trigeminal+neuralgia+subluxation+of+craniocervical+posture%3F+A+CBP%C2%AE+case+repo
+
+358journal=J+Contemporary+Chiro&volume=38&author=R.H.+Berry&author=P.A.+Oakley&author=D.E.+Harrison)
+
+12. Radcliffe MC, Oakley PA, Radcliffe TE, Garner AJ, Harrison DE. The
+
+resolution of cervicogenic radiculopathy and pains by the reduction of lateral
+
+head and forward head translation postures in a 49-year old: A CBP® case
+
+report. Ann Vert Sublux Res. 2019;Sept 23:133-140.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+resolution+of+cervicogenictradiculopathytand+pains+by+the+reduction+of+tlateralthead+and+forward+head
+yeartold%3A+A+CBP%C2%AE+case+report&publication_year=2019&pages=133-
+
+140&journal=Ann+Vert+Sublux+tRes&volume=Sept+23&author=M.C.+Radcliffe&author=P.A.+Oakley&author=T.E.+Rad:
+
+13. Spriggs M. Resolution of chronic migraines & disability with improved
+physical, social and psychological functioning following chiropractic care
+===PAGE:pg-16.txt===
+using CBP® protocols: Case study & review of the literature. Ann Vert Sublux
+
+Res. Published online May 19, 2019:66-78.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Resolution+of+chronic+migraines+%26+disability+with+improved+physical%2C+social+and+psychological+functio
+
+78&journal=Ann+Vert+Sublux+Res&author=M.+Spriggs)
+
+14. Haas JW, Oakley PA, Harrison DE. Cervical pseudo-scoliosis reduction and
+alleviation of dystonia symptoms using Chiropractic BioPhysics® (CBP®)
+technique: A case report with a 1.5-year follow-up. J Contemporary Chiropr.
+2019;2:131-137.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Cervical+pseudo-
+scoliosis+reduction+and+alleviationt+of+dystoniatsymptoms+using+Chiropractic+BioPhysics%C2%AE+%28CBP%C2%
+year+follow-up&publication_year=2019&pages=131-
+
+137&journal=J+Contemporary+Chiropr&volume=2&author=J.W.+Haas&author=P.A.+Oakley&author=D.E.+Harrison)
+
+15. Breton PY, Oakley PA, Harrison DE. Complete resolution of carpal tunnel
+syndrome after relieving the ‘first crush’ in ‘double crush syndrome’ by
+
+improving the cervical spine posture: A CBP® case report. J Contemporary
+
+Chiropr. 2019;2:49-53.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Complete+resolution+of+carpal+tunnel+syndrome+after+relieving+the+%E2%80%98first+crush%E2%80%99+in+‘
+
+538journal=J+Contemporary+Chiropr&volume=2&author=P. Y.+Breton&author=P.A.+Oakley&author=D.E.+Harrison)
+
+16. Anderson JM, Oakley PA, Harrison DE. Improving Posture to Reduce the
+Symptoms of Parkinson’s: A CBP® Case Report. J Phys Ther Sci.
+2019;31(2):153-158. doi:10.1589/jpts.31.153
+(https://doi.org/10.1589/jpts.31.153). PMID:30858655
+===PAGE:pg-17.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Improving+Posture+to+Reduce+the+Symptoms+of+Parkinson%E2%80%99s%3AtA+CBP%C2%AE+Case+Repor
+
+ 
+
+158&journal=Journal+of+Physical+Therapy+Science&volume=31 &issue=2&author=Justin+M.+Anderson&author=Paul+
+
+Central (https://www.ncbi.nim.nih.gov/pme/articles/PMC6382490) PubMed
+
+17. Oakley PA, Harrison DE. Alleviation of pain and disability in a post-surgical
+C4-C7 total fusion patient after reducing a lateral head translation (side shift)
+posture: a CBP® case report with a 14 year follow-up. J Phys Ther Sci.
+2018;30(7):952-957. doi:10.1589/jpts.30.952
+
+(https://doi.org/10.1589/jpts.30.952). PMID:30034105
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Alleviation+ of+pain+and+disability+in+a+post-
+surgical+C4-
+C7+total+fusion+patient+after+reducing+a+lateral+head+translation+%28side+shift%29+posture%3A+a+CBP%C2%AE
+up&publication_year=2018&doi=10.1589%2Fjpts.30.952&pages=952-
+
+9578&journal=Journal+of+Physical+Therapy+Science&volume=30&issue=7 &author=Paul+A.+Oakley&author=Deed+E.+
+
+ 
+
+Central (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6047960) PubMed
+
+ 
+
+18. Jaeger JO, Oakley PA, Moore RR, Ruggeroli EP, Harrison DE. Resolution of
+temporomandibular joint dysfunction (TMJD) by correcting a lateral head
+translation posture following previous failed traditional chiropractic therapy:
+
+a CBP® case report. J Phys Ther Sci. 2018;30(1):103-107. doi:10.1589/
+
+jpts.30.103 (https://doi.org/10.1589/jpts.30.103). PMID:29410576
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Resolution+of+temporomandibular+joint+dysfunction+%28TMJD%29+by+correcting+a+lateral+head+translation+r
+
+107&journal=Journal+of+Physical+Therapy+Science&volume=30&issue=1 &author=Jason+O.+Jaeger&author=Paul+A.
+
+ 
+===PAGE:pg-18.txt===
+Central (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5788785) PubMed
+
+(https://pubmed.ncbi.nlm.nih.gov/29410576)
+
+19. Berry RH, Oakley PA, Harrison DE. Alleviation of chronic headaches by
+correcting lateral head translation posture (-TxH) using Chiropractic
+
+Biophysics & Berry translation traction. Ann Vert Sublux Res. 2017;May 11:87-
+
+92.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Alleviation+of+chronictheadaches+by+correcting+lateral+head+translation+posture+%28%E2%80%93TXH%29+u
+
+92&journal=Ann+Vert+Sublux+Res&volume=May+11 &author=R.H.+Berry&author=P.A.+Oakley&author=D.E.+Harrison)
+
+20. Fedorchuk C, Lightstone DF, Andino H. Failed neck surgery: improvement
+
+in neck pain, migraines, energy levels, and performance of activities of daily
+
+living following subluxation correction using Chiropractic BioPhysics®
+
+Technique: a case study. Ann Vert Sublux Res. 2017;May 18:93-100.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Failed+neck+surgery%3At+improvement+in+neck+pain%2C+migraines%2C+energy+levels%2C+and+performance
+
+1008&journal=Ann+Vert+Sublux+Res&volume=May+18&author=C.+Fedorchuk&author=D.F.+Lightstone&author=H.+Anc
+===PAGE:pg-19.txt===
+21. Berry RH, Oakley P, Harrison D. Alleviation of radiculopathy by structural
+rehabilitation of the cervical spine by correcting a lateral head translation
+
+posture (-TxH) using Berry translation traction as a part of CBP methods: A
+
+case report. Chiropr J Australia. 2017;45:63-72.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Alleviation+of+radiculopathy+by+structural+rehabilitation+of+the+cervical+spine+by+correcting+a+tlateral+head+tr:
+TxH%29+using+Berry+translation+traction+as+a+part+of+CBP+methods%3A+A+casetreport&publication_year=20178
+
+728&journal=Chiropr+J+Australia&volume=45&author=R.H.+Berry&author=P.+Oakley&author=D.+Harrison)
+
+22. Fedorchuk C, Lightstone D, Vukovic D. Improvements in lung function,
+dysautonomia and grip strength in a patient with multiple sclerosis following
+correction of vertebral subluxation using Chiropractic BioPhysics®: A case
+study and selective review of literature. Ann Vert Sublux Res. 2016;18:73-83.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Improvements+in+lung+function%2C+dysautonomiatand+griptstrength+in+atpatient+with+multiple+sclerosis+foll
+
+838journal=Ann+Vert+Subluxt+Res&volume=188author=C.+Fedorchuk&author=D.+Lightstone&author=D.+Vukovic)
+
+23. Cardwell A, Barone B. Improved health outcomes following reduction of
+vertebral subluxation and improved cervical and lumbar curves utilizing
+Chiropractic Biophysics Protocol. Ann Vert Sublux Res. Published online July 7,
+2014:113-128.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Improved+health+outcomes+following+reduction+of+vertebral+subluxation+and+improved+cervical+tand+lumbar+«
+
+ 
+
+1288&journal=Ann+Vert+Sublux+Res&author=A.+Cardwell&author=B.+Barone)
+
+ 
+
+24. Ferrucci M, Cardwell A, Harrison DE. Outcome of Chiropractic BioPhysics
+
+(CBP) protocol on a patient with Tourette’s syndrome, tardive dyskinesia,
+===PAGE:pg-20.txt===
+CREST syndrome, and fatigue. Ann Vert Sublux Res. Published online August
+
+19, 2010:1-9.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Outcome+of+Chiropractic+BioPhysics+ %28CBP%29+protocol+on+atpatient+with+ Tourette%E2%80%99s+syndrc
+
+98&journal=Ann+Vert+Sublux+Res&author=M.+Ferrucci&author=A.+Cardwell&author=D.E.+Harrison),
+
+25. Mukaka MM. Statistics corner: A guide to appropriate use of correlation
+coefficient in medical research. Malawi Med J. 2012;24:69-71.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Statisticstcorner%3A+A+guidettotappropriate+use+of+correlationtcoefficient+in+medical+research&publication
+
+718journal=Malawi+Med+J&volume=24 &author=M.M.+Mukaka)
+
+26. Oakley PA, Moustafa IM, Harrison DE. Restoration of cervical and lumbar
+lordosis: CBP® methods overview. In: Bettany-Saltikov J, ed. Spinal Deformities
+in Adolescents, Adults and Older Adults. IntechOpen; 2019.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Restorationt+of+cervical+and+lumbar+tlordosis%3A+CBP%C2%AE+methodstoverview&publication_year=2019&at
+
+27. Nuckols TK, Lim YW, Wynn BO, et al. Rigorous development does not
+ensure that guidelines are acceptable to a panel of knowledgeable providers. J
+Gen Intern Med. 2008;23(1):37-44. doi:10.1007/s11606-007-0440-9
+(https://doi.org/10.1007/s11606-007-0440-9). PMID:18030541
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Rigorous+development+does+not+ensure+that+guidelines+tare+acceptable+to+a+panel+of+knowledgeable+provic
+007-0440-9&pages=37-
+
+44&journal=Journal+of+General+Internal+Medicine&volume=23&issue=1 &author=Teryl+K.+Nuckols&author=Yee-
+
+Wei+Lim&author=Barbarat+O.+Wynn&author=Soeren+Mattke&author=Catherine+H.+MacLean&author=Philip+Harber&
+===PAGE:pg-21.txt===
+Central (https://www.ncbi.nIm.nih.gov/pme/articles/PMC2173921) PubMed
+
+(https://pubmed.ncbi.nlm.nih.gov/18030541)
+
+28. Rome P, Waterhouse JD. An evidence-based narrative of the evidence-base
+concept. Asia-Pacific Chiropr J. 2020;1:004. doi:10.46323/2021004
+(https://doi.org/10.46323/2021004)
+
+Google Scholar (https://scholar.google.com/scholar_lookup7title=An+evidence-
+based+narrativet+of+the+evidence-
+base+concept&publication_year=2020&doi=10.46323%2F2021004&pages=004&journal=Asia-
+
+Pacific+Chiropr+J&volume=1 &author=P.+Rome&author=J.D.+Waterhouse)
+
+29. Ebrall P, Doyle M. The value of case reports as clinical evidence. Chiropr J
+
+Australia. 2020;47(1):29-43. http:/Avww.cjaonline.com.au/index.php/cja/issue/
+view/15 (http://www.cjaonline.com.au/index.php/cja/issue/view/15),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+valuet+of+case+reports+as+clinicaltevidence&publication_year=2020&pages=29-
+
+438journal=Chiropr+J+Australia&volume=47&issue=1&author=P.+Ebrall&author=M.+Doyle)
+
+30. GBD 2015 Disease and Injury Incidence and Prevalence Collaborators.
+
+Global, regional, and national incidence, prevalence, and years lived with
+
+disability for 310 diseases and injuries, 1990-2015: a systematic analysis for
+
+the Global Burden of Disease Study 2015. Lancet. 2016;388(10053):1545-1602.
+doi:10.1016/s0140-6736(16)31678-6 (https://doi.org/10.1016/s0140-
+6736(16)31678-6). PMID:27733282
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Global%2C+regional%2C+and+national+incidence%2C+prevalence%2C+and+years+lived+with+disability+for+31(
+6736%2816%2931678-6&pages=1545-
+
+16028journal=The+Lancet&volume=3888&issue=10053&author=GBD+2015+Diseasetand+Injury+Incidencet+tand+Preve
+===PAGE:pg-22.txt===
+Central (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5055577) PubMed
+
+(https://pubmed.ncbi.nlm.nih.gov/27733282),
+
+31. Haldeman S, Kopansky-Giles D, Hurwitz EL, et al. Advancements in the
+management of spine disorders. Best Pract Res Clin Rheumatol. 2012;26(2):263-
+280. doi:10.1016/j.berh.2012.03.006
+
+(https://doi.org/10.1016/j.berh.2012.03.006)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title= Advancements+in+the+management+of+spine+disorders&publication_year=2012&doi=10.1016%2F},berh.2012.02
+
+2808journal=Best+Practice+%26amp%3B+Research+ClinicaltRheumatology&volume=26&issue=2&author=Scott+Hak
+
+Giles&author=Eric+L.+Hurwitz&author=Damian+Hoy&author=W.+Mark+Erwin&author=Simon+Dagenais&author=Greg
+
+ 
+
+Powered by Scholastica (https://scholasticahg.com/), the modern academic
+journal management system
+

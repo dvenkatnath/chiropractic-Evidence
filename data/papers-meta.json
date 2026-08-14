@@ -1,0 +1,83 @@
+[
+  {
+    "id": "cervical-traction-2021",
+    "title": "Restoring cervical lordosis by cervical extension traction methods in the treatment of cervical spine disorders: a systematic review of controlled trials",
+    "authors": "Oakley PA, Ehsani NN, Moustafa IM, Harrison DE",
+    "journal": "Journal of Physical Therapy Science",
+    "year": 2021,
+    "file": "33_2021-073.txt",
+    "region": "Cervical"
+  },
+  {
+    "id": "lateral-head-translation-2022",
+    "title": "A Review of CBP Methods® Applied to Reduce Lateral Head Translation Postures",
+    "authors": "Oakley P, Harrison D",
+    "journal": "Journal of Contemporary Chiropractic",
+    "year": 2022,
+    "file": "FULL_LateralHeadTranslation.txt",
+    "region": "Cervical (coronal posture)"
+  },
+  {
+    "id": "lateral-thoracic-translation-2022",
+    "title": "A Systematic Review of CBP® Methods Applied to Reduce Lateral Thoracic Translation (Pseudo-Scoliosis) Postures",
+    "authors": "Oakley P, Harrison D",
+    "journal": "Journal of Contemporary Chiropractic",
+    "year": 2022,
+    "file": "FULL_LateralThoracicTranslation.txt",
+    "region": "Thoracic (coronal posture)"
+  },
+  {
+    "id": "lumbar-case-reports-2022",
+    "title": "Structural Rehabilitation of the Lumbar Lordosis: A Selective Review of CBP® Case Reports",
+    "authors": "Oakley P, Kallan S, Harrison D",
+    "journal": "Journal of Contemporary Chiropractic",
+    "year": 2022,
+    "file": "FULL_LumbarLordosisSelectiveReview.txt",
+    "region": "Lumbar"
+  },
+  {
+    "id": "pediatric-cervical-2022",
+    "title": "Improving the Pediatric Cervical Lordosis: A Review of Chiropractic BioPhysics® Case Reporting",
+    "authors": "Oakley P, Kallan S, Harrison D",
+    "journal": "Journal of Contemporary Chiropractic",
+    "year": 2022,
+    "file": "FULL_PediatricCervicalLordosis.txt",
+    "region": "Cervical (pediatric)"
+  },
+  {
+    "id": "thoracic-hyperkyphosis-2018",
+    "title": "Reducing Thoracic Hyperkyphosis Subluxation Deformity: A Systematic Review of Chiropractic BioPhysics® Methods Employed in its Structural Improvement",
+    "authors": "Oakley PA, Harrison DE",
+    "journal": "Journal of Contemporary Chiropractic",
+    "year": 2018,
+    "file": "FULL_ThoracicHyperkyphosis.txt",
+    "region": "Thoracic"
+  },
+  {
+    "id": "cervical-case-reports-2022",
+    "title": "Structural rehabilitation of the cervical lordosis and forward head posture: a selective review of Chiropractic BioPhysics® case reports",
+    "authors": "Oakley PA, Kallan SZ, Harrison DE",
+    "journal": "Journal of Physical Therapy Science",
+    "year": 2022,
+    "file": "Oakley-2022-Structural-rehabilitation-of-the-ce.txt",
+    "region": "Cervical"
+  },
+  {
+    "id": "lumbar-traction-2020",
+    "title": "Restoring lumbar lordosis: a systematic review of controlled trials utilizing Chiropractic BioPhysics® (CBP®) non-surgical approach to increasing lumbar lordosis in the treatment of low back disorders",
+    "authors": "Oakley PA, Ehsani NN, Moustafa IM, Harrison DE",
+    "journal": "Journal of Physical Therapy Science",
+    "year": 2020,
+    "file": "jpts-32-601.txt",
+    "region": "Lumbar"
+  },
+  {
+    "id": "reliability-review-2024",
+    "title": "Reliability of the Biomechanical Assessment of the Sagittal Lumbar Spine and Pelvis on Radiographs Used in Clinical Practice: A Systematic Review of the Literature",
+    "authors": "Betz JW, Lightstone DF, Oakley PA, Haas JW, Moustafa IM, Harrison DE",
+    "journal": "Journal of Clinical Medicine",
+    "year": 2024,
+    "file": "jcm-13-04650-with-cover.txt",
+    "region": "Lumbar (methodology)"
+  }
+]

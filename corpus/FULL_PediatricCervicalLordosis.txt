@@ -1,0 +1,762 @@
+===PAGE:pg-01.txt===
+JCC (/),
+
+MENU
+
+ISSN 2688-111X
+
+Articles (/section/3692-articles)
+
+Vol. 5, Issue 1, 2022 + September 14, 2022 CDT
+
+IMPROVING THE PEDIATRIC
+CERVICAL LORDOSIS: A
+REVIEW OF CHIROPRACTIC
+BIOPHYSICS® CASE
+REPORTING
+
+Paul Oakley, Sean Kallan, Deed Harrison
+
+ 
+
+C Pediatrics (/articles?tag=Pediatrics) dC Lordosis (/articles?tag-Lordosis) D)
+
+ 
+
+ 
+
+C Ccervical Spine (/articles?tag=Ccervical%20Spine) DC Rehabilitation (/articles?tag=-Rehabilitation) )
+
+ 
+
+ 
+
+G Chiropractic BioPhysics (/articles?tag-Chiropractic%20BioPhysics) »
+
+ 
+
+JCC (/)
+
+Oakley P, Kallan S, Harrison D. IMPROVING THE PEDIATRIC CERVICAL LORDOSIS: A REVIEW OF CHIROPRACTIC BIOPHYSICS®
+CASE REPORTING. JCC. 2022;5(1):190-195.
+===PAGE:pg-02.txt===
+Save article as... ¥
+
+Data Sets/Files (2)
+
+507 views
+
+21 pdf downloads
+
+View more stats (/article/78043-improving-the-pediatric-cervical-lordosis-a-review-of-
+chiropractic-biophysics-case-reporting/stats)
+
+Abstract
+
+Objective: To examine the evidence of Chiropractic BioPhysics® (CBP®) technique methods in pediatric
+case reports describing the improvement of the cervical lordotic curve and concomitant effects on pain and
+presenting condition.
+
+Methods: We searched the CBP NonProfit website as well as Pubmed and the Index to Chiropractic
+literature for clinical case reports describing rehabilitation of abnormalities of cervical sagittal alignment in
+pediatric patients.
+
+Results: Our search found 11 pediatric patient cases reported in 10 publications. The average age was 8.8
+years (5-13yrs), and included 8 males and 3 females. Number of treatments averaged 34.5 over a duration of
+4.6 months. On post-treatment lateral cervical radiographs, there was an average 25° increase in lordosis, a
+12.3' increase in atlas plane line, and a 7.2mm reduction in anterior head translation. There was an average
+
+6. point improvement in pain severity. The range of primary complaints documented to be improved after
+treatment included: asthma, attention deficit hyperactivity disorder (ADHD), concentration difficulty,
+dizziness, headaches, neck pain, neck stiffness, nocturnal enuresis, otitis media and whiplash associated
+disorder. Six of 11 (55%) cases reported details of long-term follow-up, ranging from 3 months to 15 years
+after treatment. Most of the cases reporting a post-treatment follow-up lacked sufficient details of follow-
+up outcomes, The methodological quality of reports varied.
+
+Conclusion: There is an evolving evidence base of cases reporting on the effectiveness of CBP structural
+rehabilitation procedures for improving the pediatric cervical lordosis. Suggestions to improve case report
+design and categories of future clinical research are discussed.
+===PAGE:pg-03.txt===
+Introduction
+
+There is currently interest in understanding the biomechanical alignment of the
+cervical spine and related radiographic metrics in order to better treat cervical spine
+deformities.!=> Whether by surgical or non-surgical approaches, the structural goal is
+to realign the cervical spine to achieve successful outcomes.
+
+Non-surgical cervical lordosis correction has support in the literature.°~? Cervical
+extension traction methods as developed and used within the Chiropractic BioPhysics®
+(CBP®) multimodal treatment regimen show that routine sagittal cervical realignment
+is possible within relatively short time periods (e.g. 8-12 weeks).© CBP technique is a
+full-spine and posture correcting method that incorporates engineering principles into
+its approach.!° CBP applies the mirror image concept in terms of translations and
+rotations of posture as well as incorporates unique spinal traction methods including
+
+extension traction to restore the normal sagittal curves of the spine.!°—!4 High quality
+
+ 
+
+evidence points to better long-term patient outcomes associated with realigning the
+spinal column towards its normal/ideal configuration versus standard
+physiotherapeutic approaches that do not change the spine and posture.®
+
+Despite many clinical trials supporting cervical lordosis correction in the treatment of
+various craniocervical ailments in patients presenting with hypolordosis,°~? all involve
+the adult population. There appear to be no clinical trials involving the rehabilitation of
+
+the cervical lordosis in children.
+
+Recently we documented the presence of many case reports demonstrating cervical
+lordosis correction by CBP methods and that in general, these are in good agreement
+with the results from the clinical trials on these same methods.!> Since there are no
+clinical trials on the pediatric population using CBP methods, a summary of pediatric
+case reports on cervical lordosis correction may provide important clinical data and
+
+direction.
+===PAGE:pg-04.txt===
+The purpose of our paper to is characterize the existing literature on cervical extension
+traction methods as a part of CBP technique as applied to the structural rehabilitation
+of the cervical sagittal alignment in pediatrics. Additionally, we offer suggestions for
+the improvement of future clinical investigations and areas of needed research.
+
+Method
+
+This literature review screened for case reports and series reporting on pediatric
+patients who underwent cervical extension traction as a part of receiving CBP
+treatment aimed at improving a defined cervical hypolordotic curvature. As mentioned,
+CBP technique is a spine and posture correcting system of specific adjusting, exercise,
+and sustained loading procedures (called ‘extension traction’ in the sagittal plane) that
+are applied to precisely/uniquely correct displacements defined using mechanical
+engineering concepts. 10-14 Specifically, regarding treatment directed at improving
+cervical lordosis, extension traction is incorporated to re-establish lordosis by creating
+viscoelastic creep deformation of the anterior column soft tissues such as the anterior
+longitudinal ligament and discs of the cervical spine.
+
+The CBP NonProfit (NP) website lists all CBP publications including case reports/series
+(n=129).16 Since the CBP NP website is updated every fall, a literature search in the
+Pubmed and Index to Chiropractic Literature (ICL) databases was performed to locate
+possible cases published within the last year. Search terms included iterations of
+cervical spine, cervical lordosis, forward head posture, pediatrics, Chiropractic
+Biophysics, CBP, traction, improvement and restoration. Only peer-reviewed cases were
+
+considered.
+
+Reports then had their references screened for additional publications . Authors known
+to have multiple case reports involving CBP traction methods were also individually
+searched in ResearchGate, ICL and Pubmed to locate any recent relevant cases. The
+===PAGE:pg-05.txt===
+inclusion criteria included pediatric ages (<16 years), case reports or case series, and
+use of cervical extension traction methods as part of a multi-modal structural
+rehabilitation program.
+
+Cases were reviewed to extract the data pertaining to radiographic metrics, including
+cervical lordosis, atlas plane line (APL), anterior head translation (AHT), as well as
+details of patient demographics including age, sex, height, weight, chief complaint.
+Treatment specifics including traction set-up and time, treatment duration, number of
+treatments, exercise protocols and adjustment protocols were recorded as was any
+information pertaining to pain, disability or quality of life rating. The first 2 authors
+extracted the outlined details privately and then compared information. Any
+discrepancies were satisfied by consensus.
+
+RESULTS
+
+There were 11 cases reported in 10 unique publications (Table 1).!7-26 Only 1 case was
+
+ 
+
+located from the literature search within the last year!?, all others were listed on the
+CBP NonProfit website.1© The average age of the pediatric patients was 8.8years (range:
+5-13yrs) and included 8 males and 3 females. The average number of treatments was
+34.5 over an average duration of 4.6 months. On the post-treatment lateral cervical
+radiograph there was a 25° increase in cervical lordosis, a 12.3° increase in APL and a
+7.2mm reduction in AHT. There was an average 6.9 point improvement in pain severity
+
+on the numerical rating scale.
+===PAGE:pg-06.txt===
+ 
+
+  
+
+  
+
+Table 1. Details from pediatric case reports on CBP extension traction methods to
+increase cervical lordosis.
+
+Note: *Indicates C2-7 Cobb; **Indicates age appropriate normal!2; AHT: anterior head translation; ARA: C2-7 absolute
+rotation angle (posterior tangents); APL: atlas plane line; f/u: follow-up; m: months; m/y: male/female; n/r: not reported;
+Txt: treatment; y: years. ‘Diff to norm’ indicates post-treatment lordosis difference to age appropriate norm (‘+ = over-
+correction, ~’ = under-correction).
+
+The range of primary complaints documented to be improved after treatment included
+asthma, attention deficit hyperactivity disorder (ADHD), concentration difficulty,
+dizziness, headaches, neck pain, neck stiffness, nocturnal enuresis, otitis media and
+
+whiplash associated disorder.
+
+Six of 11 cases reporting details of a long-term follow-up assessment, ranging from 3
+months to 1.5 years after the initial course of care. (Table 2),1718,20,21,25,26 Most of the
+cases reporting a post-treatment follow-up (with and without maintenance treatments)
+lacked details of follow-up outcomes other than the chief complaint of the child which
+
+was universally reported to be maintained.
+
+ 
+
+Wee WE Ffu No. Txt PostARA) MRA PostAPl) AR PostANI/ | AHI Postpain/ Pan
+time Tots Freq fMARA dt TUL lif {fu AKT sf ffupsin dif
+
+10 may 17 tim asa * nt Sdmm/i2imm +7.Lenm
+
+      
+
+Table 2. Details of cases reporting a post-treatment long-term follow-up.
+===PAGE:pg-07.txt===
+Note: “Indicates C2-7 Cobb; AHT: anterior head translation; APL: atlas plane line; ARA: C2-7 absolute rotation angle
+(posterior tangents); dif: difference (+ indicates loss of original correction; -indicates further gain from original correction);
+f/u: follow-up; m: months; m/y: male/female; n/r: not reported; y: years.
+
+DISCUSSION
+
+This review located 11 pediatric cases as documented in 10 separate published reports
+on the success of CBP cervical extension traction methods as part of a multi-modal
+structural rehabilitation program of care to increase the cervical lordosis. On the post
+treatment radiographs, there was an average 25° improvement in cervical lordosis, 12°
+improvement in APL and 7mm reduction in AHT after completion of 34.5 treatments
+
+over the course of 4.5 months.
+
+A unique consideration in treating the pediatric cervical lordosis is that the limited
+normative data suggests that the curve is largest at the younger ages (i.e. 2 years),
+slowly decreases until age 9, then increases again until approaching the adult
+magnitude at approximately age 18 years.2” Using the limited available data, Table 1
+suggests most reports document some over-correction of age-appropriate lordosis (8/11
+cases). Thus, it seems prudent to re-assess the pediatric spine more frequently than an
+adult spine to prevent achieving an over-correction. Additionally, more research is
+needed to identify the exact range of cervical curvatures that could be considered
+normal at different ages. The 1 report that could be located providing a cut-off value for
+the minimum amount of cervical lordosis need in the pediatric spine was from
+McAviney et al.28 Here, the authors identified that pediatric populations aged between
+9 years and 18 years where twice as likely to have neck pain when the cervical lordosis
+(ARA C2-C7) was less than 20°; furthermore, straight and kyphotic curves were 18
+times more likely to have neck pain compared to a match control population.2° Thus, it
+seems reasonable to recommend a cervical curve of at least 20° as an outcome of
+
+corrective care in pediatric populations.
+===PAGE:pg-08.txt===
+The average degree change in lordosis per treatment session equates to 0.7° (Table 1:
+24.9° change/34.4 treatments). This is greater than the data from the trials involving
+adults which demonstrate about 0.45°/treatment.®!4 Thus, the limited amount of case
+data herein indicate that pediatric cervical spines more rapidly change when applying
+corrective vectors to increase lordosis. Again, the treatment protocols must be altered
+when treating the pediatric patient by extension traction methods, for example,
+radiographic re-assessment should be performed more frequently than when treating
+an adult; where a range from 18-24 total sessions could be applied prior to a post-
+
+treatment radiograph vs. 30-40 total sessions in adults.
+
+This review builds on a dated review (2015) that located 5 CBP case reports
+documenting improvement in cervical lordosis in pediatric patients.2? The earliest
+located case included in this review was published in 2005. Thus, over 18 years, 10
+reports were published, which translates to approximately 1 case published every 2
+years. As discussed, since there is no clinical trial data on CBP extension traction
+methods involving pediatric populations, case reports serve as the only evidence. This
+review highlights the need for more case reporting on the treatment of pediatric
+
+patients by CBP methods as well as formal clinical trials.
+
+Every case report featured herein demonstrated improved health outcomes involving
+craniocervical ailments (headaches, neck pain) as well as non-related symptoms (e.g.
+ear infections, sinus infections, fascial tics, skin problems, improved concentration,
+nocturnal enuresis). This is clinically important. This limited dataset shows what
+chiropractors have claimed for generations, that chiropractic treatment has whole body
+effects, not just pain-relief, in selected case reports. Further pediatric-dedicated studies
+are required to elucidate how chiropractic treatment incorporating cervical lordosis
+
+restoration may impact whole body function.
+===PAGE:pg-09.txt===
+The allopathic community may not recognize the importance of the cervical lordosis;
+many medical radiologists do not report on cervical subluxation.3° That is, medical
+radiologists have been documented to inaccurately report normal cervical alignment or
+not even comment when there is actual significant cervical malalignment present on
+the lateral cervical radiograph.22 Additionally, in the management of pediatric patients,
+radiation concerns have shifted focus away from routine spine imaging for children.3!
+Problematically, since it is known infants are born with a lordotic neck curve,-2 that
+there are considerable adverse effects for straightened and kyphotic infantile cervical
+spines,”> and that the normal alignment throughout child growth is lordotic,2” X-ray
+
+imaging remains the most efficient method to screen for cervical spine deformity.
+
+The failure to diagnose cervical subluxation may lead to underdiagnosis and
+undertreatment of potential cervical deformity. We concur with Norton et al. who state
+“Routine X-ray of the cervical spine is recommended for patients presenting with
+craniocervical symptoms as spine alignment is often overlooked as pathognomonic for
+these conditions.”!” Cervical subluxation is implicated in many common cervical-
+related conditions in adults2834—36 and may be implicated in many common cervical-
+
+related conditions involved in children.28-33
+
+Limitations to this review include the limited number of located cases. No detailed
+analysis was possible due to limited cases and limited reporting of all relevant details
+(e.g. X-ray metrics, pain rating). Future case reports involving pediatric patients treated
+by CBP extension traction to increase cervical lordosis should consider the end goal
+lordosis magnitude relative to its suggested age-appropriate range. Cases should detail
+all relevant radiographic parameters as well as include at least a 6-12 month follow-up.
+Since there are few reports overall, there is a need for more cases and case series in the
+
+treatment of craniocervical ailments in pediatric populations.
+===PAGE:pg-10.txt===
+Conflict of interest
+
+Dr. Paul Oakley (PAO) is a paid consultant for CBP NonProfit, Inc.; Dr. Deed Harrison
+(DEH) teaches chiropractic rehabilitation methods and sells products to physicians for
+patient care as used in this manuscript.
+
+References
+
+1. Scheer JK, Lau D, Ames CP. Sagittal balance of the cervical spine. J Orthop
+Surg. 2021;29(1_suppl):230949902110244. doi:10.1177/23094990211024454
+(ttps://doi.org/10.1177/23094990211024454)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Sagittaltbalance+of+the+cervical+spine&publication_year=2021 &doi=10.1177%2F23094990211024454&pages=2
+
+2. Scheer JK, Lau D, Smith JS, et al. Alignment, classification, clinical
+evaluation, and surgical treatment for adult cervical deformity: a complete
+guide. Neurosurg. 2021;88(4):864-883. doi:10.1093/neuros/nyaa582
+(https://doi.org/10.1093/neuros/nyaa582)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+ 
+
+title=Alignment%2C+classification%2C+clinical+evaluation%2C+and+surgical+treatment+for+adult+cervical+deformity?
+8838&journal=Neurosurgery&volume=88&issue=4 &author=Justin+K+Scheer&author=Darryl+Lau&author=Justin+S+Smil
+
+Hun+Lee&author=Michael+M+Safaee&author=Marissa+Fury&author=Christopher+P+Ames),
+
+3. Teo AQA, Thomas AC, Hey HWD. Sagittal alignment of the cervical spine: do
+we know enough for successful surgery? J Spine Surg. 2020;6(1):124-135.
+
+doi:10.21037/jss.2019.11.18 (https://doi.org/10.21037/jss.2019.11.18),
+PMID:32309651
+===PAGE:pg-11.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Sagittal+alignment+of+the+cervical+spine%3A+do+we+know+enough+fort+successful+surgery%3F &publication_y:
+135&journal=Journal+of+Spine+Surgery&volume=6&issue= 1 &author=Alex+Quok+An+Teo&author=Andrew+Cherian+T
+
+Central (https:/Awww.ncbi.nim.nih.gov/pmce/articles/PMC7154352) PubMed
+
+ 
+
+A. Tundo F, Avila MJ, Willard L, et al. Spinal alignment, surgery, and outcomes
+in cervical deformity: A practical guide to aid the spine surgeon. Clin Neurol
+Neurosurg. 2019;185:105496. doi:10.1016/j.clineuro.2019.105496
+(https://doi.org/10.1016/j.clineuro.2019.105496),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Spinal+alignment%2C+surgery%2C+and+outcomes+in+cervical+deformity%3A+A+practical+guide+totaid+thet+sp
+
+5. Ling FP, Chevillotte T, Leglise A, Thompson W, Bouthors C, Le Huec JC.
+Which parameters are relevant in sagittal balance analysis of the cervical
+spine? A literature review. Eur Spine J. 2018;27(Suppl 1):8-15. doi:10.1007/
+s00586-018-5462-y (https://doi.org/10.1007/s00586-018-5462-y)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Which+parameters+are+relevant+in+sagittal+balance+analysis+of+the+cervical+spine%3F+Atliterature+review&p
+018-5462-y&pages=8-
+
+158&journal=European+Spine+Journal&volume=27 &issue=Suppl+ 1 &author=Fong+Poh+Ling&author=T.+Chevillotte&aul
+
+Charles+Le+Huec)
+
+6. Oakley PA, Ehsani NN, Moustafa IM, Harrison DE. Restoring cervical lordosis
+by cervical extension traction methods in the treatment of cervical spine
+disorders: a systematic review of controlled trials. J Phys Ther Sci.
+2021;33(10):784-794. doi:10.1589/jpts.33.784
+(https://doi.org/10.1589/jpts.33.784). PMID:34658525
+===PAGE:pg-12.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Restoring+cervical+lordosis+by+cervical+extension+traction+methods+in+the+treatment+of+cervical+spine+disorc
+7948&journal=Journal+of+Physical+Therapy+Science&volume=33&issue=10&author=Paul+A.+Oakley&author=Niousha-
+
+Central (https:/Awww.ncbi.nim.nih.gov/pmce/articles/PMC8516614) PubMed
+
+7. Moustafa IM, Diab AA, Hegazy F, Harrison DE. Demonstration of central
+conduction time and neuroplastic changes after cervical lordosis rehabilitation
+in asymptomatic subjects: a randomized, placebo-controlled trial. Sci Rep.
+2021311(1):15379. doi:10.1038/s41598-021-94548-z
+(ttps://doi.org/10.1038/s41598-021-94548-z). PMID:34321539
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Demonstration+of+central+conductiont+timetand+neuroplastictchangestafter+cervical+lordosist+rehabilitationt+in+
+controlled+trial&publication_year=2021 &doi=10.1038%2Fs41598-021-94548-
+
+z&pages=153798&journal=Scientifict Reports&volume=11 &issue=1 &author=Ibrahim+M.+Moustafa&author=Aliaat+A.+Die
+
+Central (https://www.ncbi.nim.nih.gov/pmce/articles/PMC8319301) PubMed
+===PAGE:pg-13.txt===
+8. Moustafa IM, Diab A, Shousha T, Harrison DE. Does restoration of sagittal
+cervical alignment improve cervicogenic headache pain and disability: A 2-
+
+year pilot randomized controlled trial. Heliyon. 2021;7(3):e06467. doi:10.1016/
+j-cheliyon.2021.e06467 (https://doi.org/10.1016/j.heliyon.2021.e06467).
+PMID:33786392
+
+Google Scholar (https://scholar.google.com/scholar_ lookup?
+title=Does+restoration+of+sagittal+cervical+alignment+improve+cervicogenictheadache+pain+and+disability%3A+A+2
+year+pilot+randomized+controlled+trial&publication_year=2021 &doi=10.1016%2Fj.heliyon.2021.e06467&pages=e0646
+
+Central (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7988315) PubMed
+
+9. Moustafa I, Youssef ASA, Ahbouch A, Harrison D. Demonstration of
+autonomic nervous function and cervical sensorimotor control after cervical
+lordosis rehabilitation: a randomized controlled trial. J Athl Train.
+2021;56(4):427-436. doi:10.4085/1062-6050-0481.19
+(https://doi.org/10.4085/1062-6050-0481.19). PMID:33543266
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Demonstration+of+autonomic+nervous+function+and+cervical+sensorimotor+control+after+cervical+lordosis+reha
+6050-0481.19&pages=427-
+436&journal=Journal+of+Athletic+ Training&volume=56 &issue=4 &author=lbrahim+Moustafa&author=Ahmed+S.A.+Yous
+
+Central (https://www.ncbi.nim.nih.gov/pmc/articles/PMC8063661) PubMed
+
+10. Harrison DD, Janik TJ, Harrison GR, et al. Chiropractic biophysics
+technique: A linear algebra approach to posture in chiropractic. J Manipulative
+Physiol Ther. 1996;19(8):525-535.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Chiropractictbiophysics+technique%3A+Atlinear+algebratapproach+to+posturetin+chiropractic&publication_yeal
+===PAGE:pg-14.txt===
+535&journal=J+Manipulative+Physiol+Ther&volume=19&issue=8&author=D.D. +Harrison&author=T.J.+Janik&author=G
+
+11. Harrison DE, Harrison DD, Haas JW. Structural Rehabilitation of the Cervical
+Spine. Harrison CBP. Seminars, Inc.; 2002.
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Structural+rehabilitationt+of+the+cervical+tspine&publication_year=2002&author=D.E.+Harrison&author=D.D.+Harr
+
+12. Oakley PA, Harrison DD, Harrison DE, Haas JW. Evidence-based protocol
+for structural rehabilitation of the spine and posture: Review of clinical
+
+biomechanics of posture (CBP) publications. J Canadian Chiropr Asso.
+2005 ;49(4):270-296.
+
+ 
+
+Google Scholar (https://scholar,google.com/scholar_lookup7title=Evidence-
+based+protocol+for+structural+rehabilitation+of+the+spine+and+posture%3A+Review+tof+clinicaltbiomechanics+of+po
+
+2968&journal=J+Canadian+Chiropr+Asso&volume=49&issue=4 &author=P.A.+Oakley&author=D.D.+Harrison&author=D.
+
+13. Oakley PA, Moustafa IM, Harrison DE. Restoration of cervical and lumbar
+lordosis: CBP. Methods overview. In: Bettany-Saltikov J, Kandasamy G, eds.
+Spinal Deformities in Adolescents, Adults and Older Adults [Internet].
+IntechOpen; 2019:1-20. doi:10.5772/intechopen.90713
+(https://doi.org/10.5772/intechopen.90713)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Restorationt+of+cervical+and+lumbar+tlordosis%3A+CBP.+Methods+overview&publication_year=2019&doi=10.577
+
+20&author=Paul+A.+Oakley&author=Ibrahim+M.+Moustafa&author=Deed+E.+Harrison)
+
+14. Harrison DE, Oakley PA. An introduction to Chiropractic BioPhysics®
+(CBP®) technique: A full spine rehabilitation approach to reducing spine
+deformities. In: Bernardo-Filho M, ed. Complementary Therapies. [Internet].
+===PAGE:pg-15.txt===
+IntechOpen; 2022:1-35. doi:10.5772/intechopen. 102686
+(https://doi.org/10.5772/intechopen. 102686)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=An+introduction+to+Chiropractic+ BioPhysics %C2%AE+%28CBP%C2%AE%29+technique%3A+A+full+spine+rehe
+
+358author=Deed+E.+Harrison&author=Paul+A.+Oakley)
+
+15. Oakley PA, Kallan SZ, Harrison DE. Structural rehabilitation of the cervical
+lordosis and forward head posture: A selective review of CBP® case reports. J
+Phys Ther Sci. 2022;34(11):759-771. doi:10.1589/jpts.34.759
+(https://doi.org/10.1589/jpts.34.759). PMID:36337218
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Structural+rehabilitation+of+the+cervical+lordosis+and+forward+head+posture%3A+A+selective+review+of+CBP?
+
+7718journal=Journal+of+Physical+Therapy+Science&volume=34&issue= 11 &author=Paul+A.+Oakley&author=Sean+Z.
+
+ 
+
+Central (https://www.ncbi.nim.nih.gov/pme/articles/PMC9622351) PubMed
+
+16. Chiropractic BioPhysics NonProfit Inc. Accessed July 14, 2022. http://
+www.cbpnonprofit.com/publications/
+(http:/Avww.cbpnonprofit.com/publications/),
+
+17. Norton TC, Oakley PA, Harrison DE. Improving the cervical lordosis relieves
+neck pain and chronic headaches in a pediatric: a Chiropractic Biophysics®
+
+(CBP®) case report with a 17-month follow-up. J Phys Ther Sci. 2022;34(1):71-
+
+75. doi:10.1589/jpts.34.71 (https://doi.org/10.1589/jpts.34.71). PMID:35035083
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Improving+the+cervical+lordosis+relieves+neck+pain+and+chronictheadaches+in+atpediatric%3A+a+ Chiropracti
+
+month+follow-up&publication_year=2022&doi=10.1589%2Fjpts.34.71&pages=71-
+
+ 
+
+758&journal=Journal+of+Physical+Therapy+Science&volume=34&issue=1 &author=Tim+C.+Norton&author=Paul+A.+Oa
+
+ 
+===PAGE:pg-16.txt===
+Central (https://www.ncbi.nIm.nih.gov/pme/articles/PMC8752283) PubMed
+
+ 
+
+(https://pubmed.ncbi.nlm.nih.gov/35035083)
+
+18. Chu ECP, Wong AYL. Cervicogenic dizziness in an 11-year-old girl: a case
+report. Adolesc Health Med Ther. 2021;12:111-116. doi:10.2147/ahmt.s341069
+
+(https://doi.org/10.2147/ahmt.s341069). PMID:34866956
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Cervicogenic+dizziness+in+an+11-year-
+
+old+girl%3A+a+case+report&publication_year=2021 &doi=10.2147%2Fahmt.s341069&pages=111-
+
+ 
+
+1168&journal=Adolescent+Health%2C+Medicine+and+Therapeutics&volume=12&author=Eric+Chun-
+
+Pu+Chu&author=Arnold+Yu-Lok+Wong) PubMed Central
+
+ 
+
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8636150) PubMed
+
+19. Norton TC, Oakley PA, Harrison DE. Increasing the cervical lordosis in
+pediatrics: A Chiropractic BioPhysics® case series. Asia-Pac Chiropr J.
+2020;1(2):onlineonly.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Increasing+the+cervical+lordosis+in+pediatrics%3A+A+Chiropractict BioPhysics%C2%AE+case+series&publicatio
+
+Pac+Chiropr+J&volume=1 &issue=2&author=T.C.+Norton&author=P.A.+Oakley&author=D.E.+Harrison)
+===PAGE:pg-17.txt===
+20. Fedorchuk CA, Oakley PA, Harrison DE. Resolution of chronic spine pain
+
+and improvement in quality of life following correction of posture in a 7-year
+
+old: A CBP® case report with follow-up. J Contemporary Chiropr. 2019;2:109-
+
+114.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Resolution+of+chronic+spine+pain+and+improvement+in+quality+of+life+following+correctiontof+posturetin+at7-
+yeartold%3A+A+CBP%C2%AE+case+report+with+follow-up&publication_year=2019&pages=109-
+
+114&journal=J+Contemporary+Chiropr&volume=2&author=C .A.+Fedorchuk&author=P.A.+Oakley&author=D.E.+Harriso
+
+21. Underhill ML, Oakley PA, Harrison DE. Rehabilitation of a cervical kyphosis
+to a lordosis in an adolescent with chronic cervicogenic symptoms from a
+motor vehicle collision who was previously unresponsive to traditional
+chiropractic: A CBP® case report. J Pediatr Matern Fam Health — Chiropr.
+Published online 2018:99-108.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Rehabilitationt+of+at+cervical+kyphosist+to+atlordosistintan+adolescent+with+chronict+cervicogenictsymptoms+fr
+
+1088&journal=J+Pediatr+Matern+Fam+Health+%E2%80%93+Chiropr&author=M.L.+Underhill&author=P.A.+Oakley&aut!
+
+22. Fedorchuk C, Opitz K. Improvement in quality of life and improved cervical
+curve in an 11-year-old child with asthma following chiropractic intervention:
+a case study. J Pediatr Matern Fam Health — Chiropr. 2014;2:37-46.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Improvement+in+quality+of+lifetand+improved+cervical+curvetin+an+11-year-
+
+ 
+
+old+child+with+asthma+following+chiropractic+intervention%3A+atcase+study&publication_year=2014&pages=37-
+
+468journal=J+Pediatr+Matern+Fam+Health+%E2%80%93+Chiropr&volume=2&author=C.+Fedorchuk&author=K.+Opit
+
+23. Oakley PA, Chaney S, Chaney T, Maddox A. Resolution of chronic
+headaches following reduction of vertebral subluxation in an 8-year-old
+===PAGE:pg-18.txt===
+utilizing Chiropractic Biophysics Technique. J Pediatr Matern Fam Health —
+Chiropr. 2011;3:82-86.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Resolution+of+chronic+headaches+following+reductiontof+vertebralt+subluxationtin+an+8-year-
+old+utilizing+Chiropractic+t Biophysics+Technique&publication_year=2011&pages=82-
+
+868journal=J+Pediatr+Matern+Fam+Health+%E2%80%93+Chiropr&volume=3&author=P.A.+Oakley&author=S.+Chane
+
+24. Fedorchuk C, Cohen A. Resolution of chronic otitis media. J Pediatr Matern
+Fam Health - Chiropr. 2009;(2):1-8.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Resolution+of+chronic+otitis+media&publication_year=2009&pages=1-
+
+ 
+
+8&journal=J+Pediatr+Matern+Fam+Healtht-+Chiropr&issue=28author=C,+Fedorchuk&author=A.+Cohen)
+
+25. Fedorchuk C, Wheeler G. Resolution of headaches in a 13-year-old
+
+following restoration of cervical curvature utilizing Chiropractic Biophysics: a
+
+case report. J Pediatr Matern Fam Health - Chiropr. 2009;30:1-7.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Resolution+of+headachestinta+13-year-
+old+following+restoration+of+cervicalt+curvature+utilizing+Chiropractic+Biophysics%3A+a+case+report&publication_yei
+78&journal=J+Pediatr+Matern+tFam+Health+-
+
++Chiropr&volume=30&author=C.+Fedorchuk&author=G.+Wheeler)
+===PAGE:pg-19.txt===
+26. Bastecki AV, Harrison DE, Haas JW. Cervical kyphosis is a possible link to
+attention-deficit/hyperactivity disorder. J Manipulative Physiol Ther.
+2004;27(8):e14. doi:10.1016/j.jmpt.2004.08.007
+(https://doi.org/10.1016/j.jmpt.2004.08.007),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Cervical+kyphosis+is+a+possible+link+to+attention-
+
+deficit%2Fhyperactivity+disorder&publication_year=2004&doi=10.1016%2F),jmpt.2004.08.007&pages=e14&journal=Jot
+
+27. Kasai T, [kata T, Katoh S, Miyake R, Tsubo M. Growth of the cervical spine
+with special reference to its lordosis and mobility. Spine. 1996;21(18):2067-
+
+2073. doi:10.1097/00007632-199609150-00003
+(https://doi.org/10.1097/00007632-199609150-00003)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Growth+of+the+cervical+spine+withtspecial+reference+to+its+lordosis+and+mobility&publication_year=1996&doi:
+
+199609150-00003&pages=2067-
+
+ 
+
+2073&journal=Spine&volume=21 &issue=18&author=Tokio+Kasai&author=Takaaki+|lkata&author=Shinsuke+Katoh&autt
+
+28. McAviney J, Schulz D, Bock R, Harrison DE, Holland B. Determining the
+relationship between cervical lordosis and neck complaints. J Manipulative
+Physiol Ther. 2005;28(3):187-193. doi:10.1016/j.jmpt.2005.02.015
+(https://doi.org/10.1016/j.jmpt.2005.02.015),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Determining+the+relationship+between+cervical+lordosis+and+neck+complaints&publication_year=2005&doi=10."
+
+1938&journal=Journal+of+Manipulative+and+Physiological+Therapeutics&volume=28&issue=3&author=Jeb+McAviney&
+
+29. Oakley PA, Harrison DE. Restoration of pediatric cervical lordosis: a review
+of the efficacy of chiropractic techniques and their methods. J Pediatr Matern
+Fam Health-Chiropr. 2015;3:112-116.
+===PAGE:pg-20.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Restoration+of+pediatric+cervical+lordosis%3A+atreview+of+the+efficacy+of+chiropractic+techniques+and+their+
+
+116&journal=J+Pediatr+Matern+Fam+Health%E2%88%92Chiropr&volume=3&author=P.A.+Oakley&author=D.E.+Harris
+
+30. Oakley P, Sanchez L, Harrison D. Medical radiologists may not consider the
+cervical lordosis in radiology reports: A comparison of subjective qualitative
+assessment versus objective quantitative mensuration in 100 consecutive
+
+patients at one medical imaging center. J Contemporary Chiro. 2021;(4):17-25.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Medical+radiologists+may+not+consider+the+cervical+lordosis+in+radiologyt+reports%3A+A+comparison+of+subjt
+
+258journal=J+Contemporary+Chiro&issue=4 &author=P.+Oakley&author=L.+Sanchez&author=D.+Harrison)
+
+ 
+
+31. https:/Awww.choosingwisely.org/topic-area/pediatrics/
+(https://www.choosingwisely.org/topic-area/pediatrics/)
+
+32. Bagnall KM, Harris PF, Jones PR. A radiographic study of the human fetal
+spine. 1. The development of the secondary cervical curvature. J Anat.
+
+1977;123(Pt 3):777-782.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=A+radiographict+study+of+the+human+fetal+spine.+1.+The+developmenttof+the+secondary+cervical+curvature&
+
+782&journal=J+Anat&volume=123&issue=Pt+3&author=K.M.+Bagnall&author=P.F.+Harris&author=P.R.+Jones)
+===PAGE:pg-21.txt===
+33. Shatz A, Arensburg B, Hiss J, Ostfeld E. Cervical posture and nasal
+breathing in infancy. Acta Anat. 1994;149(2):141-145. doi:10.1159/000147569
+
+(https://doi.org/10.1159/000147569),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Cervical+posturetand+nasal+breathing+in+infancy&publication_year=1994&doi=10.1159%2F000147569&pages=
+
+145&journal=Cells+Tissues+Organs&volume=149&issue=2&author=A. +Shatz&author=B.+Arensburg&author=J.+Hiss&:
+
+34. Harrison DD, Harrison DE, Janik TJ, et al. Modeling of the sagittal cervical
+spine as a method to discriminate hypolordosis: results of elliptical and
+circular modeling in 72 asymptomatic subjects, 52 acute neck pain subjects,
+and 70 chronic neck pain subjects. Spine. 2004;29(22):2485-2492. doi:10.1097/
+01.brs.0000144449.90741.7c
+
+(https://doi.org/10.1097/01.brs.0000144449.90741.7c),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Modeling+of+the+sagittal+cervical+spine+as+a+method+to+discriminate+hypolordosis%3A+results+oftellipticalta
+
+2492&journal=Spine&volume=29&issue=22&author=Donald+D.+Harrison&author=Deed+E.+Harrison&author=Tadeusz
+
+35. Nagasawa A, Sakakibara T, Takahashi A. Roentgenographic findings of the
+cervical spine in tension-type headache. Headache. 1993;33(2):90-95.
+doi:10.1111/j.1526-4610.1993.hed3302090.x (https://doi.org/10.1111/j.1526-
+4610.1993.hed3302090.x)
+
+Google Scholar (hitps://scholar.google.com/scholar_ lookup?
+title=Roentgenographicfindings+of+the+cervical+spine+in+tension-
+typetheadache&publication_year=1993&doi=10.1111%2F}.1526-4610.1993.hed3302090.x&pages=90-
+
+958journal=Headache%3A+The+Journal+of+Head+and+Face+Pain&volume=33&issue=2&author=Aratat+Nagasawa&2
+
+36. Vernon H, Steiman I, Hagino C. Cervicogenic dysfunction in muscle
+
+contraction headache and migraine: a descriptive study. J Manipulative Physiol
+===PAGE:pg-22.txt===
+Ther. 1992315:418-429.
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Cervicogenic+dysfunction+in+muscle+contraction+headachetand+migraine%3A+atdescriptive+study&publication
+
+429&journal=J+Manipulative+Physiol+Ther&volume=15&author=H.+Vernon&author=.+Steiman&author=C.+Hagino)
+
+ 
+
+Powered by Scholastica (https:/scholasticahg.com/), the modern academic
+journal management system
+

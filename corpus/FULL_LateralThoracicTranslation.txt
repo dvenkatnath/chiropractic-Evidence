@@ -1,0 +1,773 @@
+===PAGE:pg-01.txt===
+JCC (/),
+
+MENU
+
+ISSN 2688-111X
+
+Articles (/section/3692-articles)
+
+VoL 5, Issue 1, 2022 + February 18, 2022 CDT
+
+A SYSTEMATIC REVIEW OF
+CBP® METHODS APPLIED TO
+REDUCE LATERAL THORACIC
+TRANSLATION (PSEUDO-
+SCOLIOSIS) POSTURES
+
+Paul Oakley, Deed Harrison
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C Subluxation Varticles?tag-Subluxation) ») (Lateral Translation (/articles?tag-Lateral%2oTranslation) _)
+q Ps = losis (/arti \g=Psuedo-Scoliosis) CO Reviews (/articles?tag=Reviews) )
+
+ 
+
+ 
+
+ 
+
+C Lumbar Spine (/articles?tag=Lumbar%20Spine) dC Posture (/articles?tag=Posture) »)
+
+ 
+
+ 
+
+ 
+
+C Chiropractic BioPhysics (/articles?tag=Chiropractic%20BioPhysics) )
+
+ 
+
+JCC (7)
+
+Oakley P, Harrison D. A SYSTEMATIC REVIEW OF CBP® METHODS APPLIED TO REDUCE LATERAL THORACIC TRANSLATION
+(PSEUDO-SCOLIOSIS) POSTURES. JCC. 2022;5(1):13-18.
+===PAGE:pg-02.txt===
+Save article as... ¥
+
+Data Sets/Files (2)
+
+509 views
+
+20 pdf downloads
+
+View more stats (/article/78023-a-systematic-review-of-cbp-methods-applied-to-
+reduce-lateral-thoracic-translation-pseudo-scoliosis-postures/stats)
+
+ 
+
+Abstract
+
+Objective: To characterize the evidence of CBP® technique methods in the reduction of lateral thoracic
+(pseudo-scoliosis) translation postures and its effect on pain, disability and quality of life.
+
+Methods: The CBP NonProfit website as well as Pubmed and Index to Chiropractic literature were searched
+for clinical studies on the reduction of lateral thoracic translation postures by CBP methods.
+
+Results: One clinical trial and 6 case reports were located. The trial showed an 8mm reduction after an
+average of 36 treatments over 11.5 weeks in 63 chronic low back pain patients with a 2-point drop in pain
+rating versus no spine or pain rating changes in 23 untreated controls. Six case reports showed an average
+reduction of 23mm after 33 treatments over 3.7 months with an average 4-point drop in pain rating. The
+cases also documented improvements in various functional, disability and quality of life measures
+
+Conclusion: There is a limited but evolving evidence-base supporting the unique mirror image approach to
+reducing lateral thoracic translation postures by CBP technique methods that has impacts on pain, disability
+and quality of life.
+
+Introduction
+
+An important differentiation between scoliosis and pseudo-scoliosis was made in a
+2006 publication by Harrison et al.! It was previously determined that a lateral
+
+translated thoracic posture displayed a vertebral coupling pattern of a lower lumbar
+===PAGE:pg-03.txt===
+lateral flexion towards the thoracic shift and an upper lumbar/lower thoracic spine
+lateral flexion away from the shift back towards the vertical, essentially creating an S-
+shape.2 In the 2005 study,! purposeful thoracic lateral translation movements were
+made by 15 volunteers and showed that with >50mm of translation, a 14-19° lumbar
+(L1-L5) or thoraco-lumbar (T12-L5) Cobb angle was created.
+
+The key characteristic that differentiates true scoliosis and pseudo-scoliosis is that in
+lateral translation of the thorax over the pelvis (which creates the characteristic S-
+shaped spinal coupling pattern) involves no rotation of the involved vertebrae;
+therefore, the spinous processes remain centered. Alternatively, true scoliosis has
+definitive vertebral body rotation as seen with the spinous processes off center. This is a
+critically important differentiation clinically, as scoliosis is difficult to treat (reduce)
+
+while lateral thoracic translation postures are relatively straightforward to treat.3
+
+The first reporting of the clinical treatment on reducing a lateral thoracic translation
+posture was the non-randomized controlled trial in 2005.3 Sixty-three chronic low back
+patients experienced an average 8mm reduction in lateral thoracic translation after 36
+treatments over 11.5 weeks. There was also a 2.2-point reduction in pain rating. A
+comparison group of 23 volunteers not receiving treatment had no radiographic
+
+changes in posture and no change in pain rating after 37 weeks.3
+
+Since the publication of this first trial,> there have been case studies documenting the
+reduction of this posture (e.g. Henshaw et al.4). The approach that CBP technique
+applies to reduce lateral translation postures is 1-sided or ‘mirror image’ thoracic
+exercises, mirror image spinal adjusting, and mirror image traction,25~” directed
+
+toward restoring verticality to the spine and posture.
+
+This review characterizes the evidence of Chiropractic BioPhysics® (CBP®) technique
+methods°~” in the reduction of lateral thoracic (pseudo-scoliosis) translation postures
+
+and its effect on pain, disability and quality of life.
+===PAGE:pg-04.txt===
+Methods
+
+A review of the CBP NonProfit citation listings® was performed for clinical papers
+reporting on the reduction of lateral thoracic translation postures via CBP technique
+methods.5—” Any clinical study type was included (trial, case report/series). A search on
+both Pubmed and the Index to Chiropractic Literature (ICL) was also performed using
+the keywords lateral thoracic/thorax translation or pseudo-scoliosis, and this was done
+to verify if any papers were missing from the CBP NonProfit website listing and/or if
+any papers were published since its last update (every fall). References were screened
+from any located articles. Searches were performed in dedicated chiropractic journals
+and conference proceedings. Experts were also contacted to further locate studies (i.e.
+
+authors of located cases).
+
+CBP case reports were searched for this postural distortion and its correction even if not
+explicitly mentioned in the title of the manuscript. Cases were excluded if the
+treatment involved patients with scoliosis or if the treatment for the reduction of a
+lateral thoracic posture was treated exclusively by the prescription of a heel lift (i.e.
+Fortner et al.2).
+
+Information extracted from any located studies included the age and sex of patient,
+chief complaint, number of treatments, time duration of treatment, treatment specifics
+including traction set-up, traction duration, exercise protocol, adjusting protocol, as
+well as pre- and post-treatment magnitude of coronal offset (TxT) and corresponding
+lumbodorsal (LD) and lumbosacral (LS) angles (Figure 1 (174742)).
+===PAGE:pg-05.txt===
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1. Left: Harrison's modified Risser-Ferguson method applied to AP lumbar
+radiographs. Best fit lines are created from the estimated centroids of each vertebra.
+The apex of the two lines represents the lumbo-dorsal (LD) angle. After drawing a
+line on the sacral base, a lumbo-sacral (LS) angle can be calculated by extending
+the lower line through the L5-S1 disc. Right: Lateral displacement is determined by
+the horizontal distance between the vertical axis line (VAL) drawn through the
+second sacral tubercle and the centroid of T12.
+===PAGE:pg-06.txt===
+Results
+
+Our search of the CBP NonProfit site located one non-randomized controlled trial3 and
+6 case reports described in 5 manuscripts#!0-13 (Table 1 (178478)). Searches in Pubmed
+revealed 4 hits and ICL 16 hits that either did not meet the inclusion criteria or were
+already located from the CBP NonProfit website. No other cases were located by
+searching journals, references or contacting case report authors.
+
+ 
+
+ 
+
+Primary No. Txt Pre-post Txt —Pre-post Dangle Pre-post LSangle Pre-post Pain ‘Other thu
+Author Year Journal_complaint Age m/f Txts duration et reduction LD angle reduction _LSangle reduction pain reduction outcomes time
+Woodham 2021 JCC Degenerative 63 m 24 5.5m +17.Jmmj+4.8mm 125mm N/R NR NR NR 7/2 5 Case 2: Lessdisability&SF36 no
+(series) discdisease “60 m 42 45m -40mm/-7mm 33mm N/R NR NR NR = (2/0 2 Case 5: Less disability & SF36 no
+Anderson 2019 JPTS Parkinson's *59 m 38 4m -12.8mm/-2.4mm 104mm —N/R NR NR NR 6/2 4 Improved gait, balance, hand 1.75y
+
+tremors, back & knee pain, SF-36
+
+ 
+
+Henshaw 2018 JPTS lowback 29 f 36 3m +20.3mm/S.6mm 25.6mm +17°-15' 0.2" 82/4879" 10.1" 4/2 2 Reduced disability no
+pain
+Jaeger 2014 AVSR Urinary 63 f «22 © 2m +46.8mm/+6.4mm 40.4mm +10.6'/+19.9° 93° -703°/-81.0° 10.77 N/R NR Resolution of incontinence, no
+incontinence neck & low back pains
+Oakley 2007 JVSR Post-surgical 35 m 36 3m = +16mm/-Imm_ 17mm NR NR NR NR 8/2 6 Reduced low back pain, T5y
+laminectomy leg pain & disability
+Average 52 4m 33 3.7m 256mm/4smm 232mm 61/08 48° 762/e45° 104 Safle 38
+
+2
+
+Table 1. Details of case reports showing reduction of lateral thorax translation
+postures in the treatment of various lumbar spine disorders.
+
+Note: *Application of heel lift; m/f= male/female; Txt= Treatment; LD= Lumbodorsal; LS= Lumbosacral; f/u= follow-up; N/R=
+Not reported; m= months; y= years.
+
+As mentioned, the clinical trial reported an 8mm reduction in lateral thoracic
+translation posture after an average of 36 treatments over 11.5 weeks in 63 chronic low
+back pain patients.3 There was a 2.2-point drop in pain rating (3/10 to 0.8/10) during
+the treatment while there was no change in spinal position or pain rating reported in 23
+untreated control group volunteers with chronic low back pain.>
+
+The 6 located cases (Table 1 (178478)) showed an average lateral thoracic translation
+reduction of 23mm after 33 treatments over 3.7 months.#»!0-13 The corresponding
+
+reduction in LD and LS angles were 4.8° and 10.4°, respectively. The average age was 52
+===PAGE:pg-07.txt===
+and the average reduction of pain was 3.8 points on a 10-point rating scale (5.4/10 to
+1.6/10).
+
+The reduction of lateral thoracic postures successfully relieved symptoms in patients
+4
+
+with degenerative disc disease,!© Parkinson’s,!! low back pain, 12
+
+urinary incontinence,
+and pain associated with post-surgical laminectomy.!3 Several cases also reported on
+improvements beyond pain relief including functional measures (e.g. range of motion),
+disability (e.g. Oswestry disability index), and quality of life (e.g. SF-36). There were no
+
+adverse events reported in any of the located studies.
+
+Discussion
+
+This review has summarized the details from one non-randomized controlled trial and
+6 case reports documenting the reduction of lateral thoracic translation postures in the
+
+treatment of low back spinal disorders.
+
+The single located clinical trial showed an average reduction of 8mm over 36
+treatments? while the case reports demonstrated an average 23mm reduction after 33
+treatments.4!0-15 It is not surprising that the amount of correction shown in the
+
+ 
+
+individual cases averaged more than the trial as it is likely that a greater reduction in
+
+spine deformity would motivate a clinician to publish a positive clinical outcome (i.e.
+14
+
+selection bias). However, since there is limited evidence in the manual therapies,
+15,16
+
+lower forms of evidence are acceptable toward informing clinical practice.
+
+Although there was a limited number of total case reports and only 1 trial, the data
+clearly shows that CBP methods can be used to reduce lateral translations of the
+thoracic cage. Also, from the data one can estimate a 0.22mm-0.7mm reduction per
+treatment. Therefore, a patient with a 10mm, 20mm or 30mm lateral thoracic
+translation posture would require 14-45, 29-91 or 43-136 treatments, respectively.
+===PAGE:pg-08.txt===
+Although there are wide ranges in treatment estimates, these represent the evidence-
+based practice estimates that currently exists. Further research into the CBP treatment
+
+of this postural subluxation will help refine treatment extrapolations.
+
+As mentioned, we did not include any reports on reducing lateral thoracic translation
+postures by use of a heel lift exclusively or with the treatment of patients having
+scoliosis. Indeed, there are other causes for the torso to be offset from the midline and
+these can only be comprehensively assessed by radiography.!” For this reason, we
+recommend the routine radiographic screening for those presenting with low back
+complaints as the diagnosis of a lateral translation posture, as differentiated from a
+true scoliosis or leg length inequality, is clinically important as it dictates a unique
+
+potential corrective treatment approach; that is, CBP methods.
+
+Since the treatment approaches to low back disorders have questionable efficacy, 8 CBP
+methods offer a unique and spine-specific, radiographically-guided regimen that has an
+evolving evidence base, including for the treatment of lumbar and thoracolumbar
+pseudo-scoliosis. This review adds to other recent reviews characterizing the scientific
+evidence in the clinical application of CBP methods to increase cervical lordosis,
+
+increase lumbar lordosis, reduce thoracic hyperkyphosis, and reduce lateral head
+19-22
+
+translation postures.
+
+Since there is a lack of scientific evidence in chiropractic for many commonly practiced
+procedures, case reports become an important source for guiding information on
+clinical practice.!5:16 Further, as discussed by the late David Russell, there is also a lack
+of clinical reports that document direct indicators of pre- and post-vertebral
+subluxation outcomes23; however, CBP methods including those procedures used to
+reduce lateral thoracic translation postures help satisfy this clinical evidence gap.
+
+It is also important to mention that although there are contrasting views within the
+
+24-33
+
+chiropractic profession regarding X-ray use, this review adds to the accumulating
+
+ 
+
+evidence that CBP structural rehabilitation methods leads to reduced spinal
+===PAGE:pg-09.txt===
+misalignment, a type of subluxation.34 In fact, small groups of individuals do argue that
+there is no support for routine X-rays in diagnosing or aiding treatment choice242®28,
+32; however, this is in opposition to evidence presented here and elsewhere, including
+many clinical trials supporting CBP methods, 19=22:25,27,29-31,33
+
+There are some limitations to this review. First, there was a limited number of cases,
+and only 1 clinical trial. This is important as individual cases do not have control
+groups for comparison; however, there was a trial that did have a comparison group
+showing structural improvements coinciding with pain reduction. Second, there are
+limitations to the long-term knowledge of structural correction stability as only two
+cases included long-term follow-up, though both these cases reported the patient had
+remained well at a 9-month!3 and a 1.75-year follow-up.!! Third, the generalizability of
+the data is limited to mostly mid-aged persons as the trial was composed of 34 males
+and 29 females with an average age of 38 (+ 18.4 years),° thus representing a wide range
+of adult ages of both sexes, however no children or adolescents were included in any
+report. Fourth, further research should help elucidate more precise treatment
+
+extrapolations.
+
+CONCLUSION
+
+There is limited but evolving clinical evidence showing that specific CBP protocols can
+reduce lateral thoracic translation postures. More research is needed to verify this data
+
+and to assess the long-term stability and its application to children and adolescents.
+
+References
+
+1. Harrison DE, Betz JW, Cailliet R, et al. Radiographic pseudoscoliosis in
+healthy male subjects following voluntary lateral translation (side glide) of the
+===PAGE:pg-10.txt===
+thoracic spine. Arch Phys Med Rehabil. 2006;87(1):117-122. doi:10.1016/
+j.apmr.2005.08.004 (https://doi.org/10.1016/j.apmr.2005.08.004),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Radiographic+pseudoscoliosistinthealthy+male+subjects+following+voluntary+lateral+translation+%28side+glideS
+
+1228journal=Archives+of+Physical+Medicine+and+Rehabilitation&volume=87&issue=1 &author=Deed+E.+Harrison&au
+
+2. Harrison DE, Cailliet R, Harrison DD, Janik TJ, Troyanovich SJ, Coleman RR.
+Lumbar coupling during lateral translations of the thoracic cage relative to a
+fixed pelvis. Clin Biomech. 1999;14(10):704-709. doi:10.1016/s0268-
+
+0033(99)00030-3 (https://doi.org/10.1016/s0268-0033(99)00030-3)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Lumbar+coupling+during+lateral+translations+of+the+thoracic+cagetrelativettota+fixedt+pelvis&publication_year=
+
+0033%2899%2900030-3&pages=704-
+
+ 
+
+7098journal=Clinical+Biomechanics&volume=14&issue=10&author=Deed+E+Harrison&author=Rene+Cailliet&author=E
+
+ 
+===PAGE:pg-11.txt===
+3. Harrison DE, Cailliet R, Betz JW, et al. Anon-randomized clinical control
+trial of Harrison mirror image methods for correcting trunk list (lateral
+translations of the thoracic cage) in patients with chronic low back pain. Eur
+Spine J. 2005;14(2):155-162. doi:10.1007/s00586-004-0796-z
+(https://doi.org/10.1007/s00586-004-0796-z). PMID:15517424
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=A+non-
+randomized+clinical+control+trial+of+Harrison+mirrortimage+methods+for+correcting+trunk+list+%28lateral+translatior
+004-0796-z&pages=155-
+1628&journal=European+Spine+Journal&volume=14&issue=28author=Deed+E.+Harrison&author=Rene+Cailliet&author
+
+Central (https://www.ncbi.nim.nih.gov/pmce/articles/PMC3476700) PubMed
+
+4. Henshaw M, Oakley PA, Harrison DE. Correction of pseudoscoliosis (lateral
+thoracic translation posture) for the treatment of low back pain: a CBP® case
+report. J Phys Ther Sci. 2018;30(9):1202-1205. doi:10.1589/jpts.30.1202
+(https://doi.org/10.1589/jpts.30.1202). PMID:30214125
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Correction+of+pseudoscoliosist%28lateral+thoracic+translation+posture%29+for+the+treatment+of+low+backtpa
+12058journal=Journal+of+Physical+Therapy+Science&volume=30&issue=9&author=Monica+Henshaw&author=Paul+A
+Central (https://www.ncbi.nim.nih.gov/pme/articles/PMC6127486) PubMed
+
+(https://pubmed.ncbi.nlm.nih.gov/30214125)
+===PAGE:pg-12.txt===
+5. Harrison DD, Janik TJ, Harrison GR, Troyanovich S, Harrison DE, Harrison
+
+SO. Chiropractic biophysics technique: a linear algebra approach to posture in
+chiropractic. J Manipulative Physiol Ther. 1996;19:525-535.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Chiropractic+biophysics+technique%3A+atlinear+algebra+approach+to+posture+in+chiropractic&publication_year
+
+535&journal=J+Manipulative+Physiol+Ther&volume=19&author=D.D.+Harrison&author=T.J.+Janik&author=G.R.+Harris
+
+6. Oakley PA, Harrison DD, Harrison DE, Haas JW. Evidence-based protocol for
+structural rehabilitation of the spine and posture: review of clinical
+
+biomechanics of posture (CBP) publications. J Can Chiropr Assoc. 2005;49:270-
+
+296.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Evidence-
+based+protocol+for+structural+rehabilitation+of+the+spine+and+posture%3Atreviewtof+clinicaltbiomechanics+oftpos
+
+296&journal=J+Can+Chiropr+Assoc&volume=49&author=P.A.+Oakley&author=D.D.+Harrison&author=D.E.+Harrison&:
+
+7. Harrison DE, Oakley PA. An introduction to Chiropractic BioPhysics®
+(CBP®) technique: A full spine rehabilitation approach to reducing spine
+deformities. In: Complementary Therapies. IntechOpen; 2022. doi:10.5772/
+intechopen.102686 (https://doi.org/10.5772/intechopen. 102686),
+
+Google Scholar (https://scholar.google.com/scholar_ lookup?
+
+title=An+introduction+to+Chiropractic+ BioPhysics%C2%AE+%28CBP%C2%AE%29+technique%3A+A+full+spine+rehe
+
+8. CBP NonProfit website. https://cbpnonprofit.com/publications/
+(https://cbpnonprofit.com/publications/)
+
+9. Fortner MO, Oakley PA, Harrison DE. Treating “slouchy” (hyperkyphosis)
+posture with chiropractic biophysics®: a case report utilizing a multimodal
+mirror image® rehabilitation program. J Phys Ther Sci. 2017;29(8):1475-1480.
+===PAGE:pg-13.txt===
+doi:10.1589/jpts.29.1475 (https://doi.org/10.1589/jpts.29.1475).
+
+PMID:28878486
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Treating+%27slouchy%27+%28hyperkyphosis%29+posture+with+chiropractic+biophysics%C2%AE%3A+atcaset+
+14808&journal=Journal+of+Physical+Therapy+Science&volume=298&issue=8&author=Miles+O.+Fortner&author=Paul+A
+
+Central (https://www.ncbi.nIm.nih.gov/pmc/articles/PMC5574330) PubMed
+
+10. Woodham TJ, Fortner MO, Oakley PA, Harrison DE. Reducing ‘crooked’
+
+lateral spine subluxation (global coronal imbalance) in 5 patients with
+degenerative disc disease in their 6th and 7th decade of life: A case series
+
+utilizing Chiropractic BioPhysics® technique. J Contemporary Chiro.
+20215;4:128-137.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Reducing+%E2%80%98crooked%E2%80%99+lateral+spine+subluxation+%28global+coronal+imbalance%29+in+
+
+1378&journal=J+Contemporary+Chiro&volume=4&author=T. J.+Woodham&author=M.0.+Fortner&author=P.A.+Oakley&a
+===PAGE:pg-14.txt===
+11. Anderson JM, Oakley PA, Harrison DE. Improving posture to reduce the
+symptoms of Parkinson’s: a CBP® case report with a 21 month follow-up. J
+
+Phys Ther Sci. 2019;31(2):153-158. doi:10.1589/jpts.31.153
+(https://doi.org/10.1589/jpts.31.153). PMID:30858655
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Improving+posture+to+reduce+thet+symptoms+of+Parkinson%27s%3A+a+CBP%C2%AE+caset+report+with+at+21
+up&publication_year=20198doi=10,1589%2Fipts.31.153&pages=153-
+1588&journal=Journal+of+Physical+Therapy+Science&volume=31 &issue=2&author=Justin+M.+Anderson&author=Paul+
+
+Central (https://www.ncbi.nim.nih.gov/pmc/articles/PMC6382490) PubMed
+
+ 
+
+12. Jaeger J, Moore R, Burkhardt L. Resolution of Urinary incontinence
+
+following Chiropractic BioPhysics protocol to reduce vertebral subluxations.
+Annals of Vertebral Subluxation Research. Published online August 27,
+
+2014:145-152.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Resolution+of+Urinary+incontinence+following+Chiropractic+BioPhysics+protocol+to+reduce+vertebral+subluxatio
+
+1528journal=Annals+of+Vertebral+Subluxation+Research&author=J.+Jaeger&author=R.+Moore&author=L.+Burkhardt)
+
+ 
+
+13. Oakley PA, Berry RH, Harrison DE. A structural approach to the
+postsurgical laminectomy case. J Vert Sublux Res. Published online March 19,
+2007:1-7.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=A+structural+approach+to+the+postsurgical+laminectomy+case&publication_year=2007&pages=1-
+
+ 
+
+7&journal=J+Vert+Sublux+Res&author=P.A.+Oakley&author=R.H.+Berry&author=D.E.+Harrison)
+
+14. Nuckols TK, Lim YW, Wynn BO, et al. Rigorous development does not
+ensure that guidelines are acceptable to a panel of knowledgeable providers. J
+===PAGE:pg-15.txt===
+Gen Intern Med. 2008;23(1):37-44. doi:10.1007/s11606-007-0440-9
+(https://doi.org/10.1007/s11606-007-0440-9). PMID:18030541
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Rigorous+development+does+not+ensure+that+ guidelines +are+acceptable+to+a+panel+of+knowledgeable+provic
+
+007-0440-9&pages=37-
+
+ 
+
+448&journal=Journal+of+General+Internal+Medicine&volume=23&issue=1 &author=Tery|+K.+Nuckols&author=Yee-
+Wei+Lim&author=Barbara+O.+Wynn&author=Soeren+Mattke&author=Catherine+H.+MacLean&author=Philip+Harber&
+
+Central (https://www.ncbi.nlm.nih.gov/pmec/articles/PMC2173921) PubMed
+
+ 
+
+15. Chiropr J. 2020;1:004. doi:10.46323/2021004
+(https://doi.org/10.46323/2021004)
+
+Google Scholar (https://scholar.google.com/scholar?
+
+g=Chiropr+J.+2020%3B1%3A004.+https%3A%2F %2Fdoi.org%2F10.46323%2F 2021004)
+
+16. Ebrall P, Doyle M. The value of case reports as clinical evidence. Chiropr J
+Australia. 2020;47(1):29-43. http:/Avww.cjaonline.com.au/index.php/cja/issue/
+view/15 (http://www.cjaonline.com.au/index.php/cja/issue/view/15),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+valuetof+case+reportst+as+clinicaltevidence&publication_year=2020&pages=29-
+
+438journal=Chiropr+J+Australia&volume=47 &issue=1&author=P.+Ebrall&author=M.+Doyle)
+
+17. Oakley PA, Cuttler JM, Harrison DE. X-Ray Imaging is Essential for
+Contemporary Chiropractic and Manual Therapy Spinal Rehabilitation:
+Radiography Increases Benefits and Reduces Risks. Dose Response.
+2018;16(2):155932581878143. doi:10.1177/1559325818781437
+(https://doi.org/10.1177/1559325818781437). PMID:29977177
+===PAGE:pg-16.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?title=X-
+Ray+Imaging+is+Essential+for+Contemporary+Chiropractictand+Manual+Therapy+Spinal+Rehabilitation%3A+Radiog!
+Response&volume=16&issue=2&author=Paul+A.+Oakley&author=Jerry+M.+Cuttler&author=Deed+E.+Harrison) Publ
+
+Central (https:/Awww.ncbi.nim.nih.gov/pme/articles/PMC6024283) PubMed
+
+18. Bogduk N. Management of chronic low back pain. Med J Aust.
+2004;180(2):79-83. doi:10.5694/j.1326-5377.2004.tb05805.x
+(https://doi.org/10.5694/j.1326-5377.2004.tb05805.x)
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Management+of+chronictlow+back+pain&publication_year=2004 &doi=10.5694%2Fj.1326-
+5377.2004 th05805.x&pages=79-
+
+838&journal=Medical+Journal+of+Australia&volume=180&issue=2&author=Nikolai+Bogduk),
+
+19. Oakley PA, Ehsani NN, Moustafa IM, Harrison DE. Restoring cervical
+
+lordosis by cervical extension traction methods in the treatment of cervical
+
+spine disorders: a systematic review of controlled trials. J Phys Ther Sci.
+2021;33(10):784-794. doi:10.1589/jpts.33.784
+
+(https://doi.org/10.1589/jpts.33.784). PMID:34658525
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Restoring+cervical+lordosis+by+cervical+extension+traction+methods+in+the+treatment+of+cervical+spine+disorc
+7948journal=Journal+of+Physical+Therapy+Science&volume=33&issue=108author=Paul+A.+Oakley&author=Niousha:
+
+Central (https:/Awww.ncbi.nim.nih.gov/pmc/articles/PMC8516614) PubMed
+
+20. Oakley PA, Ehsani NN, Moustafa IM, Harrison DE. Restoring lumbar
+lordosis: a systematic review of controlled trials utilizing Chiropractic Bio
+
+Physics® (CBP®) non-surgical approach to increasing lumbar lordosis in the
+===PAGE:pg-17.txt===
+treatment of low back disorders. J Phys Ther Sci. 2020;32(9):601-610.
+doi:10.1589/jpts.32.601 (https://doi.org/10.1589/jpts.32.601). PMID:32982058
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+ 
+
+title=Restoring+lumbar+lordosis%3Atatsystematic+reviewt+of+controlled+trials tutilizing+Chiropractict BiotPhysics%C;
+surgicaltapproach+tot+increasing+lumbar+lordosistin+the+treatment+of+lowt+back+disorders&publication_year=2020&
+6108journal=Journal+of+Physical+Therapy+Science&volume=32&issue=9&author=Paul+A.+Oakley&author=Niousha+!
+
+Central (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7509154) PubMed
+
+21. Oakley PA, Harrison DE. Reducing Thoracic Hyperkyphosis Subluxation
+Deformity: A Systematic Review of Chiropractic BioPhysics® Methods
+
+Employed in its Structural Improvement. J Contemp Chiropr. 2018;1:59-66.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Reducing+Thoracic+Hyperkyphosis+Subluxation+Deformity%3A+A+Systematic+Review+of+Chiropractic+BioPhys
+
+668journal=J+Contemp+Chiropr&volume=1 &author=P.A.+Oakley&author=D.E.+Harrison),
+
+22. Oakley PA, Harrison DE. A systematic review of CBP methods applied to
+reduce lateral head translation postures.
+
+Google Scholar (https://scholar.google.com/scholar?
+
+ 
+
+g=22.+Oakley+PA%2C+Harrison+DE,+A+systematict+review+of+CBP+methods+applied+to+reduce+lateralt+head+trans
+===PAGE:pg-18.txt===
+23. Russell D. The assessment and correction of vertebral subluxation is
+
+central to chiropractic practice: Is there a gap in the clinical evidence? J
+
+Contemp Chiropr. 201932:4-17.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+assessment+and+correction+of+vertebral+subluxationt+is+central+to+chiropractic+practice%3A+Is+theretat
+
+178&journal=J+Contemp+Chiropr&volume=2&author=D+Russell)
+
+24. Jenkins HJ, Downie AS, Moore CS, French SD. Current evidence for spinal
+X-ray use in the chiropractic profession: a narrative review. Chiropr Man
+Therap. 2018;26(1):48. doi:10.1186/s12998-018-0217-8
+(https://doi.org/10.1186/s12998-018-0217-8). PMID:30479744
+
+Google Scholar (https://scholar.google.com/scholar_lookup?title=Current+evidence+fort+spinal+X-
+ray+usetin+the+chiropractic+profession%3A+a+narrative+review&publication_year=2018&doi=10.1186%2Fs12998-
+018-0217-
+
+8&pages=488&journal=Chiropractict %26amp%3B+Manual+Therapies&volume=26&issue= 1 &author=Hazel+J+Jenkins&
+
+Central (https://www.ncbi.nlm.nih.gov/pmec/articles/PMC6247638) PubMed
+===PAGE:pg-19.txt===
+25. Oakley PA, Harrison DE. Selective usage of medical practice data,
+misrepresentations, and omission of conflicting data to support the “red flag
+
+only” agenda for chiropractic radiography guidelines: A critical assessment of
+
+the Jenkins et al. article: “Current evidence for spinal X-ray use in the
+
+chiropractic profession. Ann Vert Sublux Res Oct. 2019;14:141-157.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Selective+usage+of+medical+practice+data%2C+misrepresentations%2C+and+omission+of+conflicting+data+to+
+ray+usetin+the+chiropractictprofession&publication_year=2019&pages=141-
+
+1578&journal=Ann+Vert+Sublux+Res+Oct&volume=148&author=P.A.+Oakley&author=D.E.+Harrison)
+
+26. Corso M, Cancelliere C, Mior S, Kumar V, Smith A, Cété P. The clinical
+
+utility of routine spinal radiographs by chiropractors: a rapid review of the
+literature. Chiropr Man Therap. 2020;28(1):33. doi:10.1186/s12998-020-00323-
+
+8 (https://doi.org/10.1186/s12998-020-00323-8). PMID:32641135
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=The+clinical+utility+of+routine+spinal+radiographs+by+chiropractors%3A+a+rapid+review+of+ the+literature&public
+020-00323-
+
+8&pages=338journal=Chiropractict %26amp%3B+Manual+Therapies&volume=28&issue=1&author=Melissa+Corso&at
+
+Central (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7346665) PubMed
+
+27. Oakley PA, Betz JW, Harrison DE, Siskin LA, Hirsh DW, International
+Chiropractors Association Rapid Response Research Review Subcommittee.
+Radiophobia Overreaction: College of Chiropractors of British Columbia
+Revoke Full X-Ray Rights Based on Flawed Study and Radiation Fear-
+Mongering. Dose Response. 2021;19(3):15593258211033142.
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+
+title=Radiophobia+Overreaction%3A+College+of+Chiropractors+of+British+Columbia+Revoke+Full+X-
+===PAGE:pg-20.txt===
+Ray+Rights+Based+on+Flawed+Study+and+Radiation+Fear-
+Mongering&publication_year=2021 &pages=15593258211033142&journal=Dose-
+
+Response&volume=19&issue=3&author=Paul+A,+Oakley&author=Joseph+W.+Betz&author=Deed+E, +Harrison&autho!
+
+28. Coté P, Mior S, Corso M, Cancelliere C, Kumar V, Smith A. Ad Hominem
+Criticisms: An Old Trick to Discredit Inconvenient Research. A Response to
+Oakley et al. And the International Chiropractors Association Rapid Response
+Research Review Subcommittee. Dose Response.
+2021319(4):15593258211058339. doi:10.1177/15593258211058339
+(https://doi.org/10.1177/15593258211058339). PMID:34819816
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Ad+Hominem+Criticisms%3A+An+Old+Trick+to+Discredit+Inconvenient+Research.+A+Response+to+Oakley+etti
+Response&volume=19&issue=4&author=Pierre+C%C3%B4t%C3%A9&author=Silvano+Mior&author=Melissa+Corso&a
+Central (https://www.ncbi.nIm.nih.gov/pmc/articles/PMC8606940) PubMed
+
+(https://pubmed.ncbi,nim.nih.gov/34819816)
+===PAGE:pg-21.txt===
+29. Oakley PA, Betz JW, Harrison DE, Siskin LA, Hirsh DW, International
+Chiropractors Association Rapid Response Research Review Subcommittee.
+Smoke Screen to Distract From Flawed Science: A Response to Coté et al. Over
+Criticisms to Their Deficient ‘Rapid Review’ on Chiropractic X-Ray Utility. Dose
+Response. 2021;19(4):155932582110583. doi:10.1177/15593258211058341
+(https://doi.org/10.1177/15593258211058341). PMID:34819817
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Smoke+Screen+to+tDistract+From+Flawed+Science%3A+A+Responsetto+C%C3%B4t%C3%AI+et+al.+Over+Cri
+Ray+Utility&publication_year=2021 &doi=10.1177%2F 1559325821105834 1 &pages=155932582110583&journal=Dose-
+Response&volume=1 9&issue=4&author=Paul+A.+Oakley&author=Joseph+W.+Betz&author=Deed+E.+Harrison&autho!
+
+Central (https://www.ncbi.nim.nih.gov/pmce/articles/PMC8606932) PubMed
+
+30. Oakley PA, Harrison DE. Radiophobic Fear-Mongering, Misappropriation of
+Medical References and Dismissing Relevant Data Forms the False Stance for
+Advocating Against the Use of Routine and Repeat Radiography in
+Chiropractic and Manual Therapy. Dose Response.
+2021;19(1):1559325820984626. doi:10.1177/1559325820984626
+(bttps://doi.org/10.1177/1559325820984626). PMID:33628151
+
+Google Scholar (https://scholar.google.com/scholar_lookup7title=Radiophobic+Fear-
+Mongering%2C+Misappropriation+of+Medical+Referencestand+Dismissing+Relevant+Datat+Forms+the+False+Stance
+Response&volume=19&issue=1 &author=Paul+A.+Oakley&author=Deed+E.+Harrison) PubMed Central
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7883173) PubMed
+
+(https://pubmed.ncbi.nim.nih.gow/33628151),
+
+31. Oakley PA, Cuttler JM, Harrison DE. X-Ray Imaging is Essential for
+Contemporary Chiropractic and Manual Therapy Spinal Rehabilitation:
+
+Radiography Increases Benefits and Reduces Risks. Dose Response.
+===PAGE:pg-22.txt===
+2018;16(2):155932581878143. doi:10.1177/1559325818781437
+(https://doi.org/10.1177/1559325818781437). PMID:29977177
+
+Google Scholar (https://scholar.google.com/scholar_lookup7title=X-
+Ray+Imaging+is+Essential+for+Contemporary+Chiropractic+and+Manual+Therapy+Spinal+Rehabilitation%3A+Radiog!
+Response&volume=16&issue=2&author=Paul+A.+Oakley&author=Jerry+M.+Cuttler&author=Deed+E.+Harrison) Publ
+Central (https://www.ncbi.nIm.nih.gov/pmc/articles/PMC6024283) PubMed
+
+(https://pubmed.ncbi.nlm.nih.gov/29977177)
+
+32. Kawchuk G, Goertz C, Axén I, et al. Letter to the Editor Re: Oakley PA,
+Cuttler JM, Harrison DE. X-Ray Imaging Is Essential for Contemporary
+Chiropractic and Manual Therapy Spinal Rehabilitation: Radiography
+Increases Benefits and Reduces Risks. Dose Response. 2018 Jun 19;16(2). Dose
+Response. 2018;16(4):1559325818811521. doi:10.1177/1559325818811521
+(https://doi.org/10.1177/1559325818811521). PMID:30627066
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Letter+to+the+EditortRe%3A+Oakley+PA%2C+Cuttler+JIM%2C+Harrison+DE.+X-
+Ray+Imaging+ls+Essential+for+Contemporary+Chiropractictand+Manual+Therapy+Spinal+Rehabilitation%3A+Radiog,
+Response&volume=16&issue=4&author=Greg+Kawchuk&author=Christine+ Goertz&author=Iben+Ax%C3%A9n&author
+
+Central (https://www.ncbi.nIm.nih.gov/pmc/articles/PMC6311565) PubMed
+
+33. Oakley PA, Cuttler JM, Harrison DE. Response to Letters From Anderson
+and Kawchuk et al: X-Ray Imaging Is Essential for Contemporary Chiropractic
+and Manual Therapy Spinal Rehabilitation: Radiography Increases Benefits
+and Reduces Risks. Dose Response. 2018;16(4):1559325818809584. doi:10.1177/
+
+1559325818809584 (https://doi.org/10.1177/1559325818809584).
+PMID:30627065
+===PAGE:pg-23.txt===
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Response+to+Letters+From+Anderson+and+Kawchuk+tet+tal%3A+X-
+Ray+Imaging+Is+Essential+for+Contemporary+Chiropractictand+Manual+Therapy+Spinal+Rehabilitation%3A+Radiog
+Response&volume=16&issue=4&author=Paul+A.+Oakley&author=Jerry+M.+Cuttler&author=Deed+E.+Harrison) Publ
+
+Central (https://www.ncbi.nIm.nih.gov/pmc/articles/PMC6311598) PubMed
+
+34. Harrison DE, Oakley PA. Necessity for biomechanical evaluation of posture,
+alignment and subluxation. Part I: the 6 subluxation types that satisfy
+
+Nelson’s criteria for valid subluxation theory. J Contemporary Chiropr.
+2018;1(1):9-19. https://journal.parker.edu/index.php/jcc/article/view/16
+(https://journal.parker.edu/index.php/jcc/article/view/16),
+
+Google Scholar (https://scholar.google.com/scholar_lookup?
+title=Necessity+for+biomechanicalt+evaluationt+of+posture%2C+alignment+and+subluxation.+Part+|%3A+the+6+sublux
+
+198journal=J+Contemporary+Chiropr&volume=1 &issue=1 &author=D.E.+Harrison&author=P.A.+Oakley)
+
+ 
+
+Powered by Scholastica (https://scholasticahg.com/), the modern academic
+journal management system
+

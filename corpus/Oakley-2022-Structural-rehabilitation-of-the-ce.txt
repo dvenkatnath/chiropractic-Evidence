@@ -1,0 +1,671 @@
+ J. Phys. Ther. Sci. 34: 759–771, 2022
+
+
+
+ The Journal of Physical Therapy Science
+
+Review Article
+
+Structural rehabilitation of the cervical lordosis
+and forward head posture: a selective review of
+Chiropractic BioPhysics® case reports
+
+Paul A. Oakley, DC, MSc1)*, Sean Z. Kallan, BSc1), Deed E. Harrison, DC2)
+1) Private Practice: Newmarket, ON, L3Y 8Y8, Canada
+2) CBP NonProfit, Inc., USA
+
+
+
+
+        Abstract. [Purpose] To characterize the case report evidence of Chiropractic BioPhysics® (CBP®) technique
+        methods applied to increase cervical lordosis and improve forward head posture. [Methods] The CBP Non-profit
+        website as well as PubMed and Index to Chiropractic literature were searched for case reports/series documenting
+        the increase of cervical lordosis and improvement of forward head posture in the treatment of various craniocervi-
+        cal spinal disorders by CBP technique methods. [Results] Sixty patients were reported in 41 unique manuscripts
+        detailing the improvement in cervical spine alignment by CBP technique methods. On average, there was a 14°
+        improvement in cervical lordosis and a 12 mm reduction in forward head position after 40 treatments over 16 weeks
+        with a 5-point reduction in pain rating scores. Thirty-eight percent of cases included follow-up showing only slight
+        loss of lordosis, but maintenance of pain and disability improvements after an average of 1.5 treatments per month
+        for 1.8 years. [Conclusion] An abundance of reports document improvement in craniocervical and other ailments
+        by CBP methods that increase cervical lordosis. Routine radiographic imaging of the spine is recommended as it
+        is safe and the only current practical method of screening for critical biomechanical biomarkers of sagittal spine
+        alignment.
+        Key words: Cervical lordosis, Forward head posture, Cervical spine
+                                                    (This article was submitted Jul. 13, 2022, and was accepted Aug. 16, 2022)
+
+
+                                                         INTRODUCTION
+   There has been increasing interest from the spine research community of the importance of the cervical spine over the
+last decade1–5). Many reviews have presented common biomechanical parameters that are important in the comprehensive
+assessment of the cervical spine, and these can easily be quantified from radiographic imaging6). Of many craniocervical
+parameters, the cervical lordosis and sagittal head posture are among the most important as the lordotic shape and a neutral
+sagittal vertical alignment of C2 relative to C7 of the cervical spine are both important for optimizing joint loading7), main-
+taining cervical range of motion8), achieving a horizontal gaze9) and preserving the pons-cord tract in a normal slackened
+position10).
+   The cervical lordosis is a critical feature of early intrauterine development11), is the normal configuration in adulthood12)
+and can be used to discriminate between symptomatic and asymptomatic persons13). A loss of normal lordosis in the cervical
+spine is an important clinical predictor of poor outcomes after fusion surgery14), is associated with degenerative processes15),
+neck pain13, 16), headache17), myelopathies and radiculopathies18) and dizziness19).
+   A recent systematic review located 9 controlled trials featuring Chiropractic BioPhysics® (CBP®) methods used in the
+rehabilitation of the cervical lordosis (i.e. some form of cervical extension traction)20). It was determined that there were
+“several high-quality controlled clinical trials substantiating that increasing cervical lordosis by extension traction as part of a
+
+
+*Corresponding author. Paul A. Oakley (E-mail: docoakley.icc@gmail.com)
+©2022 The Society of Physical Therapy Science. Published by IPEC Inc.
+                    This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial No Deriva-
+                    tives (by-nc-nd) License. (CC-BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+                                                                                                                                       759
+spinal rehabilitation program reduces pain and disability and improves functional measures, and that these improvements are
+maintained long-term”20). Since this review (2020), three more trials have emerged further supporting the clinical importance
+of increasing the cervical curve and reducing forward head posture in patients who present with neck related disorders
+concomitant with a loss of normal lordosis and forward head alignment21–23).
+   CBP technique is a full-spine, spine and posture correcting method that utilizes mirror image® adjusting, exercises and
+traction procedures24–26), where mirror image refers to the reversing of the spine and posture into the opposite of the present-
+ing malalignment during the performance of rehabilitative procedures. CBP also employs unique extension traction methods
+which have proven effective for restoring normal lordosis and reducing forward head posture20–23).
+   CBP Nonprofit (www.cbpnonprofit.com) lists all publications involving CBP methods and is updated annually; currently,
+there are 277 listed peer-reviewed publications27). Over the years there have been many case reports documenting the clinical
+effectiveness of improving sagittal cervical spine alignment leading to simultaneous positive clinical outcomes in the treat-
+ment of various pathological conditions27). As mentioned, several controlled trials have demonstrated the efficacy of CBP
+cervical extension traction to increase lordosis, these have been primarily on mid-aged, neck pain/radiculopathy individuals.
+Therefore, despite these trials there is a gap in the literature on the efficacy of CBP methods to patients varying in age and
+pathological condition. In fact, since the manual therapies literature is generally lacking in scientific evidential support28),
+the case report is an important source of evidence to ‘fill the gap’ for rehabilitative therapies and specific populations which
+lack higher levels of scientific support (e.g. randomized clinical trial, systematic literature reviews, and meta-analyses)29, 30).
+   The purpose of this review is to characterize the clinical evidence as specifically presented in case reports/series featuring
+the clinical application of CBP technique methods to increase cervical lordosis and reduce forward head posture. We further
+aim to highlight the varied pathological conditions treated as well as the various outcome variables documented in order to
+explore future types of clinical case reports that are needed to fill gaps in this type of literature.
+
+                                                        METHODS
+    A review of the CBP NonProfit website citation listings27) was performed for clinical papers reporting on the treatment
+of cervical hypolordosis and forward head posture via CBP technique methods24–26). This review was focused on only case
+reports and case series; therefore, no clinical trials were considered other than to use as a comparison to identified results.
+A thorough review of clinical trials on these methods has been published recently20); thus, the current project was a system-
+atized literature review of clinical case reports and not a systematic review per se.
+    Since the CBP NonProfit website lists all the peer-reviewed CBP publications and gets updated every fall, there was a
+search performed in PubMed and in the Index to Chiropractic Literature (ICL) for any cases published within the last year
+(i.e. Oct. 2021−July, 2022). Search terms included the keywords cervical spine, cervical lordosis, forward head posture, com-
+bined with chiropractic biophysics, CBP, extension traction and rehabilitation. Any recent located cases were also screened
+for references related to the topic. Further, authors having multiple previous case reports were searched individually on
+PubMed, ICL and ResearchGate for any recent case reports involving the cervical spine.
+    The CBP nonprofit site lists 129 case reports/series. These were systematically searched to locate any report documenting
+treatment directed at improving the lordotic and sagittal alignment of the cervical spine regardless of the title and abstract.
+Only cases that specifically described some form of cervical ‘extension traction’ were included. Details extracted from
+located studies included both the age and sex of patient, primary symptomatic complaint, number of treatments, time duration
+of treatment, treatment specifics including traction set-up, traction duration, exercise protocol and adjusting protocol. Details
+of pain, disability and health-related quality of life scores as well as the biomechanical X-ray parameters of cervical lordosis,
+anterior head translation (AHT) and atlas plane line (APL) were also noted. The first two authors extracted details from the
+located articles independently and any discrepancies existing after consolidation of data were solved by consensus.
+
+                                                         RESULTS
+   Sixty individual patients were reported to be treated by CBP methods to restore the cervical lordosis and/or reduce AHT
+as reported in 41 peer-reviewed manuscripts31–71) (Table 1). The majority of cases were located from the CBP NP website,
+however, 5 more cases were located from searchers on Pubmed (n=131)) ICL (n=132)) and ResearchGate (n=333–35)). Not in-
+cluding the series by Shahar71) (reported group average only), on average, there was a 14.1° improvement in cervical lordosis
+after an average of 40 treatments over an average of 16 weeks. The range of ages treated were between 18–75 (average 43),
+the average reduction in AHT was 11.9 mm, the average increase in APL was 9.2°. The average reduction in pain rating was
+4.9-points on an 11-point scale (0–10) representing an 80% average reduction in pain intensity. Of the fourteen cases that
+included pre-post disability scores, there was an average 38% reduction in disability over the respective patient courses of
+treatment; disability was usually quantified by the neck disability index (NDI).
+   Twenty-three cases (38% of total cases) reported follow-up outcome measures after an average maintenance treatment
+schedule of 1.5 treatments per month over an average of 1.8 years (range 0.25–13 years) (Table 2). There was an average
+loss of initial lordosis correction of 3.1°, and a maintenance within error of APL (−1.6°) and AHT (−1.6 mm). Of the cases
+reporting follow-up NPRS (n=10), there was on average no change (−0.1/10), or a long-term maintenance of the initial pain
+
+
+J. Phys. Ther. Sci. Vol. 34, No. 11, 2022                                                                                     760
+      Table 1. Details of case reports showing improved cervical lordosis in the treatment of patients with various pathological disorders
+                                          Primary                 No.    Txt        Pre-post       ARA         Pre-post       APL           Pre-post        AHT       Pre-post     Pain       Pre-post     disability               Other              F/u
+      Author     Year     Journal                       Age M/F
+                                       complaint                  Txts duration      ARA          increase       APL         increase        AHT          reduction    pain      reduction    disability   reduction             outcomes             time
+      Fortner    2022 JPTS          Cervicogenic        26   f    25     2m        −7.5°/−36°      28.5°     −25.5°/−32.9°     7.4°      6.6 mm/9.6 mm     −3 mm        n/r         n/r       66%/16%        50%        C2-6 kyhosis to lordosis      2.5 y
+                                    headache                                                                                                                                                    HDI                     Improved HDI, NDI & SF-36
+      Jaeger     2022 JCC           Total disc          38   f    69    4.5 m     −1.9°/−30.4°     28.5°          n/r          n/r      15.4 mm/4.6 mm    10.8 mm       7/1         7         24%/0%         24%        Improved lordosis pre- and    2.5 y
+                                    replacement                                                                                                                                                 NDI                     post-surgery, NDI
+      Chu        2022 Radiol CR     Cervical            24   m    32     4m          ?/−2°         23°+           n/r          n/r            n/r            n/r        5/2         3+           n/r          n/r       C4-5 23° kyphosis reduced     0.25 y
+                                    radiculopathy                                                                                                                                                                       to ~0°
+      Chu        2021 JCC           TOS                 30   m    24     3m         −3°/−35°        32°           n/r          n/r            n/r            n/r        6/0         6            n/r          n/r       Resolved TOS                   1y
+      Chu*       2021 J Med Cases Cervicogenic          40   m    36     3m         +5°/−10°        15°           n/r          n/r            n/r            n/r        7/0         7           68/20         48        Restored normal clivo-axial    1y
+                                    dizziness                                                                                                                                                   DHI                     angle, resolved dizziness
+      Berry      2020 JCC           Trigeminal          64   m    108    9m         −1°/−14°        13°       −10°/−18°        8°        45 mm/26 mm       19 mm        7/2         5         18%/ n/r         ?        Dramatic reduction of          1y
+                                    neuralgia                                                                                                                                                   NDI                     symptoms, off meds
+      Gerstin    2020 JPTS          Dizziness           57   f    115   12 m      −13.7°/−33.2°    19.5°      −29.8°/n/r       n/r      26.6 mm/24 mm     2.6 mm       9w/1         8           56/12         44        Improved dizziness, NDI,      1.5 y
+                                                                                                                                                                                                DHI                     QOL
+      Fortner    2020 JCC           WAD                 29   f    36    3.75 m    −11.2°/−24°      12.8°     −28.9°/−35.7°     6.8°     2.4 mm/7.4 mm      −5 mm       5/0.5        4.5       98%/4%         94%        Improved symptoms/NDI/        1.1 y
+                                                                                                                                                                                                HDI                     HDI/SF-36/grip strength
+      Chu        2020 J Fam Med     Cervical pain       49   f    n/r    2m            n/r          n/r           n/r          n/r            n/r            n/r        n/r         n/r          n/r          n/r       Case 2: Resolved radicular    0.75 y
+      (n=3)             Prim Care                                                                                                                                                                                       pain
+                                                        43   f    n/r    3m            n/r          n/r           n/r          n/r            n/r            n/r       4/ n/r       ?            n/r          n/r       Case 3: Improved symptoms      2y
+      Fedorchuk 2020 J Radiol       Cervical            63   f    30     3m       −50.6°/−46°      −4.6°          n/r          n/r      17.4 mm/5.2 mm    12.2 mm       n/r         n/r      34.5%/4.3%     30.2%       Reduced NDI/3 spondys          no
+      (n=7)             Case Rep    stenosis &          67   f    30     3m       −3.5°/−19.3°     15.8°          n/r          n/r       8.7 mm/7.8 mm    0.9 mm        n/r         n/r      34.5%/4.3%     30.2%       Reduced NDI/2 spondys          no
+                                    spondylolisthesis   53   f    30     3m       −6.1°/−16.8°     10.7°          n/r          n/r      2.6 mm/10.7 mm −8.1 mm          n/r         n/r      34.5%/4.3%     30.2%       Reduced NDI/3 spondys          no
+                                                        46   f    30     3m       −12.4°/−19.1°     6.7°          n/r          n/r       1.5 mm/7.4 mm    −5.9 mm       n/r         n/r      34.5%/4.3%     30.2%       Reduced NDI/1 spondy           no
+                                                        51   f    30     3m        +2.4°/−4.4°      6.8°          n/r          n/r      27.3 mm/21.9 mm   5.4 mm        n/r         n/r      34.5%/4.3%     30.2%       Reduced NDI/4 spondys          no
+                                                        58   f    30     3m       −11.7°/−11.8°     0.1°          n/r          n/r      23.4 mm/23.8 mm −0.4 mm         n/r         n/r      34.5%/4.3%     30.2%       Reduced NDI/2 spondys          no
+                                                        36   f    30     3m       −12.7°/−17.1°     4.4°          n/r          n/r      24.3 mm/19.1 mm   5.2 mm        n/r         n/r      34.5%/4.3%     30.2%       Reduced NDI/1 spondy           no
+                                                                                                                                                                                                NDI
+      Spriggs    2019 AVSR          Chronic             35   m    24     2m        −9°/−21.5°      12.5°     −5.7°/−15.6°      9.9°     33.8 mm/15.8 mm    18 mm        8/0         8         39%/10%        29%        Resolved migraines,           0.4 y
+                                    migraine                                                                                                                                                    PDQ                     Reduced disability
+      Fortner    2019 JCC           Exertional          18   m    24    2.25 m −20.3°/−28.2°        7.9°     −17.6°/−25.9°     8.3°           n/r            n/r       2–3/1       2–3           n/r          n/r       Improved dyspnea/asthma/      0.6 y
+                                    dyspnea                                                                                                                                                                             ODI/SF-36
+      Breton     2019 JCC           Carpal tunnel       29   m    33    3.25 m    −3.7°/−18.3°     14.6°     −13.1°/−24.7°    11.6°      16 mm/5.1 mm     10.9 mm       5/0         5            n/r          n/r       Resolution of CTS, improved    no
+                                    syndrome                                                                                                                                                                            SF-36
+      Anderson   2019 JPTS          Parkinson’s         59   m    38     5m       −29.6°/−37.2°     7.6°     −7.6°/−19.8°     12.2°     67.5 mm/36.5 mm    31 mm        6/2         4            n/r          n/r       Improved ODI, gait, bal-      1.75 y
+                                                                                                                                                                                                                        ance, hand tremors, back &
+                                                                                                                                                                                                                        knee pain, SF-36
+       ADL: activities of daily living; AHT: anterior head translation; APL: atlas plane line; ARA: C2-7 absolute rotation angle; DHI: dizziness handicap inventory; GERD: gastroesophageal reflux disease;
+       HDI: headache disability index; NBQ: neck Bournemouth questionnaire; NDI: neck disability index; ODI: Oswestry disability index; PDQ: pain disability questionnaire; QOL: quality of life; SF-36:
+       short form-36 questionnaire; TOS: thoracic outlet syndrome; WAD: whiplash associated disorder; YGTSS: Yale global tic severity scale; *C2-7 Cobb angle.
+
+
+
+
+761
+                                            Table 1. Continued
+                                                                              Primary                 No.    Txt        Pre-post       ARA         Pre-post       APL           Pre-post        AHT       Pre-post     Pain      Pre-post     disability                 Other               F/u
+                                            Author      Year    Journal                     Age M/F
+                                                                              complaint               Txts duration      ARA          increase       APL         increase        AHT          reduction    pain      reduction   disability   reduction                 outcomes            time
+                                            Chu         2019 Arch Clin     Cervicogenic     37   f    60     6m         −7°/−22°        15°           n/r          n/r            n/r            n/r        7/0         7        60%/ n/r         ?        Resolved headaches/neck           1y
+                                                               Med Case    headache                                                                                                                                                HDI                     pain off meds
+                                                               Rep
+                                            Dennis      2018 JPTS          Neck pain/       24   m    24    2.5 m      +3°/−18.6°      21.6°          n/r          n/r      44.9 mm/−5.6 mm 50.5 mm         8/0         8        66%/0%         66%        Resolution of pain,               no
+                                                                           headaches                                                                                                                                               NDI                     headaches
+                                            Weiner      2018 JPTS          Spinal           66   f    78    6.5 m     −16.3°/−26.8°    10.5°     −12.3°/−23.2°    10.9°     29.8 mm/34.9 mm −5.1 mm         n/r         n/r      62%/18%        44%        Reduced radiculopathy/            no
+                                                                           stenosis                                                                                                                                                ODI                     pain
+                                            Fortner     2018 JPTS          Spine pain/      32   m    36    3.25 m    −12.4°/−22.4°     10°      +0.3°/−18.5°     18.8°     38.2 mm/23.1 mm 15.1 mm        5–8/1       4–7       38%/4%         34%        Resolution of pains               no
+                                                                           headaches                                                                                                                                               NDI
+
+
+
+
+J. Phys. Ther. Sci. Vol. 34, No. 11, 2022
+                                            Fortner     2018 JPTS          WAD/dizziness 46      m    46     4m       −17.4°/−23.2°     5.8°      −2.8°/−12°       9.2°     22.1 mm/31.2 mm −9.1 mm         5/0         5           n/r          n/r       Resolution of dizziness/pain/     1y
+                                                                                                                                                                                                                                                           ringing in ears
+                                            Fortner     2018 JPTS          WAD              31   f    30     5m       −18.8°/−32.1°    13.3°          n/r          n/r            n/r            n/r        3/0         3           n/r          n/r       Resolution of headaches/pain      no
+                                            Fortner     2018 JPTS          Advanced         38   m    30    4.5 m     −4.8°/−31.7°     26.9°     −18.8°/−32.5°    13.7°      7.3 mm/3.8 mm    3.5 mm       4/2.4        1.6      30%/16%        14%        Reduced disability/pain,          no
+                                                                           osteoarthritis                                                                                                                                          NDI                     improved QOL/blurred vision
+                                            Harrison    2018 JPTS          Post-surgical    52   m    21    2.25 m     −25°/−31°        6°         +3°/−6°         9°       59 mm/39.5 mm     19.5 mm       6/1         5        18%/12%         6%        Reduced radiculopathy/pain/      2.5 y
+                                                                           fusion                                                                                                                                                  NDI                     disability
+                                            Betz        2018 JPTS          Exertional       19   m    37     3m         −1°/−30°        29°        −7°/−28°        21°        13 mm/0 mm       13 mm        n/r         n/r         n/r          n/r       Reduced dyspnea/neck/back        2.75 y
+                                                                           dyspnea                                                                                                                                                                         pain
+                                            Wickstrom 2017 JPTS            Cervical         31   m    40    4.25 m    +16°/−30.6°      46.6°          n/r          n/r      49 mm/−5.6 mm     54.6 mm       6/1         5        46%/0%         46%        Resolution of radiculopathy/      1y
+                                                                           radiculopathy                                                                                                                                           NBQ                     pain/disability
+                                            Fedorchuk   2017 AVSR          Post-surgical    43   f    36     3m       −11.1°/−23.8°    12.7°     −11.7°/−24.6°    12.9°     19.8 mm/10.9 mm   8.9 mm        n/r         n/r         n/r          n/r       Reduced pain/headaches/           no
+                                                                           fusion                                                                                                                                                                          improved ADL
+                                            Fedorchuk   2017 AVSR          Fibromyalgia     40   f    44     5m       +0.4°/−11.8°     12.2°     −18°/−22.8°       4.8°     32.7 mm/15.4 mm 17.3 mm         n/r         n/r         n/r          n/r       Reduced pains, improved           no
+                                                                                                                                                                                                                                                           SF-36
+                                            Fedorchuk   2017 J Mol         Dysautonomia     35   f    36     5m       −18.8°/−27°       8.2°     −20.2°/−25°       4.8°     24 mm/17.7 mm     6.3 mm        5/1         4           n/r          n/r       Telomere lengthening,             no
+                                                               Genet Med                                                                                                                                                                                   improved QOL
+                                            Oakley      2017 CJA           Tourette’s       19   m    81     3m        +12°/−16°        28°        0°/−17°         17°       46 mm/24 mm       22 mm        n/r         n/r      40%/20%        20%        Reduced tics, off meds           13 y
+                                                                                                                                                                                                                                 YGTSS
+                                            Oakley      2017 CJA           Unsteady         75   f    25    2.5 m      −22°/−33°        11°       −18°/−30°        12°       35 mm/21 mm       14 mm       3–6/0       3–6       42%/0%         42%        Able gait, resolution of pain/   0.2 y
+                                                                           gait                                                                                                                                                    NDI                     disability
+                                             ADL: activities of daily living; AHT: anterior head translation; APL: atlas plane line; ARA: C2-7 absolute rotation angle; DHI: dizziness handicap inventory; GERD: gastroesophageal reflux disease;
+                                             HDI: headache disability index; NBQ: neck Bournemouth questionnaire; NDI: neck disability index; ODI: Oswestry disability index; PDQ: pain disability questionnaire; QOL: quality of life; SF-36:
+                                             short form-36 questionnaire; TOS: thoracic outlet syndrome; WAD: whiplash associated disorder; YGTSS: Yale global tic severity scale; *C2-7 Cobb angle.
+
+
+
+
+762
+      Table 1. Continued
+                                        Primary                          No.        Txt       Pre-post       ARA         Pre-post       APL           Pre-post         AHT       Pre-post     Pain        Pre-post    disability              Other           F/u
+      Author         Year Journal                       Age      M/F
+                                       complaint                         Txts     duration      ARA         increase       APL         increase         AHT          reduction    pain      reduction    disability   reduction           outcomes            time
+      Fedorchuk 2016 AVSR           Anterolisthesis      52       f       30        3m       −22.8°/−26°      3.2°     −32.8°/−31.2°    −1.6°      19.6 mm/9.0 mm    10.6 mm       n/r         n/r          n/r          n/r       Reduction of anterolis-     no
+                                                                                                                                                                                                                                   thesis/pain/swelling
+      Bak            2015 AVSR      Hypothyroidism       44       f      n/r        6m       −8.1°/−15°       6.9°          n/r          n/r      17.2 mm/13.7 mm     3.5 mm       n/r         n/r          n/r          n/r       Reduced thyroid meds        no
+      Cardwell       2014 AVSR      Headaches/           34       m       33        9m        −31°/−38°       7°            n/r          n/r        28 mm/0 mm        28 mm        n/r         n/r          n/r          n/r       Decreased headaches/        no
+                                    sinuses                                                                                                                                                                                        sinus symptoms
+      Fedorchuk 2014 AVSR           GERD                 27       f       19        2m       −6.2°/−28°      21.8°     −26.1°/−44.5°    18.4°       17.5 mm/4 mm     13.5 mm       5/4         1            n/r          n/r       Decreased GERD              no
+                                                                                                                                                                                                                                   symptoms
+      Jaeger         2014 AVSR      Urinary inconti-     63       f       22        2m       −6.9°/−11°       4.1°     −30.9°/−27.2°    −3.7°     13.3 mm/17.7 mm    −4.4 mm       ?/0         ?            n/r          n/r       Resolution of inconti-      no
+                                    nence                                                                                                                                                                                          nence/pain
+      Shapiro        2012 AVSR      Parkinson’s          67       m       38        3m        −24°/−39°       15°           n/r          n/r             n/r            n/r        3/2         1            n/r          n/r       Reduced pain, Im-           no
+                                                                                                                                                                                                                                   proved ADL
+      Fedorchuk 2011 AVSR           Dyslipidemia         49       f       ?         3m       28.7°/−31.4°     2.7°     −19.3°/−14.3°     −5°      52.7 mm/35.8 mm    16.9 mm       n/r         n/r          n/r          n/r       Improved cholesterol      1.5 y
+                                                                                                                                                                                                                                   levels/SF-36
+      Oakley        2007 JVSR       Post-surgical        35       m       36        3m        −19°/−32°       13°       −16°/−23°        7°         47 mm/36 mm       11 mm        8/0         8            n/r          n/r       Reduced ODI, pain/        0.75 y
+                                    laminectomy                                                                                                                                                                                    sciatica
+      Haas          2005 JMPT       Syringomyelia        41       m       26      0.75 m      −10°/−30°       20°         0°/−14°        14°        38 mm/15 mm       23 mm      8.5/4.5       4            n/r          n/r       Reduced pain               1y
+      Ferrantelli 2005 JMPT         WAD                  40       m       64       9.5 m      +3°/−17°        20°       −13°/−16°        3°         74 mm/32 mm       42 mm        5/0         5          46%/0%        46%        Reduced disc protru-        no
+                                                                                                                                                                                                           NDI                     sions/pain/disability
+      Colloca       2003 JMPT       Ehlers-Danlos        49       f       43        6m         +9°/−2°        11°           n/r          n/r        12 mm/8 mm        4 mm         5/3         2         23%/11%        12%        Reduced pain/disability     no
+                                    syndrome                                                                                                                                                               NDI                     Improved symptoms
+      Average       (n= 47)                            42.6383 26 f 39.74419        4m       −9.1°/−23.9°    14.1°     −14.7°/−23.3°     9.2°     27.9 mm/16.0 mm    11.9 mm     5.6/1.1       4.9      44.8%/7.9%     37.6%                                 1.8 y
+      SD                                                (14)     21 m   (21.4)    (2.2 m) (13.6°/10.2°)      (9.7°)     (10.4°/8.5°)    (6.6°)    (18.0 mm/12.3 mm) (14.9 mm) (1.6/1.3)       (2.1)     (21.5%/7.6%) (23.4%)                                 (2.6 y)
+                                                       (n= 47)          (n= 43)   (n= 47) (n=44/n=45) (n= 45)          (n=26/n=25)     (n=25)        (n=38/n=38)      (n=38)     (n=28/      (n=27)     (n=16/n=14)    (n=14)                                (n=23)
+                                                                                                                                                                                  n=28)
+      Case series
+      Shahar         2019 Spine     Craniocervical     18–36      xf      84        3m       −8.5°/−14.5°     6°          13°/18°        5°         25 mm/19 mm       6 mm         n/r         n/r          n/r          n/r       Reduced pain, improved      no
+      (n=13)                        symptoms                     xm                                                                                                                                                                QOL
+       ADL: activities of daily living; AHT: anterior head translation; APL: atlas plane line; ARA: C2-7 absolute rotation angle; DHI: dizziness handicap inventory; GERD: gastroesophageal reflux disease;
+       HDI: headache disability index; NBQ: neck Bournemouth questionnaire; NDI: neck disability index; ODI: Oswestry disability index; PDQ: pain disability questionnaire; QOL: quality of life; SF-36:
+       short form-36 questionnaire; TOS: thoracic outlet syndrome; WAD: whiplash associated disorder; YGTSS: Yale global tic severity scale; *C2-7 Cobb angle.
+
+
+
+
+763
+                                            Table 2. Details of the cases that reported a follow-up after the initial corrective care to restore cervical lordosis
+                                                                              Primary                     F/u       No.      Txt       Post-ARA/      ARA       Post-APL/      APL         Post-AHT/         AHT       Post-pain/    Pain Post-Disability/ Disability
+                                            Author      Year                               Age     M/F
+                                                                            complaint                     time     Txts      Freq       f/u ARA        dif       f/u APL        dif         f/u AHT           dif       f/u pain      dif     f/u disability     dif
+                                            Fortner     2022     Cervicogenic              26       f    2.5 y      43       1/m      −36°/−33.3°      2.7°    −32.9°/−33.3° −0.4°         9.6 mm/ n/r         ?         n/r / n/r    n/r       16%/2%         −14%
+                                                                 headache                                                                                                                                                                         HDI
+                                            Jaeger      2022     Total disc                38       f    2.5 y      n/r       n/r     −30.4°/−17.6°   12.8°      n/r / n/r       ?         4.6 mm/ n/r         ?           1/1         0         0%/2%          2%
+                                                                 replacement                                                                                                                                                                      NDI
+                                            Chu         2022     Cervical radiculopathy    24      m     0.25 y      6       2/m         −2°/ n/r       ?        n/r / n/r       ?           n/r / n/r         ?          2/ n/r       ?        n/r / n/r        ?
+                                            Chu         2021     TOS                       30      m      1y        n/r       n/r       −35°/ n/r       ?        n/r / n/r       ?           n/r / n/r         ?          0/ n/r       ?        n/r / n/r        ?
+                                            Chu*        2021     Cervicogenic              40      m      1y        n/r       n/r       −10°/ n/r       ?        n/r / n/r       ?           n/r / n/r         ?           0/0         0          20/0          −20
+                                                                 dizziness                                                                                                                                                                        DHI
+                                            Berry       2020     Trigeminal neuralgia      64      m      1y        24       2/m       −14°/−18°       −4°      −18°/−22°       −4°       26 mm/21 mm        −5 mm         2/2         0        n/r / n/r        ?
+
+
+
+
+J. Phys. Ther. Sci. Vol. 34, No. 11, 2022
+                                            Gerstin     2020     Dizziness                 57       f    1.83 y     n/r       n/r      −33.2°/ n/r      ?        n/r / n/r       ?         24 mm/ n/r          ?                       ?          12/10          −2
+                                                                                                                                                                                                                                                  DHI
+                                            Fortner     2020     WAD                       29       f    1.1 y       8       2/m       −24°/−18°       6°      −35.7°/−34.3°   1.4°      7.4 mm/11.6 mm     4.2 mm       0.5/ n/r      ?        4%/10%          6%
+                                                                                                                                                                                                                                                  HDI
+                                            Chu         2020     Cervical                  49       f    0.75 y     n/r       n/r        n/r / n/r      ?        n/r / n/r       ?           n/r / n/r        n/r        n/r / n/r     ?        n/r / n/r        ?
+                                            (n=3)                pain                      43       f     2y        n/r       n/r        n/r / n/r      ?        n/r / n/r       ?           n/r / n/r        n/r        n/r / n/r     ?        n/r / n/r        ?
+                                            Spriggs     2019     Chronic                   35      m     0.4 y       7       1/m       −21.5°/ n/r      ?       −15.6°/ n/r      ?        15.8 mm/ n/r        n/r          0/0         0        10%/2%          −8%
+                                                                 migraine                                                                                                                                                                         PDQ
+                                            Fortner     2019     Exertional dyspnea        18      m     0.6 y       4       1/m      −28.2°/−27.6°    0.6°     −25.9°/ n/r      ?           n/r / n/r        n/r          1/0        −1        n/r / n/r        ?
+                                            Anderson    2019     Parkinson’s               59      m     1.75 y     n/r       n/r      −37.2°/ n/r      ?       −19.8°/ n/r      ?        36.5 mm/ n/r        n/r         2/ n/r       ?        n/r / n/r        ?
+                                            Chu         2019     Cervicogenic headache     37       f     1y        n/r       n/r       −22°/ n/r       ?        n/r / n/r       ?           n/r / n/r        n/r          0/0         0        n/r / n/r        ?
+                                            Fortner     2018     WAD/dizziness             46      m      1y        10       1/m      −23.2°/−30.4°   −7.2°    −12°/−20.9°     −8.9°    31.2 mm/15.9 mm     −15.3 mm       0/0         0        n/r / n/r        ?
+                                            Harrison    2018     Post-surgical             52      m     2.5 y      38       1/m       −31°/−30°       1°        −6°/−4°        2°       39.5 mm/46 mm      6.5 mm         1/2         1        12%/8%          −4%
+                                                                 fusion                                                                                                                                                                           NDI
+                                            Betz        2018     Exertional dyspnea        19      m     2.75 y     12       1/m       −30°/−22°       8°       −28°/−28°       0°         0 mm/4 mm         4 mm        n/r / n/r     ?        n/r / n/r        ?
+                                            Wickstrom   2017     Cervical                  31      m      1y        24       2/m      −30.6°/−19.5°   11.1°      n/r / n/r       ?      −5.6 mm/0.5 mm       6.1 mm       1/ n/r       ?        0%/10%          10%
+                                                                 radiculopathy                                                                                                                                                                    NBQ
+                                            Oakley      2017     Tourette’s                19      m      13 y      n/r       n/r       −16°/ n/r       ?        −17°/ n/r       ?         24 mm/ n/r          ?         n/r / n/r     ?        20%/ n/r         ?
+                                                                                                                                                                                                                                                YGTSS
+                                            Oakley      2017     Unsteady gait             75       f    0.4 y      44       4/m        −33°/ n/r       ?        −30°/ n/r       ?         21 mm/ n/r          ?          0/ n/r       ?        n/r / n/r        n/r
+                                            Fedorchuk   2011     Dyslipidemia              49       f    1.5 y      24       2/m       −31.4°/ n/r      ?       −14.3°/ n/r      ?        35.8 mm/ n/r         ?         n/r / n/r     ?        n/r / n/r        n/r
+                                            Oakley      2007 Post-surgical laminectomy     35      m     0.75 y      0        0        −32°/−32°       0°        −23°/ n/r       ?         36 mm/ n/r          ?           0/0         0        n/r / n/r        n/r
+                                            Haas        2005     Syringomyelia             41      m      1y        n/r       n/r      −30°/−30°       0°       −14°/−15°       −1°       15 mm/3 mm        −12 mm        4.5/4      −0.5       n/r / n/r        n/r
+                                            Average     (n=23)                             39.8    9f    1.8 y      18.8    1.5/m     −26.0°/−24.8°    3.1°    −21.4°/−23.8°   −1.6°    20.4 mm/16.5 mm     −1.6 mm      0.7/0.6     −0.1      8.9%/5.7%       −3.8%
+                                            SD                                            (15.0) 14 m    (2.6 y)   (15.2)   (1.0/m)    (−9.2°/6.3°)   (6.4°)    (8.6°/10.7°)   (3.8°)   (14.0 mm/15.7 mm)   (9.1 mm)    (1.2/1.4)    (0.5)    (7.8%/4.1%)      (10.1%)
+                                                                                          (n=23)         (n=23)    (n=13)   (n=13)    (n=21/n=11)     (n=11)    (n=14/n=7)     (n=7)       (n=16/n=7)        (n=8)     (n=14/n=10)   (n=10)    (n=9/n=8)       (n=8)
+                                             AHT: anterior head translation; APL: atlas plane line; ARA: C2-7 absolute rotation angle; DHI: dizziness handicap inventory; HDI: headache disability index; NBQ: neck Bournemouth question-
+                                             naire; NDI: neck disability index; PDQ: pain disability questionnaire; TOS: thoracic outlet syndrome; WAD: whiplash associated disorder; YGTSS: Yale global tic severity scale; *C2-7 Cobb angle.
+
+
+
+
+764
+                                             Columns calculating difference (‘dif’) indicate ‘-‘ for further improvement and ‘+’ for loss of correction.
+relief. Of the cases reporting follow-up disability scores (n=8), there was on average, stability of disability improvement as
+achieved following the initial post-treatment results. Only 3 out of the 41 (7%) manuscripts presented information on more
+than one case (case series) 39, 40, 71).
+   The cases reported positive patient outcomes for a wide range of pathological conditions not limited to craniocervi-
+cal complaints. All patients did not necessarily have improvement in their presenting conditions, but all had some sort of
+improved outcomes (e.g. pain, disability etc; For details see Table 1). Primary conditions treated included: carpal tunnel
+syndrome43), cervical disc replacement32), cervical radiculopathy33, 54), cervical spondylolisthesis40, 60), cervical spondylotic
+myelopathy59), cervical stenosis40, 47), dizziness35, 37, 49), dysautonomia57), dyslipidemia66), Ehlers-Danlos syndrome70), exer-
+tional dyspnea42, 53), fibromyalgia56), gait and balance instability44, 59), gastroesophageal reflux disease (GERD)63), headache
+(including migraine)31, 41, 45, 46, 48, 62,), hypothyroidism61), neck pain (most cases), osteoarthritis51), Parkinson’s44, 65), post-
+surgical fusion52, 55), sinus problems62), syringomyelia68), thoracic outlet syndrome34), Tourette’s58), trigeminal neuralgia36),
+gait dysfunction59), urinary incontinence64) and whiplash associated disorders38, 49, 50, 69). Many reports also detailed improve-
+ments in cervical range of motion, disability (e.g. neck disability index), health-related quality of life (e.g. SF-36), elimina-
+tion of medication use and improved sleep. There were also reports of improved asthma symptoms42), relief of ringing in the
+ears49), resolution of blurred vision51) and in one case, telomere lengthening57).
+
+                                                        DISCUSSION
+    This selected literature review has summarized the details from case reports and case series documenting the improvement
+of cervical lordosis and forward head posture (AHT) by CBP technique methods. We located data on 60 patients as reported
+in 41 citations31–71). On average, a lordosis improvement of 14.1° was accomplished after an average of 40 treatments over
+an average of 16 weeks. There was also an average 11.9 mm reduction in AHT, an average 9.2° increase in the APL and a
+4.9-point reduction in pain as rated on an 11-point scale.
+    Importantly, there were documented improvements in a wide variety of chief complaints not exclusively attributed to neck
+pain and/or headaches. For example, relief was documented in reported cases of sinus problems62), neurologic tics58), blurred
+vision51), ringing in the ears49), dizziness35, 37, 49), gait and balance instability44, 59) and incontinence64), among others. There
+were also structural spinal changes reported beyond lordosis and AHT changes such as reduction of cervical spondylolis-
+thesis40, 60), improved clivo-axial angle35), as well as reduction of forward head translation and increased lordosis in patients
+having presence of partial cervical spine fusion52, 55). One case featured the documentation of telomere lengthening after
+cervical lordosis and AHT improvement after 36 treatments over 5-months57).
+    The summarized data indicate there is a 0.35° improvement in cervical lordosis per treatment; therefore, on average, it
+takes 3 treatments to create 1° of lordosis improvement. It is important to acknowledge that this is exactly on par with the
+results from clinical trials on these methods that show an average of 14° improvement over 30–40 treatments20) (Table 3).
+Thus, a properly conducted case report may reflect the results from a carefully conducted randomized trial for these methods.
+    It is also important to appreciate that the cases listed in Table 1 represent a diverse population affected by varied pathologi-
+cal conditions. It can be cautiously concluded that extension traction methods aimed to improve the cervical lordosis and
+reduce AHT as part of a multimodal rehabilitation program appears to be universally successful across genders, adult age
+groups, and pathological complaints. Further, it appears cervical lordosis and other radiographic parameter improvements
+as well as the corresponding pain relief and disability improvements are stable and lasting when an average maintenance
+program of 2× per month is continued after the initial intensive corrective care (Table 2).
+    Neck pain and headache improvement after cervical spine treatment including improved radiographic sagittal plane align-
+ment has a direct link of causation in the current literature. Harrison et al., for example, were able to differentiate symptomatic
+neck pain patients from asymptomatic volunteers statistically by discriminant analysis13). In their study13), chronic neck
+pain and acute neck pain sufferers had an average cervical lordosis of 22° and 28.6° (C2-7 posterior tangents), respectively.
+McAviney et al. determined that patients having neck curves (C2-7 posterior tangents) less than 20° had twice the likelihood
+of experiencing neck pain, and patients having a curve less than 0° (straight and kyphotic curves) had an 18× likelihood of
+experiencing neck pain16). Also, forward head position which can occur with loss of lordosis is associated with neck pain72).
+    Regarding loss of cervical lordosis and anterior head translation being linked to headache, there is accumulating evidence
+supporting a direct relationship17, 73–76). In fact, a review by Mingels et al. found that “contemporary review of neuroana-
+tomical, biomechanical and non-nociceptive pathways, with integration of modern pain neuroscience in tension-type and
+cervicogenic headache, supports spinal posture as a trigger for episodic headache”74). Specifically, they determined that poor
+posture can activate C1-C3 nociceptors and that “convergence with trigeminal afferents at the trigeminocervical nucleus
+could explain spinal headache”74). It is consistently reported that headache sufferers have loss of cervical lordosis73) and
+forward head postures75, 76).
+    The data summarized in this review points to the cervical lordosis and AHT as being important biomechanical parameters
+(i.e. biomarkers) that may have implications for the treatment of conditions other than the common craniocervical pathologies
+of neck pain and headache. One plausible explanation for this is through the biomechanical effects of cervical subluxation
+on the central nervous system. Any flexion (loss of lordosis) of the cervical spine causes a simultaneous elongation of the
+cervical spinal canal10); in turn, an increased strain is exerted onto the ‘pons-cord tract’ which includes the spinal cord, its
+
+
+                                                                                                                                765
+                                            Table 3. Summary of clinical trial details using CBP extension traction in the improvement of cervical lordosis
+                                            Publication     Cohort & treatment                                                       Radiographic
+                                                                                                                                                                                                  Pain intensity          Disability scores               Other outcome measures
+                                            details                   details                                                          measures
+                                                                                                                                                                                                                                                           Post-treatment & long-
+                                                                                 Exp/                            No. of Duration Pre-post Lordosis      f/u    Pre-post     AHT         f/u     Pre-post   Pain    f/u   Pre-post Disability    f/u          term treatment grp        f/u
+                                            Author    Year Condition                         n        Age (SD)
+                                                                                control                           txts   of txt   lordosis increase lordosis    AHT       reduction    AHT      nk Pain reduction pain disability reduction disability     Improvements in other       time
+                                                                                                                                                                                                                                                             outcome measures
+                                            RCTs
+                                            Moustafa 2021 Asymptomatic            E       40 (15 f) 21.5 (2.7)    30     2.5 m    4.2°/18.1    13.9°   17.9°   24 mm/     13.9 mm 11.8 mm         n/a       n/a    n/a      n/a       n/a       n/a      Improved amplitudes of        3m
+                                                                                                                                                               10.1 mm                                                                                   N13, P14, N20, P27,
+                                                                                  C       40 (17 f) 23.9 (3.1)    30     2.5 m    4.2°/4.3°    0.1°    5.1°    23 mm/     0.3 mm      24 mm       n/a       n/a    n/a      n/a       n/a       n/a      N30 potetials and connduc-    3m
+                                                                                                                                                               22.7 mm                                                                                   tion time N13-N20
+                                            Moustafa 2021 Cervicogenic            E       30 (10 f) 43.1 (8)      30     2.5 m    5.6°/18.9°   13.3°   17.7°   25.6 mm/   19.2 mm     8.1 mm      n/r       n/r    n/r   78.8/45.8     33      15.6      Improved headache fre-        24 m
+
+
+
+
+J. Phys. Ther. Sci. Vol. 34, No. 11, 2022
+                                                           headache                                                                                            6.4 mm                                                                                    quency, headache impact
+                                                                                  C       30 (12 f) 41.9 (7)      30     2.5 m    7.2°/7.1°    −0.1    6.1°    27.2 mm/   0.3 mm      28.7 mm     n/r       n/r    n/r   79.9/47.8    32.1     67.3      test-6, daily defined dose    24 m
+                                                                                                                                                               26.9 mm                                                    (HDI)
+                                            Moustafa 2021 Chronic non-            E       55 (25 f)    20 (3)     30     2.5 m    5.3°/20°     14.7°   19.4°   36 mm/      25 mm      13 mm     5.5/1.9     3.6    1.3   33.7/20.6    13.1     10.9      Improved balance, head        12 m
+                                                           specific                                                                                             11 mm                                                                                    reposiitioning, smooth
+                                                           neck pain              C       55 (26 f)    21 (4)     30     2.5 m    5.8°/6.9°    1.1°    5.7°    30 mm/      1 mm       29 mm     5.3/2.1     3.2    4.2   32.2/21.0    11.2     26.1      pursuiit neck torsion,        12 m
+                                                                                                                                                                29 mm                                                     (NDI)                          autonomic function
+                                            Moustafa 2018 Cervical                E       60 (20 f) 33.1 (8)      30     2.5 m    <25°/n/r      n/r     n/r      n/r         n/r        n/r     5.3/1.4     3.9    0.4   35.7/23.3    12.4     17.4      Improved range of motion,     12 m
+                                                           myofascial                                                                                                                                                                                    pain-pressure thresholds,
+                                                           pain syndrome          C       60 (24 f) 31.9 (7)      30     2.5 m    <25°/n/r      n/r     n/r      n/r         n/r        n/r     5.1/1.6     3.5    4.2   35.1/24      11.1     28.5      cervical posture              12 m
+                                            Moustafa 2017 Cervicogenic            E       36 (14 f) 49.3 (4.7)    30     2.5 m    7.5°/21.2°   13.7°   20.9°   35 mm/      25 mm      14 mm     5.7/3.7     2.0    1.2   47.5/23.2    24.3      6.9      Improved dizziness sever-     12 m
+                                                           dizziness                                                                                           0.9 mm                                                                                    ity, frequency, DHI, head
+                                                           Neck pain              C       36 (11 f) 50.4 (4.9)    30     2.5 m    7.2°/6.7°    −0.5°   6.2°    32 mm/      −1 mm      35 mm     5.9/3.6     2.3     6    49.8/24.2    25.6     39.2      repositioning accuracy        12 m
+                                                                                                                                                                33 mm
+                                            Moustafa 2017 Cervical                E       15 (? f)      n/r       30     2.5 m       n/r        n/r     n/r      n/r         n/r        n/r       n/r       n/r    n/r      n/r       n/r       n/r      Improved lordosis, pain,      3m
+                                                           spondylotic                                                                                                                                                                                   DSSEPs, flexion-extension
+                                                           radiculopathy          C       15 (? f)      n/r       30     2.5 m       n/r        n/r     n/r      n/r         n/r        n/r       n/r       n/r    n/r      n/r       n/r       n/r      kinematics                    3m
+                                            Moustafa 2016 Cervical                E       30 (11 f) 41.5 (3.7)    30     2.5 m    6.5°/19.7°   13.1°   19.2°   25.4 mm/   13.3 mm 15.1 mm 5.1/1.3           3.8    0.5   20.2/7.7     12.5       4       Improved arm pain,            12 m
+                                                           discogenic                                                                                          13.0 mm                                                                                   DSSEPs, central somato-
+                                                           radiculopathy          C       30 (12 f) 43.9 (6.2)    30     2.5 m    6.5°/6.7°    0.2°    6.8°    24.4 mm/   0.9 mm      24.1 mm 4.7/1.2       3.5    3.9   20.6/12.9    7.7       20       sensory conduction time       12 m
+                                                                                                                                                               23.5 mm
+                                            Moustafa 2013 Fibromyalgia            E       40 (10 f) 54.3 (7)      36      3m      6.6°/19.4°   12.8°   18.3°   27.9 mm/   13.4 mm 14.9 mm 5.2/3.2           2.0    2.9   70.9/44.1    26.8      9.3      Improved 3D posture,          12 m
+                                                                                                                                                               14.5 mm                                                                                   algometry, QOL, fatigue,
+                                                                                  C       40 (12 f) 52.2 (6)      36      3m      7.5°/7.2°    −0.4°   5.5°    27 mm/      7.9 mm     21.2 mm 4.6/3.1       1.5    4.7   71.3/43.6    27.7     47.9      depression, anxiety, sleep,   12 m
+                                                                                                                                                               19.1 mm                                                                                   fibromyalgia
+                                             RCT: randomized controlled trial; nRCT: non-randomized controlled trial; AHT: anterior head translation; f/u: follow-up; E: experimental group; C: control group.
+
+
+
+
+766
+      Table 3. Continued
+      Publication     Cohort & treatment                                                   Radiographic
+                                                                                                                                                        Pain intensity          Disability scores              Other outcome measures
+      details                details                                                         measures
+                                                                                                                                                                                                                Post-treatment & long-
+                                        Exp/                            No. of Duration Pre-post Lordosis     f/u     Pre-post     AHT         f/u   Pre-post    Pain    f/u   Pre-post Disability   f/u          term treatment grp      f/u
+      Author    Year Condition                      n        Age (SD)
+                                       control                           txts   of txt   lordosis increase lordosis    AHT       reduction    AHT    nk Pain reduction pain disability reduction disability     Improvements in other    time
+                                                                                                                                                                                                                  outcome measures
+      nRCTs
+      Harrison 2003 Chronic neck         E       33 (14 f)     36.0      38     3.75 m    4.2°/    17.9°    22.0°     24.9 mm/   9.5 mm      15.0 mm 4.1/1.1      3.0    n/r     n/r        n/r      n/r                                 14 m
+                     pain                                     (14.2)                      22.1°                       15.4 mm
+                                         C       30 (14 f)     37.0       0      n/a     10.2°/     0.9°      n/r     23.1 mm/   0.8 mm        n/r    3.5/3.4     0.1    n/r     n/r        n/r      n/r                                 8.5 m
+                                                              (11.1)                      11.1°                       22.4 mm
+      Harrison 2002 Chronic neck         E       30 (25 f)     33.1      35     2.25 m   12.4°/    14.2°    22.9°     22.1 mm/   6.2 mm      15.3 mm 4.3/1.6      2.7    n/r     n/r        n/r      n/r                                 15.5 m
+                     pain                                     (14.3)                      26.6°                       15.9 mm
+                                         C       24 (13 f)     35.1       0      n/a      9.9°/     0.9°      n/r       n/r         n/r        n/r    3.6/3.8    −0.2    n/r     n/r        n/r      n/r                                  8m
+                                                              (13.9)                      10.8°
+      Harrison 1994 n/s                  E1      35 (11 f)     34.5      60      3m       14.5°/   13.2°      n/r     19.5 mm/   6.8 mm        n/r      n/r       n/r    n/r     n/r        n/r      n/r      Reliability assessment     none
+                     (hypolordosis)                           (10.9)                      27.7°                       12.7 mm                                                                                 of X-ray markings by 3
+                                         E2      30 (20 f)     35.8      60      3m       18.7°/    1.2°      n/r     21.3 mm/   2.0 mm        n/r      n/r       n/r    n/r     n/r        n/r      n/r      examiners                  none
+                                                              (12.5)                      19.9°                       19.3 mm
+                                         C       30 (17 f)     34.8       0      n/a     18.2°/     2.9°      n/r     20.9 mm/   0.5 mm        n/r      n/r       n/r    n/r     n/r        n/r      n/r                                 none
+                                                              (11.1)                      21.2°                       20.4 mm
+       RCT: randomized controlled trial; nRCT: non-randomized controlled trial; AHT: anterior head translation; f/u: follow-up; E: experimental group; C: control group.
+
+
+
+
+767
+nerve roots as well as the brainstem including cranial nerves V-XII77, 78). Under these conditions, normal physiologic tension
+within the spinal cord may exceed some threshold where normal movements of the head and neck (e.g. flexion) will exert
+pathologic tension onto the cord, impeding (slowing or altering) its neuro-conduction directly and/or indirectly by limiting
+its blood flow10, 77, 78). Thus, this ‘dynamic strain’ may elicit symptoms consistent with various disease states including
+radiculopathies, myelopathies, dizziness79) or contribute to poor sensorimotor control80) and affect balance, gait and other
+activities of daily living. In support of this mechanical tension phenomenon of altered spinal cord function, Moustafa et al.21)
+recently, using somato-sensory evoked potentials, identified that correction of cervical lordosis and reduction of AHT was
+linearly related to increased central conduction speed (spinal cord velocity); results were maintained at a 3-month follow up.
+    Since the diagnosis of alterations of cervical lordosis is not widely recognized by the medical community81) and due to the
+fact that many manual therapists do not routinely X-ray their patients, many patients will not be appropriately biomechani-
+cally diagnosed with cervical spine subluxation and therefore, their spine deformity will not be treated and it will persist
+despite short-term relief from ‘black-box treatment’ procedures20, 26). In fact, as discussed recently20, 26), the Moustafa trials
+have exposed the trend that many physiotherapeutic treatments that provide temporary pain relief fail to provide lasting
+benefits; in other words, the patients’ pain levels regress towards baseline after treatment cessation. Alternatively, patients
+who receive treatment that includes a form of extension traction to restore lordotic alignment and reduce AHT, who present
+with hypolordosis, experience relief of symptoms that remains up to 2 years22). This trend points to the cervical lordosis and
+sagittal postural alignment as being important biomechanical biomarkers in those who suffer from craniocervical disorders,
+as has been suggested in the treatment of headaches31), dizziness37) and whiplash associated disorders50).
+    There are limitations to this review. The fact that we included only case studies/series in this review, dictated that no
+statistical analysis could be performed other than simple averages. Also, the case studies documented real clinical practice
+and therefore, multiple treatments were performed concurrently on the patient. This conceals which specific aspects of the
+treatment regimen contributed to the improvement in lordosis, reduction in AHT, and also to the relief of the patient. As
+previously mentioned, and discussed elsewhere26), the series of randomized trials by Moustafa and colleagues has proven
+that targeted cervical extension traction results in lordosis and AHT improvements as well as long-lasting symptomatic relief
+in patients despite discontinuing treatment.
+    Further limitations include the distinction between primary conditions treated versus clinical outcomes achieved. For
+instance, a patient with osteoarthritis of the cervical spine may have had a successful outcome (i.e. improved lordosis, less
+pain) but remains osteoarthritic (i.e. Fortner et al.51)). Alternatively, many patients did have improvement or ‘cure/remission’
+to their primary complaint, for example Breton et al.43) (carpal tunnel syndrome), Fortner et al.49) (Dizziness), etc; these
+distinctions must be carefully determined from studying the Table 1−‘Other outcomes’. Obviously, caution should be taken
+to not assume a long-term resolution of the patient condition particularly when no follow-up was reported. Last, since this
+review simply summarized reports using averages, cautious interpretation of results are suggested, particularly as these cases
+are not ‘controlled’ as in higher evidential controlled trials.
+    Future case reports describing CBP protocols used to increase cervical lordosis and reduce AHT should ensure use of
+standardized symptom, disability, and functional rating scales, fully describe the traction method and other treatment proce-
+dures and include a follow-up period of at least 6-months to a year. Cases should also report all radiographic measurements
+including lordosis, anterior head translation and atlas plane line. Further, future cases should also characterize the cervical
+lordosis in relation to both the T1-sagittal slope and to the thoracic inlet morphology which is a unique anatomical variable
+known to influence the amount of cervical lordosis that a given spine can achieve. The thoracic inlet morphology and T1-
+slope relative to the cervical lordosis are known alignment variables that predict initial and post treatment outcomes. In fact,
+no CBP case reported a modification to the cervical lordosis goal of care in order to provide a patient-specific customization
+from the default ‘ideal’ curve82, 83). This is perhaps the most significant criticism of more recent case reports. Last, future
+cases should report on 3–10 consecutive patients with the same condition, the same general age and gender, and follow the
+same protocols and procedures; this would make the outcomes more meaningful having greater evidential impact.
+
+Conflict of interest
+   Dr. Paul Oakley (PAO) is a paid consultant for CBP NonProfit, Inc.; Dr. Deed Harrison (DEH) teaches chiropractic
+rehabilitation methods and sells products to physicians for patient care as used in this manuscript.
+
+
+                                                                    REFERENCES
+
+1)   Scheer JK, Lau D, Ames CP: Sagittal balance of the cervical spine. J Orthop Surg (Hong Kong), 2021, 29: 23094990211024454. [Medline] [CrossRef]
+2)   Scheer JK, Lau D, Smith JS, et al.: Alignment, classification, clinical evaluation, and surgical treatment for adult cervical deformity: a complete guide. Neu-
+     rosurgery, 2021, 88: 864–883. [Medline] [CrossRef]
+3)   Protopsaltis TS, Scheer JK, Terran JS, et al. International Spine Study Group: How the neck affects the back: changes in regional cervical sagittal alignment
+     correlate to HRQOL improvement in adult thoracolumbar deformity patients at 2-year follow-up. J Neurosurg Spine, 2015, 23: 153–158. [Medline] [CrossRef]
+4)   Ames CP, Blondel B, Scheer JK, et al.: Cervical radiographical alignment: comprehensive assessment techniques and potential importance in cervical my-
+     elopathy. Spine, 2013, 38: S149–S160. [Medline] [CrossRef]
+
+
+
+
+J. Phys. Ther. Sci. Vol. 34, No. 11, 2022                                                                                                                     768
+5)    Scheer JK, Tang JA, Smith JS, et al. International Spine Study Group: Cervical spine alignment, sagittal deformity, and clinical implications: a review. J Neu-
+      rosurg Spine, 2013, 19: 141–159. [Medline] [CrossRef]
+6)    Ling FP, Chevillotte T, Leglise A, et al.: Which parameters are relevant in sagittal balance analysis of the cervical spine? A literature review. Eur Spine J, 2018,
+      27: 8–15. [Medline] [CrossRef]
+7)    Pal GP, Sherk HH: The vertical stability of the cervical spine. Spine, 1988, 13: 447–449. [Medline] [CrossRef]
+8)    Panjabi MM, Oda T, Crisco JJ 3rd, et al.: Posture affects motion coupling patterns of the upper cervical spine. J Orthop Res, 1993, 11: 525–536. [Medline]
+      [CrossRef]
+9)    Khalil N, Bizdikian AJ, Bakouny Z, et al.: Cervical and postural strategies for maintaining horizontal gaze in asymptomatic adults. Eur Spine J, 2018, 27:
+      2700–2709. [Medline] [CrossRef]
+10)   Breig A: Adverse mechanical tension in the central nervous system. Analysis of cause and effect. Relief by functional neurosurgery. Stockholm: Almqvist &
+      Wiksell International, 1978.
+11)   Bagnall KM, Harris PF, Jones PR: A radiographic study of the human fetal spine. 1. The development of the secondary cervical curvature. J Anat, 1977, 123:
+      777–782. [Medline]
+12) Guo GM, Li J, Diao QX, et al.: Cervical lordosis in asymptomatic individuals: a meta-analysis. J Orthop Surg Res, 2018, 13: 147. [Medline] [CrossRef]
+13)   Harrison DD, Harrison DE, Janik TJ, et al.: Modeling of the sagittal cervical spine as a method to discriminate hypolordosis: results of elliptical and circular
+      modeling in 72 asymptomatic subjects, 52 acute neck pain subjects, and 70 chronic neck pain subjects. Spine, 2004, 29: 2485–2492. [Medline] [CrossRef]
+14)   Grosso MJ, Hwang R, Mroz T, et al.: Relationship between degree of focal kyphosis correction and neurological outcomes for patients undergoing cervical
+      deformity correction surgery. J Neurosurg Spine, 2013, 18: 537–544. [Medline] [CrossRef]
+15) Norris SH, Watt I: The prognosis of neck injuries resulting from rear-end vehicle collisions. J Bone Joint Surg Br, 1983, 65: 608–611. [Medline] [CrossRef]
+16) McAviney J, Schulz D, Bock R, et al.: Determining the relationship between cervical lordosis and neck complaints. J Manipulative Physiol Ther, 2005, 28:
+      187–193. [Medline] [CrossRef]
+17) Nagasawa A, Sakakibara T, Takahashi A: Roentgenographic findings of the cervical spine in tension-type headache. Headache, 1993, 33: 90–95. [Medline]
+      [CrossRef]
+18)   Buell TJ, Buchholz AL, Quinn JC, et al.: Importance of sagittal alignment of the cervical spine in the management of degenerative cervical myelopathy. Neu-
+      rosurg Clin N Am, 2018, 29: 69–82. [Medline] [CrossRef]
+19)   Moustafa IM, Diab AA, Harrison DE: The effect of normalizing the sagittal cervical configuration on dizziness, neck pain, and cervicocephalic kinesthetic
+      sensibility: a 1-year randomized controlled study. Eur J Phys Rehabil Med, 2017, 53: 57–71. [Medline] [CrossRef]
+20) Oakley PA, Ehsani NN, Moustafa IM, et al.: Restoring cervical lordosis by cervical extension traction methods in the treatment of cervical spine disorders: a
+      systematic review of controlled trials. J Phys Ther Sci, 2021, 33: 784–794. [Medline] [CrossRef]
+21)   Moustafa IM, Diab AA, Hegazy F, et al.: Demonstration of central conduction time and neuroplastic changes after cervical lordosis rehabilitation in asymp-
+      tomatic subjects: a randomized, placebo-controlled trial. Sci Rep, 2021, 11: 15379. [Medline] [CrossRef]
+22) Moustafa IM, Diab A, Shousha T, et al.: Does restoration of sagittal cervical alignment improve cervicogenic headache pain and disability: a 2-year pilot
+      randomized controlled trial. Heliyon, 2021, 7: e06467. [Medline] [CrossRef]
+23) Moustafa I, Youssef AS, Ahbouch A, et al.: Demonstration of autonomic nervous function and cervical sensorimotor control after cervical lordosis rehabilita-
+      tion: a randomized controlled trial. J Athl Train, 2021, 56: 427–436. [Medline] [CrossRef]
+24) Harrison DD, Janik TJ, Harrison GR, et al.: Chiropractic biophysics technique: a linear algebra approach to posture in chiropractic. J Manipulative Physiol
+      Ther, 1996, 19: 525–535. [Medline]
+25) Oakley PA, Harrison DD, Harrison DE, et al.: Evidence-based protocol for structural rehabilitation of the spine and posture: review of clinical biomechanics
+      of posture (CBP) publications. J Can Chiropr Assoc, 2005, 49: 270–296. [Medline]
+26) Oakley PA, Moustafa IM, Harrison DE: Restoration of cervical and lumbar lordosis: CBP® methods overview. In: Bettany–Saltikov J (ed.) Spinal deformities
+      in adolescents, adults and older adults. London: IntechOpen, 2019.
+27) www.cbpnonprofit.com/publications/.
+28) Nuckols TK, Lim YW, Wynn BO, et al.: Rigorous development does not ensure that guidelines are acceptable to a panel of knowledgeable providers. J Gen
+      Intern Med, 2008, 23: 37–44. [Medline] [CrossRef]
+29) Rome P, Waterhouse JD: An evidence-based narrative of the evidence-base concept. Asia-Pacific Chiropr J, 2020, 1: 004.
+30) Ebrall P, Doyle M: The value of case reports as clinical evidence. Chiropr J Aust, 2020, 47: 29–43.
+31)   Fortner MO, Woodham TJ, Oakley PA, et al.: Is the cervical lordosis a key biomechanical biomarker in cervicogenic headache?: a Chiropractic Biophysics®
+      case report with follow-up. J Phys Ther Sci, 2022, 34: 167–171. [Medline] [CrossRef]
+32)   Jaeger J, Moore R, Smith W, et al.: Synergistic treatment methods of structural rehabilitation (CBP®) and neurosurgery maximizing pre- and post-operative
+      cervical lordosis ad patient outcome in cervical total disc replacement. J Contemp Chiropr, 2022, 5: 1–6.
+33)   Chu EC: Preventing the progression of text neck in a young man: a case report. Radiol Case Rep, 2022, 17: 978–982. [Medline] [CrossRef]
+34) Chu EC, Leung KY, Ng LL, et al.: Vascular thoracic outlet syndrome: a case report. J Contemp Chiropr, 2021, 4: 142–145.
+35) Chu EC, Zoubi FA, Yang J: Cervicogenic dizziness associated with craniocervical instability: a case report. J Med Cases, 2021, 12: 451–454. [Medline] [Cross-
+      Ref]
+36) Berry RH, Oakley PA, Harrison DE: Is one cause of trigeminal neuralgia subluxation of craniocervical posture? A CBP® case report. J Contemp Chiro, 2020,
+      3: 28–35.
+37) Gerstin G, Oakley PA, Harrison DE: The treatment of dizziness by improving cervical lordosis: a Chiropractic BioPhysics® case report. J Phys Ther Sci, 2020,
+      32: 864–868. [Medline] [CrossRef]
+38) Fortner MO, Oakley PA, Harrison DE: Cervical lordosis restoration for late whiplash syndrome alleviates chronic headaches 13-years after motor vehicle col-
+      lision: a CBP® case report with a 1-year follow-up. J Contemp Chiro, 2020, 3: 21–27.
+39) Chu EC, Lo FS, Bhaumik A: Plausible impact of forward head posture on upper cervical spine stability. J Family Med Prim Care, 2020, 9: 2517–2520. [Med-
+      line] [CrossRef]
+
+
+
+                                                                                                                                                                    769
+40) Fedorchuk C, Lightstone DF, Comer RD, et al.: Improvements in cervical spinal canal diameter and neck disability following correction of cervical lordosis
+      and cervical spondylolistheses using Chiropractic BioPhysics technique: a case series. J Radiol Case Rep, 2020, 14: 21–37. [Medline]
+41)   Spriggs M: Resolution of chronic migraines & disability with improved physical, social and psychological functioning following chiropractic care using CBP®
+      protocols: case study & review of the literature. Ann Vert Sublux Res, 2019, 66–78.
+42) Fortner MO, Oakley PA, Harrison DE: Chiropractic Biophysics management of straight back syndrome and exertional dyspnea: a case report with follow-up.
+      J Contemp Chiropr, 2019, 2: 115–122.
+43)   Breton PY, Oakley PA, Harrison DE: Complete resolution of carpal tunnel syndrome after relieving the ‘first crush’ in ‘double crush syndrome’ by improving
+      the cervical spine posture: a CBP® case report. J Contemp Chiropr, 2018, 2: 49–53.
+44) Anderson JM, Oakley PA, Harrison DE: Improving posture to reduce the symptoms of Parkinson’s: a CBP® case report with a 21 month follow-up. J Phys Ther
+      Sci, 2019, 31: 153–158. [Medline] [CrossRef]
+45) Chu EC, Chu V, Lin AF: Cervicogenic headache alleviating by spinal adjustment in combination with extension-compression traction. Arch Clin Med Case
+      Rep, 2019, 3: 269–273.
+46) Dennis AK, Oakley PA, Weiner MT, et al.: Alleviation of neck pain by the non-surgical rehabilitation of a pathologic cervical kyphosis to a normal lordosis: a
+      CBP® case report. J Phys Ther Sci, 2018, 30: 654–657. [Medline] [CrossRef]
+47) Weiner MT, Oakley PA, Dennis AK, et al.: Increasing the cervical and lumbar lordosis is possible despite overt osteoarthritis and spinal stenosis using exten-
+      sion traction to relieve low back and leg pain in a 66-year-old surgical candidate: a CBP® case report. J Phys Ther Sci, 2018, 30: 1364–1369. [Medline] [Cross-
+      Ref]
+48) Fortner MO, Oakley PA, Harrison DE: Alleviation of chronic spine pain and headaches by reducing forward head posture and thoracic hyperkyphosis: a CBP®
+      case report. J Phys Ther Sci, 2018, 30: 1117–1123. [Medline] [CrossRef]
+49) Fortner MO, Oakley PA, Harrison DE: Alleviation of posttraumatic dizziness by restoration of the cervical lordosis: a CBP® case study with a one year follow-
+      up. J Phys Ther Sci, 2018, 30: 730–733. [Medline] [CrossRef]
+50) Fortner MO, Oakley PA, Harrison DE: Cervical extension traction as part of a multimodal rehabilitation program relieves whiplash-associated disorders in a
+      patient having failed previous chiropractic treatment: a CBP® case report. J Phys Ther Sci, 2018, 30: 266–270. [Medline] [CrossRef]
+51)   Fortner MO, Oakley PA, Harrison DE: Non-surgical improvement of cervical lordosis is possible in advanced spinal osteoarthritis: a CBP® case report. J Phys
+      Ther Sci, 2018, 30: 108–112. [Medline] [CrossRef]
+52)   Harrison DE, Oakley PA, Betz JW: Anterior head translation following cervical fusion-a probable cause of post-surgical pain and impairment: a CBP® case
+      report. J Phys Ther Sci, 2018, 30: 271–276. [Medline] [CrossRef]
+53)   Betz JW, Oakley PA, Harrison DE: Relief of exertional dyspnea and spinal pains by increasing the thoracic kyphosis in straight back syndrome (thoracic hypo-
+      kyphosis) using CBP® methods: a case report with long-term follow-up. J Phys Ther Sci, 2018, 30: 185–189. [Medline] [CrossRef]
+54) Wickstrom BM, Oakley PA, Harrison DE: Non-surgical relief of cervical radiculopathy through reduction of forward head posture and restoration of cervical
+      lordosis: a case report. J Phys Ther Sci, 2017, 29: 1472–1474. [Medline] [CrossRef]
+55) Fedorchuk C, Lightstone DF, Andino H: Failed neck surgery: improvement in neck pain, migraines, energy levels, and performance of activities of daily living
+      following subluxation correction using Chiropractic BioPhysics® technique: a case study. Ann Vert Sublux Res, 2017, 93–100.
+56) Fedorchuk C, Lightstone D, Moser JH: Improvement in symptoms, cervical alignment & quality of life in a 40-year-old female with fibromyalgia following
+      Chiropractic BioPhysics® technique: a case study and selective review of literature. Ann Vert Sublux Res, 2017, 34–46.
+57) Fedorchuk C, Lightstone DF, McCoy M, et al.: Increased telomere length and improvements in dysautonomia, quality of life, and neck and back pain following
+      correction of sagittal cervical alignment using Chiropractic BioPhysics® technique: a case study. J Mol Genet Med, 2017, 11: 1–5.
+58) Oakley PA, Harrison DE, Haas JW, et al.: Positive outcome with Tourette Syndrome and chronic tic disorder following chiropractic intervention: a Chiroprac-
+      tic Biophysics® (CBP) case report with a 13-year follow-up. Chiropr J Aust, 2017, 45: 368–376.
+59) Oakley P, Harrison D: Restoration of barefoot gait in a 75-year old female with cervical spondylotic myelopathy: a case report utilizing Chiropractic BioPhysics
+      (CBP®) technique. Chiropr J Aust, 2017, 45: 16–27.
+60) Fedorchuk C, Lightstone D: Reduction in cervical anterolisthesis & pain in a 52-year-old female using Chiropractic BioPhysics® Technique: a case study and
+      selective review of literature. Ann Vert Sublux Res, 2016, 118–124.
+61)   Bak DA, Engelhardt RP: Improvement in cervical curve and hypothyroidism following reduction of subluxation utilizing Chiropractic Biophysics: a case study
+      & selective review of the literature. Ann Vert Sublux Res, 2015: 226–237.
+62) Cardwell A, Barone B: Improved health outcomes following reduction of vertebral subluxation and improved cervical and lumbar curves utilizing chiropractic
+      biophysics protocol. Ann Vert Sublux Res, 2014, 113–128.
+63) Fedorchuk C, Mohammed H: Improvement in GERD following reduction of vertebral subluxations & improved sagittal alignment utilizing Chiropractic
+      Biophysics protocol. Ann Vert Sublux Res, 2014, 99–109.
+64) Jaeger J, Moore R, Burkhardt L: Resolution of urinary incontinence following Chiropractic BioPhysics protocol to reduce vertebral subluxations. Ann Vert
+      Sublux Res, 2014, 145–152.
+65) Shapiro DA, Pickrell N: Chiropractic care of a patient with Parkinson’s disease utilizing Chiropractic BioPhysics: a case study. Ann Vert Sublux Res, 2012,
+      31–40.
+66) Fedorchuk C, Burk L, Phillips SL: Reduction in cholesterol and improved quality of life in a patient with dyslipidemia undergoing chiropractic care: a case
+      study. Ann Vert Sublux Res, 2011, 26–36.
+67) Oakley PA, Berry RH, Harrison DE: A structural approach to the postsurgical laminectomy case. J Vert Sublux Res, 2007, 1–7.
+68) Haas JW, Harrison DE, Harrison DD, et al.: Conservative treatment of a patient with syringomyelia using chiropractic biophysics protocols. J Manipulative
+      Physiol Ther, 2005, 28: 452. [Medline] [CrossRef]
+69) Ferrantelli JR, Harrison DE, Harrison DD, et al.: Conservative treatment of a patient with previously unresponsive whiplash-associated disorders using clinical
+      biomechanics of posture rehabilitation methods. J Manipulative Physiol Ther, 2005, 28: e1–e8. [Medline] [CrossRef]
+70) Colloca CJ, Polkinghorn BS: Chiropractic management of Ehlers-Danlos syndrome: a report of two cases. J Manipulative Physiol Ther, 2003, 26: 448–459.
+      [Medline] [CrossRef]
+
+
+
+J. Phys. Ther. Sci. Vol. 34, No. 11, 2022                                                                                                                      770
+71)   Shahar D, Sayers MG: Changes in the sagittal cranio-cervical posture following a 12-week intervention using a simple spinal traction device. Spine, 2019, 44:
+      447–453. [Medline] [CrossRef]
+72) Mahmoud NF, Hassan KA, Abdelmajeed SF, et al.: The relationship between forward head posture and neck pain: a systematic review and meta-analysis. Curr
+      Rev Musculoskelet Med, 2019, 12: 562–577. [Medline] [CrossRef]
+73) Vernon H, Steiman I, Hagino C: Cervicogenic dysfunction in muscle contraction headache and migraine: a descriptive study. J Manipulative Physiol Ther,
+      1992, 15: 418–429. [Medline]
+74) Mingels S, Dankaerts W, Granitzer M: Is there support for the paradigm ‘spinal posture as a trigger for episodic headache’? A comprehensive review. Curr
+      Pain Headache Rep, 2019, 23: 17. [Medline] [CrossRef]
+75) Fernández-de-Las-Peñas C, Cuadrado ML, Pareja JA: Myofascial trigger points, neck mobility and forward head posture in unilateral migraine. Cephalalgia,
+      2006, 26: 1061–1070. [Medline] [CrossRef]
+76) Fernández-de-Las-Peñas C, Cuadrado ML, Pareja JA: Myofascial trigger points, neck mobility, and forward head posture in episodic tension-type headache.
+      Headache, 2007, 47: 662–672. [Medline] [CrossRef]
+77) Breig A: Biomechanics of the central nervous system. Stockholm: Almqvist & Wiksell International, 1960.
+78) Panjabi M, White A 3rd: Biomechanics of nonacute cervical spinal cord trauma. Spine, 1988, 13: 838–842. [Medline] [CrossRef]
+79) Fife TD, Giza C: Posttraumatic vertigo and dizziness. Semin Neurol, 2013, 33: 238–243. [Medline] [CrossRef]
+80) Moustafa IM, Youssef A, Ahbouch A, et al.: Is forward head posture relevant to autonomic nervous system function and cervical sensorimotor control? Cross
+      sectional study. Gait Posture, 2020, 77: 29–35. [Medline] [CrossRef]
+81)   Oakley PA, Sanchez LJ, Harrison DE: Medical radiologists may not consider the cervical lordosis in radiology reports: a comparison of subjective qualitative
+      assessment versus object quantitative mensuration in 100 consecutive patients at one medical imaging center. J Contemp Chiropr, 2021, 4: 17–25.
+82) Lin T, Chen P, Wang Z, et al.: Does cervical sagittal balance affect the preoperative neck disability index in patients with cervical myelopathy? Clin Spine Surg,
+      2020, 33: E21–E25. [Medline] [CrossRef]
+83) Xu GY, Lu X, Zhang YX, et al.: The relationship between preoperative cervical sagittal balance and clinical outcome of acute traumatic central cord syndrome.
+      World Neurosurg, 2022, 162: e468–e474. [Medline] [CrossRef]
+
+
+
+
+                                                                                                                                                                771
+

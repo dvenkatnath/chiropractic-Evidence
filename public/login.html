@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CBP Research Network — Sign In</title>
+<style>
+  :root{
+    --bg:#0a1020; --panel:rgba(255,255,255,.045); --panel2:rgba(255,255,255,.07);
+    --border:rgba(255,255,255,.09); --text:#e8eefc; --muted:#8fa3c8;
+    --cyan:#38bdf8; --violet:#a78bfa; --green:#34d399; --amber:#fbbf24; --rose:#fb7185;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:radial-gradient(1200px 600px at 80% -10%, #12325a55, transparent),
+       radial-gradient(900px 500px at -10% 110%, #3b0f5e44, transparent), var(--bg);
+       color:var(--text); font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+       min-height:100vh; display:flex; align-items:center; justify-content:center; padding:20px}
+  .card{width:100%; max-width:420px; background:rgba(255,255,255,.045); border:1px solid var(--border);
+        border-radius:16px; padding:36px 32px}
+  .logo{display:flex; align-items:center; gap:12px; margin-bottom:22px}
+  .logomark{width:40px;height:40px;border-radius:11px;background:linear-gradient(135deg,var(--cyan),var(--violet));
+    display:flex;align-items:center;justify-content:center;font-weight:800;font-size:14px;color:#071021}
+  h1{font-size:17px;font-weight:700}
+  .sub{font-size:12px;color:var(--muted);margin-top:2px}
+  .badge{display:inline-block;font-size:10.5px;padding:4px 10px;border-radius:20px;border:1px solid #fbbf2466;
+    color:var(--amber);background:#fbbf2412;margin-bottom:20px}
+  label{display:block;font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;
+    margin-bottom:8px;margin-top:18px}
+  select,input{width:100%;background:#0d1830;border:1px solid var(--border);border-radius:10px;
+    padding:12px 14px;color:var(--text);font-size:14px;font-family:inherit}
+  select:focus,input:focus{outline:none;border-color:var(--cyan)}
+  .roledesc{font-size:11.5px;color:var(--muted);margin-top:6px;line-height:1.5}
+  button{width:100%;margin-top:24px;background:linear-gradient(135deg,var(--cyan),var(--violet));
+    border:none;color:#071021;font-weight:800;font-size:14px;padding:13px;border-radius:10px;cursor:pointer}
+  button:hover{opacity:.92}
+  button:disabled{opacity:.5;cursor:default}
+  .error{margin-top:14px;font-size:12.5px;color:var(--rose);display:none}
+  .footer{margin-top:22px;font-size:10.5px;color:#5a6b8f;text-align:center;line-height:1.6}
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="logo">
+      <div class="logomark">RN</div>
+      <div>
+        <h1>CBP Research Network</h1>
+        <div class="sub">Evidence Engine — Proof of Concept</div>
+      </div>
+    </div>
+    <span class="badge">REAL DATA · 9 SOURCE PAPERS</span>
+
+    <label for="role">Sign in as</label>
+    <select id="role"></select>
+    <div class="roledesc" id="roledesc"></div>
+
+    <label for="passcode">Passcode</label>
+    <input type="password" id="passcode" placeholder="Enter your role passcode" autocomplete="off">
+
+    <button id="loginBtn">Sign In</button>
+    <div class="error" id="error"></div>
+
+    <div class="footer">
+      Proof-of-concept access for evaluation.<br>Each role has its own shared passcode — ask your administrator if you don't have yours.
+    </div>
+  </div>
+
+<script>
+const ROLE_DESC = {
+  clinic: "Clinic outcomes vs. network benchmarks, patient follow-up, case documentation.",
+  researcher: "Cohort tools, the real evidence-search engine, and Bayesian synthesis.",
+  network_admin: "Enrollment, retention, and data-quality across all clinics.",
+  executive: "Aggregate outcomes, cost offsets, and coverage-evidence briefs."
+};
+
+const roleSelect = document.getElementById('role');
+const roleDesc = document.getElementById('roledesc');
+const errorEl = document.getElementById('error');
+const btn = document.getElementById('loginBtn');
+const passInput = document.getElementById('passcode');
+
+fetch('/api/roles').then(r => r.json()).then(roles => {
+  roleSelect.innerHTML = roles.map(r => `<option value="${r.key}">${r.label}</option>`).join('');
+  roleDesc.textContent = ROLE_DESC[roleSelect.value] || '';
+});
+
+roleSelect.addEventListener('change', () => {
+  roleDesc.textContent = ROLE_DESC[roleSelect.value] || '';
+});
+
+async function doLogin() {
+  errorEl.style.display = 'none';
+  btn.disabled = true;
+  btn.textContent = 'Signing in…';
+  try {
+    const resp = await fetch('/api/login', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ role: roleSelect.value, passcode: passInput.value })
+    });
+    const data = await resp.json();
+    if (!resp.ok) {
+      errorEl.textContent = data.error || 'Login failed.';
+      errorEl.style.display = 'block';
+      btn.disabled = false;
+      btn.textContent = 'Sign In';
+      return;
+    }
+    window.location.href = '/dashboard.html';
+  } catch (e) {
+    errorEl.textContent = 'Could not reach the server. Please try again.';
+    errorEl.style.display = 'block';
+    btn.disabled = false;
+    btn.textContent = 'Sign In';
+  }
+}
+
+btn.addEventListener('click', doLogin);
+passInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') doLogin(); });
+</script>
+</body>
+</html>

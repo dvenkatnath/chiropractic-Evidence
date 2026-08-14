@@ -1,0 +1,89 @@
+{
+  "note": "Proof-of-concept pooling across the 9 starter papers only. Production system scales this to all 341+ CBP publications plus live registry data. Where a paper reported a precise mean and SD, that real figure is used directly. Where a paper reported only a range (or only a point estimate), a standard deviation was estimated using a documented heuristic and is flagged 'estimated' in the UI. Pediatric and translation(mm)-based studies are shown for reference but excluded from degree-based adult pooling to avoid mixing incompatible populations/units.",
+  "regions": [
+    {
+      "region": "cervical",
+      "label": "Cervical Lordosis (adult)",
+      "unit": "degrees",
+      "studies": [
+        {
+          "paperId": "cervical-traction-2021",
+          "citation": "Oakley et al. 2021, J Phys Ther Sci — systematic review, 9 controlled trials",
+          "n": 299,
+          "mean": 15,
+          "sd": 1.5,
+          "sdSource": "estimated",
+          "sdMethod": "Range/4 heuristic applied to the reported 12–18° pooled trial range (represents between-trial uncertainty in the systematic review's synthesized estimate, not raw patient-level SD)"
+        },
+        {
+          "paperId": "cervical-case-reports-2022",
+          "citation": "Oakley et al. 2022, J Phys Ther Sci — case report review, Table 1",
+          "n": 45,
+          "mean": 14.1,
+          "sd": 9.7,
+          "sdSource": "reported",
+          "sdMethod": "Directly reported in the paper's summary table (real patient-level SD, n=45 cases with ARA measurement)"
+        }
+      ]
+    },
+    {
+      "region": "lumbar",
+      "label": "Lumbar Lordosis (adult)",
+      "unit": "degrees",
+      "studies": [
+        {
+          "paperId": "lumbar-traction-2020",
+          "citation": "Oakley et al. 2020, J Phys Ther Sci — systematic review, 3 controlled trials",
+          "n": 120,
+          "mean": 9,
+          "sd": 1.0,
+          "sdSource": "estimated",
+          "sdMethod": "Range/4 heuristic applied to the reported 7–11° pooled trial range (between-trial uncertainty, not raw patient-level SD)"
+        },
+        {
+          "paperId": "lumbar-case-reports-2022",
+          "citation": "Oakley, Kallan & Harrison 2022, JCC — case report review",
+          "n": 17,
+          "mean": 15,
+          "sd": 10.3,
+          "sdSource": "estimated",
+          "sdMethod": "No SD or range reported in the source paper. Estimated by applying the SD-to-mean ratio observed in the companion cervical case-report paper (9.7/14.1 ≈ 0.69) to this paper's mean — a transparent proxy, not a measured value"
+        }
+      ]
+    },
+    {
+      "region": "thoracic",
+      "label": "Thoracic Kyphosis (adult)",
+      "unit": "degrees",
+      "studies": [
+        {
+          "paperId": "thoracic-hyperkyphosis-2018",
+          "citation": "Oakley & Harrison 2018, JCC — systematic review, 7 included papers",
+          "n": 17,
+          "mean": 12,
+          "sd": 8.3,
+          "sdSource": "estimated",
+          "sdMethod": "No SD or range reported. Estimated using the same case-report SD-to-mean ratio proxy (≈0.69) applied to this paper's mean. Only one usable degree-based data point exists in this 9-paper set for thoracic — shown as a single-study estimate, not a multi-study pool"
+        }
+      ]
+    }
+  ],
+  "excludedFromPooling": [
+    {
+      "paperId": "pediatric-cervical-2022",
+      "reason": "Pediatric population (avg age 8.8) — kept separate from adult cervical pooling to avoid mixing populations with different baseline physiology and response magnitude. Shown as its own reference point: 25° mean increase, n=11."
+    },
+    {
+      "paperId": "lateral-head-translation-2022",
+      "reason": "Outcome measured in millimeters of lateral translation, not degrees of lordosis — a different biomechanical parameter, not directly poolable with the degree-based studies."
+    },
+    {
+      "paperId": "lateral-thoracic-translation-2022",
+      "reason": "Outcome measured in millimeters of lateral translation, not degrees of kyphosis — not directly poolable with the degree-based thoracic study."
+    },
+    {
+      "paperId": "reliability-review-2024",
+      "reason": "Methodology/reliability paper — validates the measurement technique itself, reports no treatment effect size to pool."
+    }
+  ]
+}
